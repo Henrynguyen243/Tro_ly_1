@@ -715,7 +715,7 @@ trong Chính Sách Chi Trả Thù Lao này được hiểu rằng đã bao gồ
 Lý/Quản Lý Đại Lý có nghĩa vụ nộp theo quy định của Pháp Luật. 
 
  
-
+Thu nhập của FC = Hoa hồng + hỗ trợ phát triển doanh số + hột sales + xếp hạng 
  
 Lưu hành nội bộ - Cập nhật tháng 1/2025 11
 
@@ -728,13 +728,13 @@ Lưu hành nội bộ - Cập nhật tháng 1/2025   1
 
       1.1    Hoa Hồng = 30% doanh thu
 
-      Bao gồm Hoa hồng năm 1 (FYC) và Hoa hồng tái tục (RYC).
+      Bao gồm Hoa hồng năm 1 (FYC = 0,3 doanh số)) và Hoa hồng tái tục (RYC).
       Hoa hồng được tính dựa trên loại sản phẩm, thời hạn đóng phí và năm đóng phí của từng sản phẩm.
       Hoa hồng được thanh toán hàng tháng dựa trên các khoản phí bảo hiểm đã nộp và đến hạn đóng phí,
       ngoại trừ trường hợp Hợp Đồng Bảo Hiểm đang ở trong tình trạng tạm ứng từ giá trị hoàn lại/giá trị
       tài khoản hợp đồng để đóng phí bảo hiểm tự động (automatic premium loan).
 
-      1.2    Hỗ Trợ Phát Triển Doanh Số (PB) = thưởng doanh số
+      1.2    Hỗ Trợ Phát Triển Doanh Số (PB) 
 
       Hỗ Trợ Phát Triển Doanh Số sẽ được tính và chi trả hàng tháng nếu thỏa các điều kiện về doanh số
       và TLDTHĐ K2, theo công thức như sau:
