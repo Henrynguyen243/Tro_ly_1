@@ -1,233 +1,560 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
 Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-TT	Tên khóa học	Ngày học	Ngày thi (*) 	Tỉnh/thành phố (*)	"Quận/Huyện/Thành phố/
-Thị xã (*)"	"Xã/Phường/
-Thị trấn"	Số nhà, phố (*)	Ghi chú	Mã Chi nhánh	"Ghi chú
-GV dẫn đi thi"
-1	MIỀN NAM-01	06-08/06/2025	10/06/2025	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-2	MIỀN NAM-01	06-08/06/2025	10/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-3	MIỀN NAM-01	06-08/06/2025	10/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858		
-4	MIỀN NAM-01	06-08/06/2025	10/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-5	MIỀN NAM-01	06-08/06/2025	12/06/2025	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-	MIỀN NAM-01	06-08/06/2025	12/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-6	MIỀN NAM-01	06-08/06/2025	14/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-7	MIỀN NAM-01	06-08/06/2025	14/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
-8	MIỀN NAM-02	12-14/06/2025	17/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-9	MIỀN NAM-02	12-14/06/2025	17/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-10	MIỀN NAM-02	12-14/06/2025	16/06/2025	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-11	MIỀN NAM-02	12-14/06/2025	18/06/2025	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-12	MIỀN NAM-02	12-14/06/2025	18/06/2025	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhật Duật	Vũ Thị Hồng Trâm 0987701601	FWD HCM	ONLINE
-13	MIỀN NAM-03	16-18/06/2025	20/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-14	MIỀN NAM-03	16-18/06/2025	19/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-	MIỀN NAM-03	16-18/06/2025	19/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Nguyễn Thị Huệ Thu		
-15	MIỀN NAM-03	16-18/06/2025	20/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-16	MIỀN NAM-03	16-18/06/2025	22/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-17	MIỀN NAM-03	16-18/06/2025	22/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-18	MIỀN NAM-03	16-18/06/2025	24/06/2025	Bình Thuận (74)	TP. Phan Thiết (265)	P. Phú Trinh (3545)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Nguyễn Thị Huệ Thu	FWD HCM	ONLINE
-19	HCM	09-11/06/2025	12/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	OFFLINE
-20	HCM	20-22/06/2025	24/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	FWD HCM	OFFLINE
-21	HCM-MIENTHI	11/06/2025						Trần Thị Trân Châu 0909422858	FWD HCM	ONLINE
-22	HCM-MIENTHI	18/06/2025						Phạm Quốc Cường 0911132119	FWD HCM	ONLINE
-24	HCM-MIENTHI-ILP	11/06/2025						Phạm Quốc Cường 0911132119	FWD HCM	
-25	TGI-THILAI	07/06/2025	10/06/2025	Tiền Giang (80)	TP. Mỹ Tho (723)	P. 5 (11279)	Trường Đại học Tiền Giang, Số 119 Ấp Bắc	Trần Thị Trân Châu 0909422858	FWD HCM	
-26	GLA-THILAI	16/06/2025	18/06/2025	Gia Lai (65)	TP. Pleiku (354)	X. Diên Phú (4963)	Phân hiệu Trường Đại học Nông Lâm TP Hồ Chí Minh tại Gia Lai, Đường Trần Nhaath Duật	Trần Thị Trân Châu 0909422858	FWD HCM	
-27	DLA-THILAI	18/06/2025	20/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	
-28	DLA-THILAI	06/06/2025	10/06/2025	Đắk Lắk (67)	TP. Buôn Ma Thuột (301)	P. Thắng Lợi (3972)	Thư viện tỉnh Đăk Lăk, Số 6 Trần Quang Khải	Trần Thị Trân Châu 0909422858	FWD HCM	
-29	AGI-THILAI	12/06/2025	14/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	
-30	AGI-THILAI	19/06/2025	22/06/2025	An Giang (78)	TP. Long Xuyên (164)	P. Đông Xuyên (923)	Trường Đại học An Giang, Số 18 Ung Văn Khiêm	Trần Thị Trân Châu 0909422858	FWD HCM	
-31	KHO-THILAI	10/06/2025	12/06/2025	Khánh Hòa (68)	TP. Nha Trang (448)	P. Lộc Thọ (6180)	Trung tâm Giáo dục Thường xuyên Khánh Hòa, Số 3 Trần Hưng Đạo	Trần Thị Trân Châu 0909422858	FWD HCM	
-32	DNI-THILAI	12/06/2025	16/06/2025	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	FWD HCM	
-33	DNI-THILAI	05/06/2025	08/06/2025	Đồng Nai (75)	TP. Biên Hòa (328)	P. Tân Hiệp (4641)	Trường Đại học Đồng Nai, Số 4 Lê Quý Đôn	Trần Thị Trân Châu 0909422858	FWD HCM	
-34	LDO-THILAI	16/06/2025	18/06/2025	Lâm Đồng (69)	TP. Đà Lạt (489)	P. 8 (6667)	Trường Đại học Yersin Đà Lạt, Số 27 Tôn Thất Tùng	Vũ Thị Hồng Trâm 0987701601	FWD HCM	
-35	BDI-THILAI	12/06/2025	14/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
-36	BDI-THILAI	19/06/2025	22/06/2025	Bình Định (64)	TP. Quy Nhơn (240)	P. Trần Phú (3321)	Thư viện tỉnh Bình Định, số 188 Hai Bà Trưng	Trần Thị Trân Châu 0909422858	FWD HCM	
-37	CTH-THILAI	10/06/2025	12/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
-38	CTH-THILAI	18/06/2025	20/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
-39	BTH-THILAI	20/06/2025	24/06/2025	Bình Thuận (74)	TP. Phan Thiết (265)	P. Phú Trinh (3545)	Trường Cao đẳng Bình Thuận, Số 38 Nguyễn Hội	Vũ Thị Hồng Trâm 0987701601	FWD HCM	
-40	HCM-THILAI	05/06/2025	07/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-41	HCM-THILAI	14/06/2025	17/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-42	HCM-THILAI	21/06/2025	24/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-43	HCM-THILAI	27/06/2025	28/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
-44	DNA-THILAI	05/06/2025	07/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-45	DNA-THILAI	14/06/2025	17/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-46	DNA-THILAI	21/06/2025	24/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-47	DNA-THILAI	27/06/2025	28/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-48	CMA-THILAI	04/06/2025	06/06/2025	Cà Mau (88)	TP. Cà Mau (274)	P. 5 (3665)	Trung tâm Giáo dục thường xuyên tỉnh Cà Mau, Số 4 Lê Thị Riêng	Trần Đại 0972022722	FWD HCM	
-49	HCM-ILP	11-13/06/2025	17/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Trần Thị Trân Châu 0909422858	FWD HCM	
-50	HCM-ILP	11-13/06/2025	20/06/2025	Cần Thơ (82)	Q. Ninh Kiều (770)	P. An Hòa (1063)	Trường Cao đẳng Kinh tế Kỹ thuật Cần Thơ, Số 9 Cách Mạng Tháng Tám	Trần Thị Trân Châu 0909422858	FWD HCM	
-51	HCM-ILP	11-13/06/2025	17/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Trần Thị Trân Châu 0909422858	FWD HCM	
-52	DNA-THILAI-ILP	04/06/2025	07/06/2025	Đà Nẵng (35)	Q. Hải Châu (173)	P. Thạch Thang (1979)	Số 14 Trần Phú	Phạm Quốc Cường 0911132119	FWD HCM	
-54	HCM-THILAI-ILP	04/06/2025	07/06/2025	Hồ Chí Minh (13)	Q. 3 (94)	P. 14 (4440)	Số 264B Lê Văn Sỹ	Phạm Quốc Cường 0911132119	FWD HCM	
 
-Trong tháng 6 này còn lớp Shine nào nữa hay không?
-Trong tháng 6 này còn Lớp Miễn Thi nào nữa hay không?
-Trong tháng 6 này còn lớp Thi lại nữa không?
+Ngày khóa số và ngày thanh toán thu nhập các tháng trong năm 2025
+Thông Báo Nội Bộ
+Số:            01A/CEO/2025
+Kính gửi:      Giám Đốc Kinh Doanh, Trưởng Khu Vực, Trưởng Ban, Tư Vấn Tài Chính
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Hwang Jun Hwan
+Ngày gửi:      01/01/2025                                                                   Số trang: 04
 
-Memo tuyển dụng trong tháng 6 và quý 2 này như thế nào ?
-Tuyển 1 người thưởng cho Quản lý 500k -> Có Active trên 10tr thưởng thêm 1 triệu đồng
-Nhưng tuyển 02 người thì tính 1tr/code  -> Có Active trên 10tr thưởng them 1 triệu/Active 
-Nên hẫy tuyển từ 02 người trở lên nhé , anh/chị muốn tìm lớp chứ?
-Ngoài ra, Tư vấn mới Active trong 07 ngày (kể từ ngày cấp code) được thưởng : 
-+ HĐ> 10tr -> Thưởng 1.5 triệu đồng 
-+ HĐ> 20tr -> Thưởng 2.5 triệu đồng
-Tư vấn mới Active trong 2 tháng (tính cả tháng cấp code) được thưởng : 
-+ HĐ> 10tr -> Thưởng 1 triệu đồng 
-+ HĐ> 20tr -> Thưởng 2 triệu đồng
-Hẫy hỗ trợ đại lý mới hoạt động nhanh trong vòng 7 ngày nhé anh chị . 
 
-Chỉ tiêu đi Mỹ nay là bao nhiêu ?
-Chỉ cần 999tr FYP & 10 HĐ là đi Mỹ rồi nhé . (Trong đó được nhân đôi sản phẩm bổ trợ lên đến 100tr) . Rất tuyệt vời phải không anh chị, Hẫy cùng làm để năm sau mình đi Mỹ nhé anh chị . Anh chị chắc chắn làm được ! YOU CAN DO IT !
-Các anh chị là quản lý sẽ được tham gia chương trình đi Mỹ cụ thể như sau: 
-Cấp FWO Đạt: 40 điểm , K≥ 60%
-Cấp FWM Đạt: 60 điểm , K≥ 60%
-Cấp FWD Đạt: 80 điểm , K≥ 60%
-Cách quy đổi điểm như sau: 
-Elite: 10 điểm
-MDRT: 2 điểm
-COT: 40 điểm
-TOT: 60 điểm
 
-Chỉ tiêu MDRT năm nay là bao nhiêu?
-PHÍ BẢO HIỂM NĂM ĐẦU (FYP) TRONG NĂM 2025
-PHÍ BẢO HIỂM NĂM ĐẦU (FYP) TRONG NĂM 2025
-+ CHỈ TIÊU ELITE 2026: 466.802.300 FYP -> THƯỞNG 10 TR
-+ CHỈ TIÊU MDRT 2026: 933.604.600 FYP -> THƯỞNG 20  Hỗ trợ chi phí đăng ký thành viên MDRT Thế Giới
-+ CHỈ TIÊU COT 2026 : 2.800.813.800 FYP-> THƯỞNG 75 TR Hỗ trợ chi phí đăng ký thành viên MDRT Thế Giới
-+ CHỈ TIÊU TOT: 5.601.627.600 FYP-> THƯỞNG 150TR Hỗ trợ chi phí đăng ký thành viên MDRT Thế Giới
-Bên cạnh đó anh chị sẽ được thưởng thêm khi đạt tiến độ MDRT cụ thể như sau:
-+ QUÝ 1/2025 ≥ 188 TRIỆU, K2 ≥ 60% -> 5 TRIỆU
-+ QUÝ 2/2025≥ 234 TRIỆU, K2≥ 60% -> 5 TRIỆU 
-+ QUÝ 3/2025≥ 234 TRIỆU, K2≥ 60% -> 5 TRIỆU
 
-CHƯƠNG TRÌNH 3 NĂM MDRT VỮNG BƯỚC CÙNG FWD
-THANG ĐIỂM QUY ĐỔI THEO DANH HIỆU MDRT/COT/TOT MỖI NĂM DANH HIỆU MỖI NĂM
- MDRT: 1
- COT: 3
- TOT: 6
- ĐIỀU KIỆN VÀ GIẢI THƯỞNG ĐIỀU KIỆN TỐI THIỂU TRONG 3 NĂM LIÊN TIẾP  
- 3 lần đạt danh hiệu MDRT hoặc tổng điểm quy đổi ≥ 3 K2 ≥ 75% thưởng 330 - 400 triệu
- 3 lần đạt danh hiệu COT hoặc tổng điểm quy đổi ≥ 9 K2 ≥ 75% thưởng 1 tỷ - 1,2 tỷ
- 3 lần đạt danh hiệu TOT hoặc tổng điểm quy đổi ≥ 18 K2 ≥ 75% thưởng 2 tỷ - 2,4 tỷ
- ➢ Cá nhân TVTC và Cá nhân CQL phải đạt tối thiểu liên tiếp danh hiệu MDRT/COT/TOT 2024, 2025, 2026 tại FWD Việt Nam (theo doanh số 
-năm 2023, 2024, 2025) để đủ điều kiện tham gia chương trình này.
- 26
- ➢ Thưởng 2: dành cho cá nhân đạt điều kiện thi đua và đã đạt thêm danh hiệu MDRT 2023
+Các Anh/Chị thân mến,
+Công ty xin thông báo đến các Anh/Chị lịch khóa sổ năm 2025 và các quy định liên quan đến việc thanh toán
+thu nhập như sau:
+1. Lịch khóa sổ hàng tháng:
 
-Chỉ tiêu Chương trình ĐẲNG CẤP HIVE 2026 dành cho kênh agency như sau: 
-+ TÍNH TOP 5 TVTC/CQL dẫn đầu FYP 2025
-+ SỐ THÁNG ĐẠT CHUẨN TỐI THIỂU: ≥ 6 (Đạt chuẩn: Mỗi tháng có ít nhật 1 HĐ từ 10tr FYP)
-+ K2 (31/12/2025): ≥ 65%
-Hẫy kiên trì để đạt được mục tiêu này nhé.
-Chương trình Hội nghị Elite tại Thái lan trong Quý 2.2025 , có thể chọn 1 trong 2 tiêu chí như sau: 
-Tham gia với vai trò cá nhân: 
-+ Tư vấn mới gia nhập trong Q2.2025 chỉ tiêu là 100tr FYP trong quý 2.2025.
-+ Tư vấn gia nhập trước đó chỉ tiêu là 130tr FYP trong quý 2.2025
-Đối với các anh chị tham gia với vai trò là quản lý sẽ được tính như sau:
-+ Nhóm trực tiếp FWO/FWM/FWD : 18 điểm
-+ Toàn nhóm FWM: 38 điểm
-+ Toàn nhóm FWD: 58 điểm 
-Cách tính điểm như sau: 
-Mỗi TVTC gia nhập trong quý 2.2025 được tính : 2 điểm
-Mỗi TVTC Có HĐ từ 10tr FYP trong tháng được tính : 3 điểm
-Mỗi TVTC/CQL đạt trong phần tham gia cá nhân được tính : 05 điểm 
-Thái Lan là một đất nước xinh đẹp, Sôi động & Tất cả chúng ta sẽ cùng nhau đi Thái Lan nhé các anh chị & chương trình chỉ kéo dài đến hết tháng 6.2025 này thôi nhé !
+   Để giúp các Anh/Chị thuận tiện theo dõi, xin thông báo lịch khóa sổ hàng tháng dự kiến trong năm 2025
+   như sau:
+                  Tháng                     Ngày khóa sổ                 Ngày thanh toán
+                   Giêng                      31/01/2025                     11/02/2025
+                    Hai                       28/02/2025                     10/03/2025
+                    Ba                        31/03/2025                     11/04/2025
+                    Tư                        30/04/2025                     12/05/2025
+                   Năm                        31/05/2025                     10/06/2025
+                    Sáu                       30/06/2025                     10/07/2025
+                    Bảy                       31/07/2025                     11/08/2025
+                   Tám                        31/08/2025                     11/09/2025
+                   Chín                       30/09/2025                     10/10/2025
+                   Mười                       31/10/2025                     10/11/2025
+                 Mười Một                     30/11/2025                     10/12/2025
+                 Mười Hai                     31/12/2025                     12/01/2026
 
-Các memo dành riêng cho các anh chị quản lý (FWO/FWM/FWD) : 
-QUẢN LÝ TÀI BA HOẠT ĐỘNG HIỆU QUẢ (FWDVN/AS/0425-33)
-Thời gian 01/04/2025 – 30/06/2025
-TÍNH TRÊN SỐ LƯỢNG TVTC ĐẠT CHUẨN TRONG NHÓM TRỰC TIẾP TRONG MỖI THÁNG
- Đối tượng Cấp quản lý nhóm trực tiếp
- THƯỞNG/THÁNG (VNĐ)
- ≥ 2 -> 1.500.000
- ≥ 4 -> 4.000.000
- ≥ 6 -> 8.000.000
-Các lưu ý:
- 1. TVTC đạt chuẩn là TVTC có ít nhất 1 HĐBH phát hành trong tháng. HĐBH này phải có tổng phí FYP từ 10 triệu VNĐ 
-trở lên và đã qua thời gian cân nhắc tại thời điểm chốt kết quả chính thức.
- 2. Nhóm trực tiếp của cấp quản lý bao gồm bản thân cấp quản lý đang xét thi đua và các FWP báo cáo trực tiếp
 
-Đầu mối liên hệ Team AA (Agency Administration)
- ➢Cấp Mã số TVTC/AD+ & Cấpquyềnsảnphẩm Nguyễn Huỳnh Lê Huynhle.nguyen@fwd.com 3048
- Đặng Thị Thanh Hương ThanhHuong.Dang@fwd.com 3013
- ➢Điều chỉnh thông tin TVTC Phạm Thị Như Trà pham.thinhutra@fwd.com 3087
- ➢Thăng cấp/Giáng cấp TVTC Bùi Thị Kim Ngân Kimngan.bui@fwd.com 8706
- ➢Chuyểnnhóm& Chấm dứt mã số TVTC Nguyễn Thị Thanh Vân Van.NguyenThanh@fwd.com 3028
- Phạm Thị Như Trà Pham.thinhutra@fwd.com 3087
- ➢Phân công hợp đồng bảo hiểm Lê Thị Thanh Thúy Thanhthuy.Le@fwd.com 2965
- ➢Công Nợ Phan Thị HồngNhung Hongnhung.phan@fwd.com 8704
- ➢Thỏa thuận ACDP & RSP & AD+ Phạm Lê Anh Thy Anhthy.pham@fwd.com 2990
- ➢Thắc mắc Thu Nhập Miền Bắc Nguyễn Thị Phương Phuong.nguyen@fwd.com 2986
- ➢Thắc mắcThu Nhập Miền Nam Nguyễn Thị Ngọc Bích Bich.nguyenthi@fwd.com 3034
- ➢ MOC/PROMOTION dành choAD+ Phan Hoàng Nam Phan.HoangNam@fwd.com 2337
- Lưu ý:
- ❖ Cấpcode/ chuyển nhóm/chuyển đổi hợp đồng/ cấp quyền bán sản phẩm sẽ thực hiện trong vòng 1 ngày làm việc kể từngày tiếp nhận thông tin
- ❖ Thắc mắcthu nhập sẽ trả lời trong vòng 2 ngày làm việc kể từ ngày tiếpnhận thông tin
 
+2. Phương thức thanh toán:
+Hoa hồng và thu nhập của Tư vấn Tài chính (TVTC) được thanh toán theo định kỳ 03 lần/tháng như quy định
+tại Phụ lục đính kèm.
+Các Ngôi sao Hanwha Lead, Quản Lý Hanwha Master xếp hạng MDRT, Kim Cương hoặc Vàng sẽ được
+ưu tiên nhận ngay hoa hồng năm nhất theo lịch chi trả nêu trên mà không cần phải chờ qua thời gian cân
+nhắc. Tuy nhiên phải thỏa điều kiện đã bàn giao hợp đồng và đã được thực hiện thành công cuộc gọi chào
+mừng Khách hàng (Welcome call).
+
+
+Trong trường hợp thu nhập cần thanh toán cho TVTC đạt dưới 200 nghìn đồng, Công ty sẽ tích lũy cho các
+kỳ thanh toán tiếp theo nhằm tiết kiệm chi phí chuyển khoản cho TVTC.
+
+
+Lưu ý về việc Bàn giao hợp đồng và Welcome call
+
+   ➢ Tham khảo Memo 07/OP-CC/2022 và Memo 09/OP-CC/2022.
+   ➢ CC sẽ thực hiện Welcome call đối với các Hợp đồng có xác nhận hoàn tất việc bàn giao. Hợp đồng đã
+     được Khách Hàng xác nhận bàn giao và thực hiện Welcome call thành công thì mới được thanh toán
+     hoa hồng tương ứng.
+   ➢ Đối với các hợp đồng hoàn tất Thư ACK trong vòng 05 ngày làm việc ngay trước ngày khóa sổ thanh
+     toán thu nhập, Công ty sẽ không đảm bảo việc hoàn tất Welcome call thành công trước ngày khóa sổ
+     và có thể ảnh hưởng đến tiến độ thanh toán hoa hồng của TVTC.
+
+3. Lịch thanh toán thu nhập vào thời điểm trước và sau Tết Ất Tỵ 2025
+   Lịch nghỉ Tết Nguyên Đán Ất Tỵ sẽ bắt đầu từ ngày 27/01/2025. Công ty sẽ thanh toán tạm ứng thu nhập
+   tháng 1/2025 đợt 1 theo lịch như sau:
+
+   •   Thời điểm khóa sổ: 15/01/2025
+   •   Thời điểm thanh toán: 22/01/2025
+   •   Nội dung thanh toán bao gồm các khoản thu nhập dưới đây:
+
+           ✓ Phát sinh từ 01/01/2025 đến 15/01/2025
+             o Hoa hồng;
+             o Hỗ trợ Phát triển doanh số (FC PB);
+             o Thù Lao Quản lý cho UM/DM (UM/DM MA);
+             o 15% phí bảo hiểm thực thu trong năm đầu tiên cho Tổng đại lý.
+           ✓ Hoa hồng tháng 12/2024 – đợt 2 cũng được thanh toán ngày 22/01/2025
+
+   Thanh toán thu nhập tháng 12/2024 - đợt 3 (thanh toán sau Tết)
+
+   •   Thời điểm thanh toán: 05/02/2025
+   •   Nội dung thanh toán:
+       Hoa hồng tháng 12/2024_đợt 3:
+          ✓ Những hợp đồng mới, đã phát hành từ ngày 19 đến ngày 31/12/2024, không hủy/hủy chuyển
+              trong thời gian cân nhắc tính đến thời điểm tính toán và chi trả;
+          ✓ Các trường hợp bị tạm giữ thu nhập, sau khi đã hoàn tất các yêu cầu liên quan trước hoặc đến
+              thời điểm khóa sổ.
+   Thanh toán thu nhập tháng 01/2025 - đợt 1 (thanh toán sau Tết)
+
+   •   Thời điểm thanh toán: 11/02/2025
+   •   Nội dung thanh toán: Tất cả các khoản thu nhập phát sinh, nếu có, căn cứ vào kết quả hoạt động kinh
+       doanh của tháng 01/2025, trừ khoản đã tạm ứng trước Tết.
+
+4. Lưu ý quan trọng về thời gian chuẩn thực hiện nghiệp vụ thẩm định và phát hành hợp đồng:
+Công ty lưu ý thời gian thực hiện như sau:
+
+                                                  Thời gian hoàn tất
+                                                  thẩm định và phát
+                  Loại hồ sơ                                                        Ghi chú
+                                                   hành hợp đồng
+                                                    (ngày làm việc)
+ Hồ sơ sạch, đầy đủ thông tin và phí bảo hiểm,
+                                                        0-2
+ không có yêu cầu khám sức khỏe
+                                                                       Tính từ ngày Công ty nhận được
+ Hồ sơ có yêu cầu khám sức khỏe/ bổ sung thông
+                                                         0-2           hồ sơ khám/ bổ sung thông tin/
+ tin/ chờ quyết định của công ty tái bảo hiểm
+                                                                       quyết định từ công ty tái bảo hiểm
+
+Thời gian chuẩn thực hiện được áp dụng trong điều kiện hoạt động bình thường.
+
+Lưu ý quan trọng:
+  • Công ty không bảo đảm hoàn tất thẩm định đối với những hồ sơ yêu cầu bảo hiểm được nộp về (hồ
+      sơ nộp mới, hồ sơ có bổ sung thông tin/ký thư thỏa thuận, kết quả khám y tế trả về…) trong khoảng
+      thời gian 02 ngày trước ngày khóa sổ. Các Anh/Chị cần nhanh chóng chuyển sớm hồ sơ về Công ty
+      và thực hiện ngay các yêu cầu thẩm định để Công ty kịp thời phát hành hợp đồng bảo hiểm cho khách
+      hàng.
+  • Tùy theo tình hình kinh doanh cụ thể, Công ty có thể thực hiện việc điều chỉnh lịch khóa sổ nêu trên.
+      Xin vui lòng theo dõi sát lịch khóa sổ kinh doanh và thanh toán thu nhập để xây dựng kế hoạch kinh
+      doanh của mình một cách phù hợp.
+
+Chúc các Anh/Chị và gia đình chào đón năm 2025 luôn ngập tràn niềm vui, hạnh phúc và thành công!
+
+Trân trọng,
+
+
+
+
+Hwang Jun Hwan
+Chủ Tịch HĐTV kiêm Tổng Giám Đốc
+Hanwha Life Việt Nam sẽ thanh toán hoa hồng và các khoản thu nhập cho TVTC theo định kỳ 03 lần/tháng,
+trong đó hoa hồng năm nhất phát sinh sẽ được chi trả sau thời gian cân nhắc, chi tiết như sau:
+
+   2.1 Thanh toán đợt 01:
+   •   Thời điểm khóa sổ thanh toán thu nhập: ngày cuối cùng của mỗi tháng dương lịch, theo lịch khóa
+       sổ.
+   •   Thời điểm thanh toán: ngày thanh toán tương ứng theo lịch khóa sổ.
+   •   Nội dung thanh toán:
+       ➢ Hoa hồng của những hợp đồng mới phát hành từ ngày 01 đến ngày 09 của tháng trước, không
+           hủy/hủy chuyển trong thời gian cân nhắc tính đến thời điểm tính toán và chi trả;
+       ➢ Hoa hồng của hợp đồng đóng phí tái tục;
+       ➢ Các khoản thu nhập của TVTC và quản lý đại lý, nếu có, căn cứ vào kết quả hoạt động kinh doanh
+           tháng trước đó đã được tổng kết theo lịch khóa sổ của tháng, các khoản thưởng chương trình thi
+           đua, trừ thuế thu nhập và các khoản nợ, nếu có.
+
+   2.2 Thanh toán đợt 02:
+   •   Thời điểm khóa sổ thanh toán thu nhập: ngày 15 hàng tháng (hoặc ngày 14 nếu 15 là ngày Thứ
+       Bảy, hoặc ngày 16 nếu 15 là Chủ Nhật).
+   •   Thời điểm thanh toán: ngày 20 hàng tháng (hoặc ngày làm việc đầu tiên sau ngày 20 nếu ngày 20 là
+       Thứ Bảy, Chủ Nhật hoặc ngày lễ).
+   •   Nội dung thanh toán:
+       ➢ Hoa hồng của những hợp đồng mới, đã phát hành từ ngày 10 đến ngày 18 của tháng trước, không
+          hủy/hủy chuyển trong thời gian cân nhắc tính đến thời điểm tính toán và chi trả;
+       ➢ Hoàn trả cho các trường hợp bị tạm giữ thu nhập đến cuối đợt 01, sau khi đã hoàn tất các yêu cầu
+          liên quan trước hoặc đến thời điểm khóa sổ của đợt 02.
+
+   2.3 Thanh toán đợt 03:
+   •   Thời điểm khóa sổ thanh toán thu nhập: ngày 25 hàng tháng (hoặc ngày 24 nếu 25 là Thứ Bảy, ngày
+       26 nếu 25 là Chủ Nhật);
+   •   Thời điểm thanh toán: ngày cuối tháng, nếu ngày cuối tháng rơi vào thứ Bảy, Chủ Nhật hoặc ngày lễ,
+       thu nhập sẽ được chuyển vào ngày làm việc đầu tiên của tháng kế tiếp.
+   •   Nội dung thanh toán:
+       ➢ Hoa hồng những hợp đồng mới, đã phát hành từ ngày 19 đến ngày cuối cùng của tháng trước,
+           không hủy/hủy chuyển trong thời gian cân nhắc tính đến thời điểm tính toán và chi trả;
+       ➢ Các trường hợp bị tạm giữ thu nhập đến cuối đợt 02, sau khi đã hoàn tất các yêu cầu liên quan
+           trước hoặc đến thời điểm khóa sổ của đợt 03.
+
+
+Danh sách lớp học BFC và kỳ thi, ngày chốt hồ sơ
+Ngày ch_t HS	Ngày h_c	Ngày thi	_i_m thi	Hình th_c	Ng__i ph_ trách	Tên VP/GA	Khu v_c	Mã L_p	Tên L_p29/05	02 – 03/06	05/06	TP.HCM	Tr_c ti_p	H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250839_302	BFC2420250839_ HO CHI MINH_02-03 JUN03/06	05 – 06/06	10/06	TP.HCM		Ph_m Vi_t __t	Pre - GA V_ng Tàu 1	_ÔNG NAM 	BFC2420250840_1045	BFC2420250840_ GA VUNG TAU 1_05-06 JUN04/06	07– 08/06	10/06	Ti_n Giang		H_a Lê Thiên B_o	GA M_ Tho	TÂY NAM 	BFC2420250842_115	BFC2420250842_ MY THO_07-08 JUN05/06	09 – 10/06	12/06	TP.HCM		Ph_m Vi_t __t	SO Th_ D_u M_t	_ÔNG NAM 	BFC2420250843_310	BFC2420250843_ BINH DUONG_09-10 JUN10/06	12 – 13/06	17/06	TP.HCM		H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250844_302	BFC2420250844_ HO CHI MINH_12-13 JUN10/06	12 – 13/06	17/06	TP.HCM		Ph_m Vi_t __t	AO Châu __c	_ÔNG NAM	BFC2420250845_1016	BFC2420250845_ AO CHAU DUC_12-13 JUN19/06	23– 24/06	26/06	TP.HCM		H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250846_302	BFC2420250846_ HO CHI MINH_23-24 JUN26/06	30/06– 01/07		TP.HCM		H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250847_302	BFC2420250847_ HO CHI MINH_30 JUN-01 JUL
+
+Trong tháng 6 này còn lớp BFC nào nữa hay không?
+Hạn chót nhập hồ sơ là ngày nào?
+Ai phụ trách lớp BFC?
+
+Memo thưởng GAD trong tháng 6 và quý 2 này như thế nào ?
+Memo thưởng DM trong tháng 6 và quý 2 này như thế nào ?
+Memo thưởng UM trong tháng 6 và quý 2 này như thế nào ?
+Memo thưởng FC trong tháng 6 và quý 2 này như thế nào ?
+Thông Báo Nội Bộ
+Số:            103/DP/2025
+Kính gửi:      Giám Đốc Tổng Đại Lý (GAD)
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Trần Văn Vàng
+Ngày gửi:      01/06/2025                                                                Số trang: 02
+
+
+
+
+Các Anh/Chị GAD thân mến,
+
+Chúng ta đang bước vào tháng 6, chặng cuối cùng để chinh phục mục tiêu kinh doanh Quý 2/2025. Đồng
+hành cùng các Văn phòng Tổng Đại Lý (TĐL) thúc đẩy hoạt động tuyển dụng, xây dựng đội ngũ kinh doanh
+phát triển vững mạnh, Công ty trân trọng thông báo triển khai chương trình thi đua “NGƯỜI DẪN ĐƯỜNG
+THÔNG THÁI” trong tháng 6/2025 dành cho các Văn phòng TĐL với chi tiết như sau:
+
+                         Tháng 6/2025                      Văn phòng Tổng Đại Lý (TĐL)
+
+
+
+
+Ví dụ:
+Trong tháng 6/2025, TĐL A đạt doanh số IP là 800 triệu. Đồng thời, TĐL A tuyển dụng được 5 Đại Lý mới,
+trong đó 2 Đại Lý mới có hoạt động trong tháng 6.
+TĐL A nhận khoản hỗ trợ là: 800 x 7% = 56 triệu.
+Lưu ý quan trọng:
+ - Đại Lý mới gia nhập trong tháng 6/2025 là các trường hợp được tuyển dụng thành công bao gồm các
+   Đại Lý mới được cấp mã số, ký Hợp đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6 và trường hợp đã
+   chấm dứt HĐĐL với Hanwha Life Việt Nam và quay trở lại hoạt động vào tháng 6;
+ - Đại Lý mới có hoạt động: vui lòng tham khảo định nghĩa tại Chính sách chi trả thù lao hoạt động đại lý 2025;
+ - Doanh số IP của TĐL được xét trên các Hợp đồng được nộp trong giai đoạn thi đua, phát hành đến hết
+   ngày 30/06/2025, đồng thời được khách hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi
+   Welcome Call thành công trong thời gian cân nhắc và không hủy trong thời gian cân nhắc mới được
+   tính cho chương trình này;
+- Khoản hỗ trợ sẽ được thanh toán vào thu nhập của TĐL trong kỳ thanh toán thu nhập tiếp theo sau khi
+   có kết quả cuối cùng;
+- Chương trình chỉ áp dụng với các TĐL đã hoàn tất ký Hợp đồng TĐL với Hanwha Life Việt Nam trước
+   ngày 01/06/2025 và phải còn hiệu lực tại thời điểm chi trả, đồng thời không vi phạm các quy định tại
+   Quy chế Tuân thủ Đại lý, Quy chế thành lập và tổ chức hoạt động TĐL trong thời gian thi đua và thời
+   gian nhận thưởng;
+- Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
+
+Chúc Anh/Chị gặt hái thành công cùng Hanwha Life Việt Nam!
+
+Trân trọng,
+
+
+
+Trần Văn Vàng
+Phó Tổng Giám Đốc Kinh Doanh
+
+Thông Báo Nội Bộ
+Số:            102/DP/2025
+Kính gửi:      Trưởng Khu Vực Kinh Doanh
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Trần Văn Vàng
+Ngày gửi:      01/06/2025                                                               Số trang: 02
+
+
+
+
+Các Anh/Chị thân mến,
+Chúng ta đang bước vào tháng 6, chặng cuối cùng để chinh phục mục tiêu kinh doanh Quý 2/2025 cũng
+như 6 tháng đầu năm. Nhằm tiếp thêm động lực giúp các Anh/Chị hoạt động mạnh mẽ, thu hút nhiều nhân
+tài và xây dựng hệ thống kinh doanh vững mạnh, Công ty trân trọng gửi đến Anh/Chị chương trình thi đua
+“ĐỈNH CAO LÃNH ĐẠO” trong tháng 6/2025 dành cho Trưởng Khu Vực Kinh Doanh với khoản hỗ trợ
+hấp dẫn như sau:
+
+                      Tháng 6/2025                      DM/SrDM xét theo Khu vực trực tiếp
+
+
+
+
+Ví dụ:
+Trong tháng 6/2025, Khu vực Kinh doanh của DM A có tổng IP là 300 triệu. Đồng thời, DM A có 2 Đại lý mới
+được tuyển dụng và trong đó có 1 Đại lý mới có hoạt động ngay trong tháng 6.
+Như vậy, DM A nhận hỗ trợ: 15 triệu đồng.
+Lưu ý quan trọng:
+-   Các Hợp Đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025, đồng thời được khách
+    hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi Welcome Call thành công trong thời gian
+    cân nhắc và không hủy trong thời gian cân nhắc mới được tính cho chương trình này;
+-   Tuyển dụng thành công tháng 6/2025: là trường hợp tuyển dụng Đại lý mới được cấp mã số và ký
+    Hợp đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6, bao gồm các trường hợp đã chấm dứt HĐĐL với
+    Hanwha Life Việt Nam và quay trở lại hoạt động tháng 6;
+-   Số lượng Đại Lý mới có hoạt động theo chương trình này không tính bao gồm cá nhân DM. Vui lòng
+    tham khảo định nghĩa “Đại lý mới có hoạt động” tại Chính sách chi trả thù lao hoạt động đại lý 2025;
+-   Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
+-   Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với Hanwha Life Việt Nam tại thời điểm trao
+    thưởng và không vi phạm các quy định về Tuân Thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận
+    thưởng;
+-   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
+
+Chúc Anh/Chị thật nhiều sức khỏe và gặt hái thành công cùng Hanwha Life Việt Nam!
+
+Trân trọng,
+
+
+
+
+Trần Văn Vàng
+Phó Tổng Giám Đốc Kinh Doanh
+Thông Báo Nội Bộ
+Số:            101/DP/2025
+Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Trần Văn Vàng
+Ngày gửi:      01/06/2025                                                                    Số trang: 02
+
+
+
+
+Các Anh/Chị thân mến,
+Chúng ta đang bước vào tháng 6, chặng cuối cùng để chinh phục mục tiêu kinh doanh Quý 2/2025. Nhằm
+tiếp thêm động lực giúp các Anh/Chị hoạt động mạnh mẽ, tăng cường phát triển tuyển dụng và xây dựng hệ
+thống chất lượng trong tháng 6, Công ty trân trọng gửi đến Anh/Chị chương trình thi đua “KHÁT VỌNG TINH
+HOA” trong tháng 6/2025 dành cho Trưởng Ban Kinh Doanh với khoản hỗ trợ hấp dẫn như sau:
+
+
+                Tháng 6/2025                                     UM/DM xét theo Ban trực tiếp
+
+
+
+
+Ví dụ 1:
+Ban Kinh doanh của UM A có 2 Đại Lý mới gia nhập lần lượt trong tháng 4 và tháng 6/2025. Đồng thời, cả 2 Đại
+Lý đều có hoạt động với tổng IP là 15 triệu/Đại Lý trong tháng 6. Theo đó, UM A có 4 lượt Đại lý có hoạt động.
+UM A nhận hỗ trợ: 4 triệu đồng.
+Ví dụ 2:
+Trong tháng 6, Ban Kinh doanh của UM B có tổng IP là 60 triệu và không có TVTC mới gia nhập tháng 6.
+UM B nhận hỗ trợ: 2 triệu đồng.
+Lưu ý quan trọng:
+-   (*) Đại Lý có hoạt động chỉ xét trên các Đại Lý (bao gồm bản thân UM/DM) đạt tổng IP từ 15 triệu trong
+    tháng 6/2025 và X2 không áp dụng đối với lượt hoạt động cá nhân UM/DM;
+-   Các Hợp Đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025 đồng thời được khách
+    hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi Welcome Call thành công trong thời gian
+    cân nhắc và không hủy trong thời gian cân nhắc mới được tính cho chương trình này;
+-   Đại Lý mới gia nhập trong tháng 6/2025 là các trường hợp được tuyển dụng thành công bao gồm các
+    Đại lý mới được cấp mã số, ký Hợp Đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6 và trường hợp đã
+    chấm dứt HĐĐL với Hanwha Life Việt Nam trước ngày 01/12/2024, quay trở lại hoạt động vào tháng
+    6/2025. Chương trình này tính bao gồm bản thân UM/DM gia nhập tháng 6;
+-   Trong trường hợp Anh/Chị đạt đồng thời cả hai điều kiện thi đua, Anh/Chị sẽ nhận khoản hỗ trợ ở mức
+    cao hơn;
+-   Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
+-   Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với Hanwha Life Việt Nam tại thời điểm trao thưởng
+    và không vi phạm các quy định về Tuân Thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận thưởng;
+-   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
+
+Chúc Anh/Chị thật nhiều sức khỏe và gặt hái thành công cùng Hanwha Life Việt Nam!
+
+Trân trọng,
+
+
+
+
+Trần Văn Vàng
+Phó Tổng Giám Đốc Kinh Doanh
+Thông Báo Nội Bộ
+Số:            104/DP/2025
+Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh
+               Tư Vấn Tài Chính, Tư Vấn Tài Chính Phục Vụ
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Trần Văn Vàng
+Ngày gửi:      01/06/2025                                                                  Số trang: 02
+
+
+
+
+Các Anh/Chị thân mến,
+Hân hoan chào đón tháng 6 – tháng đánh dấu cột mốc 17 năm thành lập và phát triển của Hanwha Life
+Việt Nam. Tự hào là người bạn đồng hành của hàng triệu gia đình Việt, Công ty sẽ tiếp tục mang đến những
+giải pháp tài chính tối ưu đến thật nhiều khách hàng. Hòa chung không khí hứng khởi và cùng tiếp thêm năng
+lượng giúp Anh/Chị hoạt động sớm ngay từ đầu tháng, Công ty trân trọng thông báo chương trình thi đua
+“HOT SALES – KHỞI ĐỘNG THÁNG 6” với khoản hỗ trợ hấp dẫn như sau:
+
+                            01/06 – 09/06/2025                    DM/UM/FC/SA
+
+
+
+
+   Đặc biệt, các TVTC hoạt động sớm từ đầu tháng sẽ có cơ hội nhận thêm
+                   quyền lợi hấp dẫn vào tuần cuối tháng 6 này
+Ví dụ: Ngày 03/06, TVTC A nộp 2 Hợp đồng đạt tổng IP là 50 triệu và cả hai Hợp đồng đều được phát hành
+trong tháng 6/2025.
+TVTC A nhận khoản hỗ trợ: 50 x 6% = 3 triệu.
+
+      Để tham gia chương trình thi đua, Anh/Chị vui lòng đăng ký tham gia trong thời gian thi đua
+                            (01/06 – 09/06/2025) theo hướng dẫn như sau
+
+
+
+
+Lưu ý quan trọng:
+
+-    Các Hợp đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025 đồng thời được khách
+     hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi Welcome Call thành công trong thời gian
+     cân nhắc và không hủy trong thời gian cân nhắc mới được tính cho chương trình này;
+-    Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
+-    Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với Hanwha Life Việt Nam tại thời điểm trao thưởng
+     và không vi phạm các quy định về Tuân Thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận thưởng;
+-    Để nhận được khoản hỗ trợ từ chương trình này, Anh/Chị cần thực hiện đăng ký thi đua thành công trên
+     ứng dụng LIME Pro. Trường hợp cần hỗ trợ, vui lòng liên hệ Ms. Hằng (DS) - Ext: 1763 hoặc email:
+     limepro@hanwhalife.com.vn để được hỗ trợ kịp thời;
+-    Trong mọi trường hợp, quyết định của Công ty sẽ là quyết định cuối cùng.
+
+Xin chúc Anh/Chị tận dụng chương trình này để khởi động thành công tháng 6!
+Trân trọng,
+
+
+
+    Trần Văn Vàng
+    Phó Tổng Giám Đốc Kinh Doanh
+Thông Báo Nội Bộ
+Số:            100/DP/2025
+Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh,
+               Tư Vấn Tài Chính, Tư Vấn Tài Chính Phục Vụ
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Trần Văn Vàng
+Ngày gửi:      01/06/2025                                                            Số trang: 03
+
+
+
+
+Các Anh/Chị thân mến,
+Nhằm tiếp thêm năng lượng hân hoan, đồng hành cùng các Nhà tuyển dụng thu hút nhiều nhân tài và tạo
+động lực để đội ngũ kinh doanh chinh phục mục tiêu Quý 2/2025, Công ty trân trọng gửi đến Anh/Chị
+chương trình thi đua “TUYỂN DỤNG NGÔI SAO, VƯƠN TỚI TẦM CAO” trong tháng 6/2025 với cơ hội
+nhận khoản hỗ trợ hấp dẫn cùng vé khám phá Malaysia như sau:
+
+
+            Tháng 6/2025                      Nhà tuyển dụng thỏa điều kiện chương trình
+                                              trong thời gian thi đua
+Ví dụ 1:
+
+Trong tháng 6/2025, Nhà tuyển dụng A tuyển dụng được 4 Đại Lý mới, trong đó có 2 Đại Lý thuộc nhóm
+tuổi Thế Hệ Vàng và cả 4 Đại Lý đều có hoạt động ngay trong 48H đầu tiên. Đồng thời, có 2 Đại Lý đạt
+vé tham dự Hành Trình Khởi Nghiệp Ngôi Sao, Vươn Tới Tầm Cao - Malaysia. Hỗ trợ Nhà tuyển dụng
+A sẽ nhận được:
+-    Theo khoản Hỗ Trợ Tuyển Dụng: 1.000.000 x 2 + 500.000 x 2 = 3.000.000 VNĐ/4 Đại Lý mới gia nhập;
+-    Theo khoản Hỗ Trợ Hoạt Động: 4.000.000 x 2 + 3.000.000 x 2 = 14.000.000 VNĐ;
+-    Theo khoản Hỗ Trợ Du Lịch: 1 vé tham dự
+
+Tổng Nhà tuyển dụng A nhận được: 17.000.000 VNĐ và 1 vé tham dự Hành Trình Khởi Nghiệp Ngôi
+Sao, Vươn Tới Tầm Cao - Malaysia.
+
+Ví dụ 2:
+
+Trong tháng 6/2025, Nhà tuyển dụng B tuyển dụng được 3 Đại Lý mới, không thuộc nhóm tuổi Thế Hệ
+Vàng. Trong đó, có 1 Đại Lý vừa có hoạt động trong 48H vừa trong tháng làm việc đầu tiên sau 48H và
+có 2 Đại Lý có hoạt động trong tháng làm việc đầu tiên sau 48H. Đồng thời, có 2 Đại Lý đạt vé tham dự
+Hành Trình Khởi Nghiệp Ngôi Sao, Vươn Tới Tầm Cao - Malaysia.
+
+Hỗ trợ Nhà tuyển dụng B sẽ nhận được:
+-    Theo khoản Hỗ Trợ Tuyển Dụng: 500.000 x 3 = 1.500.000 VNĐ/3 Đại Lý mới gia nhập;
+-    Theo khoản Hỗ Trợ Hoạt Động:
+   • Hỗ trợ 48H: 3.000.000 x 1 = 3.000.000 VNĐ
+   • Hỗ trợ sau 48H: 2.500.000 x 3 = 7.500.000 VNĐ
+-    Theo khoản Hỗ Trợ Du Lịch: 1 vé tham dự
+
+Tổng Nhà tuyển dụng B nhận được: 12.000.000 VNĐ và 1 vé tham dự Hành Trình Khởi Nghiệp Ngôi
+Sao, Vươn Tới Tầm Cao - Malaysia.
+
+Lưu ý quan trọng:
+
+-   Nhà tuyển dụng bao gồm: Tư Vấn Tài Chính và Quản Lý Đại Lý. Đối với nhà tuyển dụng mới gia
+    nhập trong tháng 6/2025, nhà tuyển dụng phải được cấp mã số và ký Hợp đồng Đại Lý Bảo Hiểm
+    trong tháng 6/2025;
+-   Tuyển dụng thành công tháng 6/2025: là trường hợp tuyển dụng Đại Lý mới được cấp mã số và
+    ký Hợp đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6/2025, không bao gồm các trường hợp khôi
+    phục HĐĐL;
+-   Tổng mức hỗ trợ tối đa cho mỗi nhà tuyển dụng cho tất cả chương trình này là 30 triệu đồng (không
+    bao gồm vé du lịch);
+-   (*) Theo chương trình này, Đại Lý mới gồm trường hợp Đại Lý quay trở lại hoạt động và Đại Lý mới
+    gia nhập trong tháng 6 nộp các Hợp Đồng trong 48H và/hoặc sau 48H thỏa điều kiện thi đua tại
+    Memo 99/DP/2025;
+-   Hỗ Trợ Du Lịch: kết quả của nhà tuyển dụng được xét bao gồm trường hợp hỗ trợ thành công Đại
+    Lý quay trở lại hoạt động và nhận được hỗ trợ theo Memo 69/DP/2025, 82/DP/2025 và 99/DP/2025;
+-   Trong tất cả mọi trường hợp, mỗi Đại Lý chỉ nhận tối đa 1 vé tham dự. Vé không có giá trị quy đổi
+    thành tiền mặt hoặc chuyển đổi cho người khác;
+-   Công ty sẽ thanh toán các khoản chi phí tham dự chuyến đi Malaysia kể từ hai điểm khởi hành là
+    sân bay Nội Bài – Hà Nội và sân bay Tân Sơn Nhất – TP.HCM. Công ty sẽ thông báo lịch trình chi
+    tiết đến Anh/Chị trước thời điểm tổ chức Hành trình;
+-   Để tham dự hành trình và nhận hỗ trợ, Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với
+    Hanwha Life Việt Nam tại thời điểm trao thưởng và tổ chức chương trình, không vi phạm các quy
+    định về Tuân thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận giải;
+-   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
+
+Công ty mong rằng Anh/Chị sẽ tận dụng tốt cơ hội từ chương trình đặc biệt này đẩy nhanh tuyển dụng
+tháng 6/2025 và xây dựng lực lượng kinh doanh hùng mạnh!
+Trân trọng,
+
+
+Trần Văn Vàng
+Phó Tổng Giám Đốc kinh Doanh
+Thông Báo Nội Bộ
+Số:            99/DP/2025
+Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh,
+               Tư Vấn Tài Chính, Tư Vấn Tài Chính Phục Vụ
+Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
+Người gửi:     Trần Văn Vàng
+Ngày gửi:      01/06/2025                                                                 Số trang: 03
+
+
+
+
+Các Anh/Chị thân mến,
+Tháng 6 này, hãy cùng chào mừng các chiến binh mới gia nhập Hanwha Life Việt Nam. Nhằm giúp Anh/Chị
+Ngôi sao mới có khởi đầu tỏa sáng, tiếp bước cho hành trình phát triển sự nghiệp đỉnh cao tại Hanwha Life
+Việt Nam, Công ty hân hoan gửi đến chương trình thi đua “KHỞI NGHIỆP NGÔI SAO, VƯƠN TỚI TẦM
+CAO” trong tháng 6/2025 với khoản hỗ trợ hấp dẫn cùng cơ hội giành tấm vé đến Malaysia như sau:
+
+                                               TVTC mới gia nhập trong tháng 6/2025
+                Tháng 6/2025                   thỏa điều kiện chương trình trong thời gian thi đua
+Ví dụ:
+
+TVTC A gia nhập Hanwha Life vào tháng 6/2025. Trong 3 tháng làm việc đầu tiên, TVTC A nộp 6 Hợp Đồng
+và các Hợp Đồng này đều được phát hành theo từng tháng tương ứng. Cụ thể như sau:
+• Trong tháng 6, TVTC A nộp 1 Hợp Đồng với IP là 15 triệu trong 48h đầu tiên và 2 Hợp Đồng với tổng
+    IP là 30 triệu sau 48h.
+ Quyền lợi 48h đầu tiên và sau 48h: 2 + 2 = 4 triệu VNĐ.
+• Trong tháng 7, TVTC A tiếp tục nộp 1 Hợp Đồng với IP là 15 triệu.
+ Quyền lợi tháng làm việc thứ hai: 1 triệu VNĐ.
+• Trong tháng 8, TVTC A tiếp tục nộp 2 Hợp Đồng với tổng IP là 30 triệu.
+ Quyền lợi tháng làm việc thứ ba: 2 triệu VNĐ.
+• Trong 3 tháng làm việc đầu tiên, TVTC A đạt tổng 6 HĐ với 90 triệu FYP, TVTC A nhận được 1 vé tham
+    dự Hành Trình Khởi Nghiệp Ngôi Sao, Vươn Tới Tầm Cao - Malaysia.
+Tổng hỗ trợ mà TVTC A nhận được là: 7 triệu VND và 1 vé tham dự Hành Trình Khởi Nghiệp Ngôi Sao,
+Vươn Tới Tầm Cao – Malaysia.
+Lưu ý quan trọng:
+
+-   TVTC mới gia nhập trong tháng 6/2025: là trường hợp TVTC được cấp mã số, ký Hợp Đồng Đại Lý
+    Bảo Hiểm (HĐĐL) trong tháng 6/2025;
+-   Các trường hợp đã chấm dứt HĐĐL với Hanwha Life Việt Nam trước ngày 01/12/2024 và quay trở lại
+    hoạt động vào tháng 6/2025 được tham gia chương trình này;
+-   Các Hợp đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025, đồng thời được khách
+    hàng xác nhận bàn giao Hợp Đồng thành công, được thực hiện cuộc gọi Welcome Call thành công và
+    không hủy trong thời gian cân nhắc sẽ được tính cho chương trình này. Mỗi Hợp Đồng chỉ được tính
+    tương ứng với một khoản hỗ trợ duy nhất;
+-   TVTC có Hợp Đồng trong 48h: là TVTC có Hợp Đồng nộp trong vòng 48h và phát hành trong vòng 15
+    ngày kể từ ngày nộp Hợp Đồng và không hủy trong thời gian cân nhắc;
+-   TVTC có Hợp Đồng trong tháng làm việc đầu tiên và sau 48h: là TVTC có Hợp Đồng không thuộc
+    48h được nộp và phát hành chậm nhất ngày 30/06/2025 và không hủy trong thời gian cân nhắc;
+-   Thời gian 48 giờ được tính tương ứng với 2 ngày làm việc (Ngày làm việc: từ Thứ Hai đến Thứ Sáu
+    không bao gồm Thứ Bảy và Chủ Nhật và các Ngày nghỉ lễ chính thức do Công ty thông báo). Vui lòng
+    xem chi tiết quy định tính 48 giờ đầu tiên tại Memo 113/DP/2024.
+    •   Đối với sản phẩm An Khang Tài Lộc, Tôi chọn An Yên và các sản phẩm Bảo hiểm liên kết
+        chung mới: Kể từ ngày cấp quyền khai thác sản phẩm và không quá 30 ngày kể từ ngày cấp mã
+        số và ký Hợp Đồng Đại Lý Bảo Hiểm;
+    • Đối với sản phẩm LIFE FUN:D – Sống Thỏa Chất: Kể từ ngày cấp quyền khai thác sản phẩm và
+        không quá 45 ngày kể từ ngày cấp mã số và ký Hợp Đồng Đại Lý Bảo Hiểm;
+-   Tháng làm việc đầu tiên được tính từ ngày TVTC được cấp mã số và ký HĐĐL cho đến ngày khóa sổ
+    của tháng đó. Ví dụ: TVTC A được cấp mã số vào ngày 06/06/2025 sẽ có tháng làm việc đầu tiên kết
+    thúc vào ngày 30/06/2025;
+-   Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
+-   Đối với Hành Trình Du lịch: chỉ áp dụng cho các Hợp Đồng khai thác các sản phẩm: An Khang Tài Lộc,
+    Tôi chọn An Yên, LIFE FUN:D – Sống Thỏa Chất và các sản phẩm liên kết chung/liên kết đơn vị được
+    triển khai trong thời gian tới;
+-   Công ty sẽ thanh toán các khoản chi phí tham dự chuyến đi Malaysia kể từ hai điểm khởi hành là sân
+    bay Nội Bài – Hà Nội và sân bay Tân Sơn Nhất – TP.HCM. Công ty sẽ thông báo lịch trình chi tiết đến
+    Anh/Chị trước thời điểm tổ chức Hành trình;
+-   Trong tất cả mọi trường hợp, mỗi TVTC chỉ nhận tối đa 1 vé tham dự. Vé sẽ không có giá trị quy đổi
+    thành tiền mặt hoặc chuyển nhượng cho người khác;
+-   Để tham dự hành trình và nhận hỗ trợ, Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với
+    Hanwha Life Việt Nam tại thời điểm trao thưởng và tổ chức chương trình, không vi phạm các quy định
+    về Tuân thủ đại lý trong thời gian thi đua và tại thời điểm nhận giải;
+-   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
+
+Công ty mong rằng Anh/Chị sẽ tận dụng tốt cơ hội này để khởi động thành công tháng 6/2025!
+
+Trân trọng,
+
+
+
+
+Trần Văn Vàng
+Phó Tổng Giám Đốc Kinh Doanh
+
 Đầu mối liên hệ Team CS_ IT _NBU_Claim_Compliance
- Lĩnh Vực Phụ Trách Nhân Viên phụ trách Liên hệ email Số máy nhánh
- ➢Phòng DVKH, Công ty TNHH Bảo Hiểm Nhân Thọ FWD Việt Nam (Nhận chứng từ Khách hàng và Đại lý)
- Lưu ý: Người gửi chọn dịch vụ phát tại quầy CS
- Miền Bắc: 
-Đào Thị Quế Phương quephuong.dao@fwd.com Lầu 4, Tòa nhà Artemis, Số 3 Lê Trọng Tấn P. Khương Mai, Q. Thanh Xuân, Hà Nội
- Miền nam: 
-Bùi Thu Thùy thuthuy.bui@fwd.com Lầu 6, Tòa nhà Cienco, Số 180 Nguyễn Thị Minh Khai, P. Võ Thị Sáu, Q.3, TPHCM
- Miền Trung: 
-Trần Thị Lợi loi.tran@fwd.com
-Lầu lửng, Tòa nhà V. Starup, Số 16 Lý Thường Kiệt, P. Thạch Thang, Q. Hải Châu, Đà Nẵng
- ➢Tổng Đài IT –LiveChat @ 
-Hotline (IT)
- Hỗ trợ công nghệ số (CUBE) hotrocongngheso@fwd.com
- Live chat on SMART ServiceDesk.vn@fwd.com (24) 39386757 – ext: 1111
- Live chat on SMART ServiceDesk.vn@fwd.com (24) 62563688 – ext: 2222
- ➢Tổng Đài Thẩm Định (Hot line NBU) Nguyễn Hương Thảo Huongthao.nguyen@fwd.com 1410
- ➢Chi Trả Quyền Lợi Khách Hàng (Claim) Nguyễn Thị Quỳnh Trâm QuynhTram.Nguyen@fwd.com 2527
- ➢Thanh Tra (Compliance) Tạ Thúc Hoàng Thuchoang.ta@fwd.com 2970 
-Đầu mối liên hệ Team Học viện (Agency Training - COE)
- ➢ Lịch đào tạo (lớp Shine/ILP/ WSH về sản phẩm/WSH dành cho CQL) - Miền Bắc Lịch đào tạo dành cho RSP - Miền Bắc Nguyễn Quốc Tuấn QuocTuan.Nguyen@fwd.com 3612
- ➢ Lịch đào tạo (lớp Shine/ILP/ WSH về sản phẩm/WSH dành cho CQL) - Miền Nam & Trung Lịch đào tạo dành cho RSP - Miền Nam & Trung
- Ngô Trần Cát Miên CatMien.Ngo@fwd.com 3378
- ➢ Lịch đào tạo dành cho AD toàn quốc Lộ trình đào tạo cho AD mới Trần Tuấn Vũ TuanVu.Tran@fwd.com 3384
- ➢Hỗ trợ đăng nhập AOL, kết quả thi Shine Phạm Thị Diệu Huyền Trương Thị Quỳnh Thoa DieuHuyen.Pham@fwd.com vnuser102@fwd.com 3614
- ➢Xét duyệt thời gian lớp Shine (refresh ILP 2.0) Đỗ Duy Ninh Do.DuyNinh@fwd.com 3377
-Đầu mối liên hệ Team Agency Support – GA Support 
-Lĩnh Vực Phụ Trách Nhân Viên phụ trách Liên hệ email Máy nhánh
- ➢Thi đua Đinh Thị Thanh Dung Thanhdung.dinh@fwd.com 2335
- ➢Sự kiện Huỳnh Thị Phương Anh Phuonganh.Huynh@fwd.com 2534
- ➢Hỗ trợ Hợp đồng doanh nghiệp Nguyễn Thị Ngọc Thủy thuy.nguyenngoc@fwd.com 2146
- ➢eRecruit, Quy trình Shine 
- Lê Thanh Hoa thanhhoa.le@fwd.com 3609
- Nguyễn Thị Vân Thanh vanthanh.nguyen@fwd.com 3608
-
- ➢Hỗ trợ Sales (Payment, Pending)
- (HANOI - ĐÔNG BẮC & DUYÊN HẢI BẮC BỘ) Vũ Thị Hà Ngân  hangan.vu@fwd.com 3606
-(HCM & ĐÔNG NAM BỘ - MEKONG - NAM TRUNG BỘ & TÂY NGUYÊN)
- Nguyễn Thị Vân Thanh vanthanh.nguyen@fwd.com 3608
- ➢Hỗ Trợ GA
- Nguyễn Thị Vân Thanh Khu vực phía Bắc (từ Huế trở ra) vanthanh.nguyen@fwd.com 3608
- Phan Joli Khu vực phía Nam (từ Đà Nẵng trở vào) joli.phan@fwd.com 2394
- Lưu ý: Thắc mắc thi đua sẽ trả lời trong vòng 1 đến 2 ngày làm việc (không tính thứ 7, CN và các ngày lễ) kể từ ngày tiếp nhận thông tin
-Đầu mối liên hệ Team ASP (Agency Strategy and Planning)
- Lĩnh Vực Phụ Trách
- ➢ Báo cáo Sale, ACDP/RSP/MDRT Trương Thị Vân Anh - Vananh.truong@fwd.com - 2529
- ➢ Báo cáo MOC/PROMOTION Nguyễn Hải Triều - Haitrieu.nguyen@fwd.com - 2268
- ➢ Báo cáo Daily Production Nguyễn Thanh Trúc - Thanhtruc.nguyen@fwd.com - 2978
-
-Thông tin các phòng ban back office:
-AAS: Phòng Hỗ trợ và quản lý Đại Lý – Kênh Đại lý
-GA: Bộ phận quản lý văn phòng GA – Kênh Đại lý
-ASP: Agency Strategy and Planning
-Agency Recruitment: Phòng Tuyển Dụng - Kênh Đại Lý
-Agency Training – COE: Học Viện đào tạo - Kênh Đại Lý
-MKT : Truyền thông và thương hiệu
-Legal – Compliance: Pháp Chế và Thanh Tra
-IT : Tổng Đài IT – LiveChat @ Hotline
-Hỗ trợ công nghệ số (CUBE)
-CS: Trung tâm dịch vụ khách hàng (Nơi tiếp nhận chứng từ và giải đáp thông tin trực tiếp tại quầy)
-OP: Chi trả quyền lợi khách hàng (Claim) & Tổng đài Thẩm định (NBU)
-Procurement: Phòng mua hàng
-Property: Phòng Quản lý văn phòng
-
+ 
 Thông tin giới thiệu về FWD Việt Nam:
 Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam được thành lập theo Giấy phép Thành lập và Hoạt động số 47GP/KDBH do Bộ Tài chính cấp vào ngày 23 tháng 11 năm 2007 và Giấy phép điều chỉnh mới nhất số 47/GPĐC22/KDBH được Bộ Tài chính cấp ngày 24 tháng 07 năm 2023.
 Với tầm nhìn thay đổi cảm nhận của mọi người về bảo hiểm, FWD là công ty bảo hiểm khác biệt, mang đến khách hàng những trải nghiệm mới mẻ, giúp quá trình tham gia bảo hiểm đơn giản, nhanh chóng và dễ dàng hơn với các giải pháp sáng tạo, sản phẩm dễ hiểu được hỗ trợ bởi công nghệ số thông minh.
