@@ -100,9 +100,47 @@ Danh sách GA Bình Dương 2
 92501008	LÊ MINH THÚY	FC
 92500965	NGUYỄN HỮU VINH	SrDM
 92501054	NGUYỄN KHẢ VY	FC
+92501119	NGUYỄN LÊ NA	FC
 92500966	VÕ THỊ HẢI DIỄM	UM
 92501067	TRẦN VĂN THUẬN	FC
 92501121	PHẠM NGỌC LONG	FC
+92501124	NGUYỄN TRỌNG HIẾU	FC
+92501135	NGÔ THỊ HOÀI THANH	FC
+
+DANH SÁCH HANWHA LEAD SOUTH EAST (SE)
+Mã số FC	Tên đại lý	C/vụ	Ngày hiệu lực SA gần nhất	Tình trạng	Ngày cấp code	"Ngày ký
+hợp đồng"	Hanwha Lead
+							
+							
+92500014	BÙI CÔNG CHỨC	UM		Đã ký HDDL	3/1/25	5/1/25	 Gold 
+92500015	DOÃN TÂM HOÀNG HUY HƯNG	UM		Đã ký HDDL	3/1/25	3/1/25	 Silver 
+92500011	HUỲNH KHANG NINH	FC		Đã ký HDDL	3/1/25	5/1/25	 Platinum 
+92500012	NGUYỄN THỊ MỸ TIÊN	UM		Đã ký HDDL	3/1/25	5/1/25	 Gold 
+92500017	LÝ MỸ SANG	FC		Đã ký HDDL	3/1/25	4/1/25	 Gold 
+92500111	VÕ THÀNH HƯNG	UM		Đã ký HDDL	17/1/25	20/1/25	 Gold 
+92401195	VÕ THỊ TUYẾT HẠNH	DM		Đã ký HDDL	6/6/24	8/6/24	 Gold 
+92500252	NGUYỄN ĐÌNH ĐIỂN	FC		Đã ký HDDL	18/2/25	18/2/25	 Gold 
+91002195	MAI THỊ HỒNG NHUNG	SrDM		Đã ký HDDL	6/7/10	6/7/10	 Gold 
+
+Danh hiệu MDRT: ĐIỀU KIỆN DOANH SỐ HOẶC THU NHẬP VÀ TỶ LỆ K2 TỪ TRÊN 65%
+MDRT: DOANH SỐ 933.604.600 FYP THƯỞNG 30 TRIỆU VÀ THƯỞNG THEO TIẾN ĐỘ VÀ CÁC KHOẢN THƯỞNG KHÁC
+COT: DOANH SỐ 2.800.813.800 FYP THƯỞNG 50 TRIỆU VÀ THƯỞNG THEO TIẾN ĐỘ VÀ CÁC KHOẢN THƯỞNG KHÁC
+TOT: DOANH SỐ 5.601.627.600 FYP THƯỞNG 100 TRIỆU VÀ THƯỞNG THEO TIẾN ĐỘ VÀ CÁC KHOẢN THƯỞNG KHÁC
+
+ĐẲNG CẤP SAO 2025
+TRIP HỒNG KÔNG TỪ 01/01 ĐẾN 30/06 VỚI ĐIỀU KIỆN gồm doanh số, K2 từ trên 65% và số lượt hoạt động. Trong đó lượt của đại lý mới 3 tháng được nhân đôi.
+FC: doanh số 600tr FYP
+UM: doanh số ban 1.32 tỷ và có 12 lượt hoạt động
+DM: doanh số khu vực 3.6 tỷ và 24 lượt hoạt động
+GAD: doanh số 7.2 tỷ và 36 lượt hoạt động
+
+TRIP PHÁP & THUỴ SỸ TỪ 01/01 ĐẾN 31/12 VỚI ĐIỀU KIỆN gồm doanh số, K2 từ trên 65% và số lượt hoạt động. Trong đó lượt của đại lý mới 3 tháng được nhân đôi.
+FC: doanh số 1.32 TỶ FYP
+UM: doanh số ban 3 tỷ và có 24 lượt hoạt động
+DM: doanh số khu vực 7.8 tỷ và 36 lượt hoạt động
+GAD: doanh số 15 tỷ và 60 lượt hoạt động
+NHẬN THÊM 1 VÉ KHI ĐẠT GẤP ĐÔI CHI TIÊU CÁ NHÂN FC HOẶC ĐẠT ĐỒNG THỜI CHỈ TIÊU CÁ NHÂN VÀ 1 TRONG 3 CHỈ TIÊU CỦA UM, DM, GAD.
+
 
 
 
