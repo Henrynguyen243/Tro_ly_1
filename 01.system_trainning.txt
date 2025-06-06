@@ -107,6 +107,19 @@ Danh sách GA Bình Dương 2
 92501124	NGUYỄN TRỌNG HIẾU	FC
 92501135	NGÔ THỊ HOÀI THANH	FC
 
+
+DANH SÁCH THEO DÕI HANWHA FM (HFM) 
+Mã số TVTC	Tên TVTC	Ngày gia nhập	Chức danh	Tuổi	 Tổng FYP thực đạt trong Quý II 	 Số lượng FC tuyển dụng thành công trong Quý II 	 Lượt FC mới có hoạt động trong Quý II 	" Kết quả theo
+ Memo 06ATO2025 "	 Chỉ tiêu cần bổ sung 			Tên khu vực KD
+									  FYP cần thêm 	 Số lượng FC cần tuyển thêm 	 Số lượt FC mới có hoạt động cần thêm 	
+92500011	HUỲNH KHANG NINH	5/1/25	FC	31	 82.997.000 	 1 	 1 	 Không Đạt 		1		QUẬN 8 - 01
+92500496	PHẠM QUỐC BẢO	21/3/25	FC	42	 55.034.000 	 1 	 1 	 Không Đạt 		1		QUẬN 8 - 01
+92500967	LÊ TRỌNG TÌNH	19/5/25	FC	25	 15.519.000 	 1 	 1 	 Không Đạt 	 14.481.000 	1		BÌNH DƯƠNG 2 - 01
+92500887	ĐINH VŨ HỒNG ANH	29/4/25	FC	20	 15.072.000 	 1 	 - 	 Không Đạt 	 14.928.000 	1	1	CHÂU ĐỨC - 02
+92500252	NGUYỄN ĐÌNH ĐIỂN	18/2/25	FC	51	 - 	 3 	 3 	 Không Đạt 	 30.000.000 			BIÊN HÒA 2 - 01
+92108612	ĐINH VŨ HỒNG SƠN	5/4/25	FC	32	 - 	 1 	 1 	 Không Đạt 	 30.000.000 	1		CHÂU ĐỨC - 02
+92500017	LÝ MỸ SANG	4/1/25	FC	33	 - 	 1 	 - 	 Không Đạt 	 30.000.000 	1	1	QUẬN 8 - 01
+
 DANH SÁCH HANWHA LEAD SOUTH EAST (SE)
 Mã số FC	Tên đại lý	C/vụ	Ngày hiệu lực SA gần nhất	Tình trạng	Ngày cấp code	"Ngày ký
 hợp đồng"	Hanwha Lead
