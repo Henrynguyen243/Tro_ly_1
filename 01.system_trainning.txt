@@ -80,14 +80,6 @@ IP từ trên 800tr nhận từ 2.5% đến 7% IP
 
 
 
-
-
-
-
-
-
-
-
 Lớp BFC tiếp theo là lớp có ngày chốt hồ sơ (HS) sau ngày anh hỏi em.
 Danh sách lớp học BFC và kỳ thi, ngày chốt hồ sơ
 Ngày chốt HS	Ngày học	Ngày thi	Điểm thi	Hình thức	Người phụ trách	Tên VP/GA	Khu vực	Mã Lớp	Tên Lớp
@@ -99,6 +91,19 @@ Ngày chốt HS	Ngày học	Ngày thi	Điểm thi	Hình thức	Người phụ tr
 10/06	12/06 – 13/06	17/06	TP.HCM		Phạm Viết Đạt	AO Châu Đức	ĐÔNG NAM	BFC2420250845_1016	BFC2420250845_ AO CHAU DUC_12-13 JUN
 19/06	23/06 – 24/06	26/06	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250846_302	BFC2420250846_ HO CHI MINH_23-24 JUN
 26/06	30/06– 01/07		TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250847_302	BFC2420250847_ HO CHI MINH_30 JUN-01 JUL
+
+
+Danh sách GA Bình Dương 2
+92500967	LÊ TRỌNG TÌNH	FC
+92500968	NGUYỄN THỊ MỶ THY	FC
+92501007	LÊ THANH BÌNH	UM
+92501008	LÊ MINH THÚY	FC
+92500965	NGUYỄN HỮU VINH	SrDM
+92501054	NGUYỄN KHẢ VY	FC
+92500966	VÕ THỊ HẢI DIỄM	UM
+92501067	TRẦN VĂN THUẬN	FC
+92501121	PHẠM NGỌC LONG	FC
+
 
 
 CÁC KHÁI NIỆM
