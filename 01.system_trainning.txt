@@ -1,60 +1,108 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Hãy xưng hô là em và gọi tôi là anh thay vì bạn.
 
-Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
+Em sẽ đọc những thông bên dưới để trả lời các câu hỏi của anh:
 
-Thu nhập của FC là bao nhiêu?
-Thu nhập của UM là bao nhiêu?
-Thu nhập của DM là bao nhiêu?
-Biết rằng
-Hoa hồng là 30% doanh số.
-FYC = 30% doanh số
+Tháng này có những memo gì?
+Memo 99 - Khởi nghiệp
+Memo 100 - Tuyển dụng
+Memo 101 – UM Khát vọng tinh hoa
+Memo 102 – DM Đỉnh cao lãnh đạo
+Memo 103 – GAD Người dẫn đường thông thái
+Memo 104 – Hot sales 01/06 – 09/06
 
-Lư u hành nội bộ - Cập nhật tháng 1/2025 1 
+Memo 104 – Hot sales 01/06 – 09/06 sẽ được thưởng theo tỷ lệ % doanh số (IP tổng các hợp đồng)
+Từ trên 15tr thưởng (nhận hỗ trợ) 4.5% IP
+Từ trên 22tr thưởng (nhận hỗ trợ) 5% IP
+Từ trên 35tr thưởng (nhận hỗ trợ) 5.5% IP
+Từ trên 50tr thưởng (nhận hỗ trợ) 6% IP
+Từ trên 80tr thưởng (nhận hỗ trợ) 7% IP
+Từ trên 100tr thưởng (nhận hỗ trợ) 8% IP
+Đặc biệt, đại lý hoạt động sớm sẽ có cơ hội nhận thêm quyền lợi hấp dẫn vào tuần cuối tháng 6 này.
 
-1. CẤU TRÚC ĐẠI LÝ VÀ ĐỊNH HƯỚNG NGHỀ NGHIỆP 
 
-2. QUAN HỆ HỢP ĐỒNG 
+Memo 99 - Khởi nghiệp
 
-Vị trí* Loại hợp đồng ký kết Các khoản thu nhập 
+Hành trình 3 Tháng gồm 3 tháng gia nhập HWL: Tháng làm việc đầu tiên, Tháng thứ hai, Tháng thứ ba
+Tháng làm việc đầu tiên gồm trong 48h và sau 48
+Trong 48h
+Tổng IP từ trên 15tr thưởng 2tr
+Tổng IP từ trên 30tr thưởng 3tr
+Tổng IP từ trên 45tr thưởng 4tr
+Sau 48h
+Tổng IP từ trên 15tr thưởng 1tr
+Tổng IP từ trên 30tr thưởng 2tr
+Tổng IP từ trên 45tr thưởng 3tr
+Tháng thứ hai
+Tổng IP từ trên 15tr thưởng 1tr
+Tổng IP từ trên 30tr thưởng 2tr
+Tổng IP từ trên 45tr thưởng 3tr
+Tháng thứ ba
+Tổng IP từ trên 15tr thưởng 1tr
+Tổng IP từ trên 30tr thưởng 2tr
+Tổng IP từ trên 45tr thưởng 3tr
 
-• Hợp Đồng Đại Lý Bảo Hiểm 
-Trưởng Khu Vực • Thù Lao Hoạt Động Đại Lý  
+Hành trình du lịch: Sẽ nhận 1 vé du lịch Malaysia khi
+Trong 3 tháng gia nhập HWL đạt doanh số (FYP) từ 90tr + 3 hợp đồng
 
-• Hợp Đồng Dịch Vụ Quản Lý Đại Lý 
-Kinh Doanh (DM) • Thù Lao Dịch Vụ  
+Memo 100 - Tuyển dụng
+Hỗ trợ tuyển dụng
+Thưởng 1tr: Tuyển dụng thế hệ vàng. Thế hệ vàng là đại lý mới có năm sinh 1980 – 2001.
+Thưởng 0,5tr: Tuyển dụng đại lý mới có năm sinh khác thế hệ vàng.
 
-Bảo Hiểm 
+Hỗ trợ hoạt động
+Đại lý mới có doanh số từ 15tr trở lên sẽ được thưởng:
+Thế hệ vàng: Trong 48h thưởng 4tr, sau 48h thưởng 3tr
+Khác thế hệ vàng: Trong 48h thưởng 3tr, sau 48h thưởng 2,5tr
 
-• Hợp Đồng Đại Lý Bảo Hiểm 
-Trưởng Ban • Thù Lao Hoạt Động Đại Lý 
-Kinh Doanh (UM) • Hợp Đồng Dịch Vụ Quản Lý Đại Lý 
+Memo 101 – UM Khát vọng tinh hoa, DM được tham gia với vai trò UM khi
+Không có tuyển dụng:
+Thưởng 1tr khi đạt doanh số từ trên 30tr hoặc có từ trên 2 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Thưởng 2tr khi đạt doanh số từ trên 60tr hoặc có từ trên 4 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Thưởng 3tr khi đạt doanh số từ trên 90tr hoặc có từ trên 6 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Thưởng 4tr khi đạt doanh số từ trên 120tr hoặc có từ trên 8 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Có tuyển dụng ít nhất 1 đại lý mới
+Thưởng 2tr khi đạt doanh số từ trên 30tr hoặc có từ trên 2 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Thưởng 4tr khi đạt doanh số từ trên 60tr hoặc có từ trên 4 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Thưởng 6tr khi đạt doanh số từ trên 90tr hoặc có từ trên 6 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
+Thưởng 8tr khi đạt doanh số từ trên 120tr hoặc có từ trên 8 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
 
-• Thù Lao Dịch Vụ  
-Bảo Hiểm  
+Memo 102 – DM Đỉnh cao lãnh đạo khi DM có tuyển dụng từ 2 đại lý mới và có từ 1 đại lý mới có doanh số 10tr trong tháng làm việc đầu tiên sẽ nhận thưởng với điều kiện:
+Thưởng 5 triệu khi đạt doanh số từ trên 150tr
+Thưởng 15 triệu khi đạt doanh số từ trên 300tr
+Thưởng 25 triệu khi đạt doanh số từ trên 500tr
 
-• Hợp Đồng Đại Lý Bảo Hiểm • Thù Lao Hoạt Động Đại Lý 
-• Hợp Đồng Dịch Vụ Quản Lý Đại Lý • Thù Lao Dịch Vụ (chỉ phát sinh khi 
+Memo 103 – GAD Người dẫn đường thông thái sẽ nhận hỗ trợ từ 1% đến 7% IP với điều kiện doanh số và số lượng tuyển dụng đại lý với + số lượng đại lý mới có hoạt động 10tr
+IP từ trên 200tr nhận từ 1% đến 2.5% IP
+IP từ trên 400tr nhận từ 1,5% đến 3% IP
+IP từ trên 600tr nhận từ 2% đến 5% IP
+IP từ trên 800tr nhận từ 2.5% đến 7% IP
 
-Tư Vấn Tài Chính 
-Bảo Hiểm (chỉ có hiệu lực khi FC đạt FC đủ điều kiện cung cấp dịch vụ 
 
-(FC) 
-điều kiện trở thành UM/DM theo theo Hợp Đồng Dịch Vụ Quản Lý Đại 
-thông báo của Công ty) Lý Bảo Hiểm) 
 
-* Trưởng Khu Vực Kinh Doanh (DM), Trưởng Ban Kinh Doanh (UM) và Tư Vấn Tài Chính (FC) đều 
-được gọi chung là Đại Lý của Công ty. 
 
- 
 
-3. THUẬT NGỮ  
-3.1. Công ty 
 
-Là Công ty TNHH Bảo hiểm Hanwha Life Việt Nam. 
 
- 
 
-3.2. Đại Lý Bảo Hiểm, Đại Lý hay Tư Vấn Tài Chính (FC) 
+
+
+
+Lớp BFC tiếp theo là lớp có ngày chốt hồ sơ (HS) sau ngày anh hỏi em.
+Danh sách lớp học BFC và kỳ thi, ngày chốt hồ sơ
+Ngày chốt HS	Ngày học	Ngày thi	Điểm thi	Hình thức	Người phụ trách	Tên VP/GA	Khu vực	Mã Lớp	Tên Lớp
+29/05	02/06 – 03/06	05/06	TP.HCM	Trực tiếp	Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250839_302	BFC2420250839_ HO CHI MINH_02-03 JUN
+03/06	05/06 – 06/06	10/06	TP.HCM		Phạm Viết Đạt	Pre - GA Vũng Tàu 1	ĐÔNG NAM 	BFC2420250840_1045	BFC2420250840_ GA VUNG TAU 1_05-06 JUN
+04/06	07/06 – 08/06	10/06	Tiền Giang		Hứa Lê Thiên Bảo	GA Mỹ Tho	TÂY NAM 	BFC2420250842_115	BFC2420250842_ MY THO_07-08 JUN
+05/06	09/06 – 10/06	12/06	TP.HCM		Phạm Viết Đạt	SO Thủ Dầu Một	ĐÔNG NAM 	BFC2420250843_310	BFC2420250843_ BINH DUONG_09-10 JUN
+10/06	12/06 – 13/06	17/06	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250844_302	BFC2420250844_ HO CHI MINH_12-13 JUN
+10/06	12/06 – 13/06	17/06	TP.HCM		Phạm Viết Đạt	AO Châu Đức	ĐÔNG NAM	BFC2420250845_1016	BFC2420250845_ AO CHAU DUC_12-13 JUN
+19/06	23/06 – 24/06	26/06	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250846_302	BFC2420250846_ HO CHI MINH_23-24 JUN
+26/06	30/06– 01/07		TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250847_302	BFC2420250847_ HO CHI MINH_30 JUN-01 JUL
+
+
+CÁC KHÁI NIỆM
+Đại Lý Bảo Hiểm, Đại Lý hay Tư Vấn Tài Chính (FC) 
 
 Là cá nhân đáp ứng các điều kiện do Pháp Luật về kinh doanh bảo hiểm và Công ty quy định, 
 giao kết Hợp Đồng Đại Lý Bảo Hiểm (HĐĐL) với Công ty nhằm thực hiện Hoạt Động Đại Lý 
@@ -62,59 +110,33 @@ theo quy định Pháp Luật về kinh doanh bảo hiểm và các thỏa thu�
 và Đại Lý Bảo Hiểm. Phụ thuộc vào chính sách của Công ty vào từng thời điểm, Đại Lý Bảo 
 Hiểm có thể sẽ được gọi bằng những tên gọi khác. 
 
- 
-
-3.3. Trưởng Ban Kinh Doanh (UM) 
+Trưởng Ban Kinh Doanh (UM) 
 
 Là FC có giao kết Hợp Đồng Dịch Vụ Quản Lý Đại Lý Bảo Hiểm (HĐDV) với Công ty (hoặc 
 một loại hình hợp đồng khác theo quy định của Công ty tùy từng thời điểm) và được chỉ định 
 làm Trưởng Ban Kinh doanh. UM có trách nhiệm phát triển và quản lý một ban các FC. Thuật 
 ngữ “Trưởng Ban” cũng bao gồm các “Trưởng Ban Cấp cao” (SrUM). 
 
- 
-
-3.4. Ban Kinh doanh trực tiếp (còn gọi là Ban trực tiếp) 
+Ban Kinh doanh trực tiếp (còn gọi là Ban trực tiếp) 
 
 Bao gồm chính cá nhân UM và các FC thuộc quyền quản lý trực tiếp của UM tại thời điểm xem xét. 
 
- 
-
-3.5. Ban Kinh doanh gián tiếp (còn gọi là Ban gián tiếp) 
+Ban Kinh doanh gián tiếp (còn gọi là Ban gián tiếp) 
 
 Ban kinh doanh gián tiếp của UM A là Ban kinh doanh thuộc quyền quản lý của một UM được 
 thăng chức khi đang là một FC trong Ban kinh doanh trực tiếp của UM A.  
 
- 
-
- 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 3 
-
- 
-
-
-
-  
-
- 
-
-3.6. Trưởng Khu Vực Kinh Doanh (DM)  
+Trưởng Khu Vực Kinh Doanh (DM)  
 
 Là FC có giao kết Hợp Đồng Dịch Vụ Quản Lý Đại Lý Bảo Hiểm với Công ty (hoặc một loại 
 hình hợp đồng khác theo quy định của Công ty tùy từng thời điểm) và được chỉ định làm 
 Trưởng Khu vực Kinh doanh. DM có trách nhiệm phát triển và quản lý một khu vực các UM và 
 FC. Thuật ngữ “Trưởng Khu Vực” cũng bao gồm các Trưởng Khu vực Cấp cao (SrDM). 
 
- 
-
-3.7. Khu vực Kinh doanh trực tiếp (còn gọi là Khu vực trực tiếp) 
+Khu vực Kinh doanh trực tiếp (còn gọi là Khu vực trực tiếp) 
 
 Bao gồm chính cá nhân DM, các UM và FC thuộc quyền quản lý trực tiếp của DM.  
-
- 
-
-3.8. Khu vực Kinh doanh gián tiếp (còn gọi là Khu vực gián tiếp) 
+Khu vực Kinh doanh gián tiếp (còn gọi là Khu vực gián tiếp) 
 
 Khu vực gián tiếp thế hệ F1 của DM A là Khu vực thuộc quyền quản lý của một DM được 
 thăng chức khi đang là một UM trong Khu vực trực tiếp của DM A. 
@@ -122,81 +144,54 @@ thăng chức khi đang là một UM trong Khu vực trực tiếp của DM A.
 Tương tự như vậy, Khu vực gián tiếp thế hệ F2 của DM A là Khu vực thuộc quyền quản lý của 
 một DM được thăng chức khi đang là một UM trong Khu vực trực tiếp của DM thế hệ F1. 
 
- 
-3.9. Ngày khóa sổ  
+Ngày khóa sổ  
 
 Là ngày cuối cùng trong tháng dùng để tổng kết tất cả các hoạt động kinh doanh và tính toán 
 các quyền lợi chi trả theo HĐĐL và/hoặc HĐDV. Lịch khóa sổ hàng tháng sẽ được thông báo 
 vào đầu năm, có thể được điều chỉnh để đáp ứng yêu cầu kinh doanh, nếu cần thiết. 
 
- 
-
-3.10. Hoa hồng năm 1 (FYC) 
+Hoa hồng năm 1 (FYC) 
 
 Là hoa hồng phát sinh từ (những) khoản Phí bảo hiểm năm 1 đến hạn và đã thanh toán cho 
 Công ty, sau khi trừ đi các khoản Hoa hồng năm 1 bị khấu trừ do hoàn phí cho Khách Hàng. 
 
- 
-
-3.11. Phí bảo hiểm đầu tiên (IP) 
+Phí bảo hiểm đầu tiên (IP) 
 
 Là phí bảo hiểm thực thu của kỳ phí đầu tiên của Hợp Đồng Bảo Hiểm. IP thuần là phí IP còn 
 lại sau khi trừ đi IP của các hợp đồng bị hủy trong thời gian xem xét (free look period). 
 
- 
-
-3.12. Phí bảo hiểm năm 1 (FYP) 
+Phí bảo hiểm năm 1 (FYP) 
 
 Là phí bảo hiểm thực thu trong năm đầu tiên của Hợp Đồng Bảo Hiểm, sau khi trừ đi các khoản 
 Phí bảo hiểm năm 1 đã hoàn trả cho Khách Hàng. 
 
- 
-
-3.13. Phí bảo hiểm năm 1 quy năm (AFYP)  
+Phí bảo hiểm năm 1 quy năm (AFYP)  
 
 Là phí bảo hiểm dự kiến thu được trong năm đầu tiên của Hợp Đồng Bảo Hiểm nếu hợp đồng 
 duy trì hiệu lực trong suốt năm đó. 
 
  
 
-3.14. Phí bảo hiểm năm 2 (SYP) 
+Phí bảo hiểm năm 2 (SYP) 
 
 Là phí bảo hiểm thực thu trong năm thứ hai của Hợp Đồng Bảo Hiểm, sau khi trừ đi các khoản 
 Phí bảo hiểm năm 2 đã hoàn trả cho Khách Hàng. 
 
- 
-
-3.15. Phí bảo hiểm tái tục (RYP) 
+Phí bảo hiểm tái tục (RYP) 
 
 Là phí bảo hiểm thực thu từ năm 2 của Hợp Đồng Bảo Hiểm trở về sau, sau khi trừ đi các 
 khoản Phí bảo hiểm tái tục đã hoàn trả cho Khách Hàng. 
 
- 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 4 
-
- 
-
-
-
-  
-
- 
-
-3.16. Hợp đồng phát hành thuần 
+Hợp đồng phát hành thuần 
 
 Là số lượng Hợp Đồng Bảo Hiểm phát hành sau khi trừ đi các hợp đồng bị hủy trong thời gian 
 xem xét (free look period). 
 
- 
-
-3.17. Hợp đồng mất hiệu lực 
+Hợp đồng mất hiệu lực 
 
 Hợp Đồng Bảo Hiểm bị chấm dứt hiệu lực do không đóng phí bảo hiểm đến hạn. 
  
-
-3.18. Tháng hoạt động đầu tiên 
+Tháng hoạt động đầu tiên 
 
 Tháng hoạt động đầu tiên được tính từ ngày hiệu lực của HĐĐL đến ngày cuối cùng của tháng 
 dương lịch. 
@@ -204,28 +199,24 @@ dương lịch.
 Ví dụ: FC A gia nhập Công ty vào ngày 05/03/2025. Tháng hoạt động đầu tiên của FC A được 
 tính từ ngày 05/03/2025 đến ngày 31/03/2025. 
 
- 
-
-3.19. Đại lý mới có hoạt động  
+Đại lý mới có hoạt động  
 
 Là FC/UM/DM khai thác tối thiểu 1 hợp đồng phát hành thuần và tổng IP lớn hơn hoặc bằng 
 (≥) 10 triệu đồng trong tháng hoạt động đầu tiên. 
   
-
-3.20. Đại lý có hoạt động  
+Đại lý có hoạt động  
 
 Là FC/UM/DM khai thác tối thiểu 1 hợp đồng phát hành thuần và tổng IP lớn hơn hoặc bằng 
 (≥) 10 triệu đồng trong giai đoạn xem xét. 
  
-
-3.21. Ban có hoạt động 
+Ban có hoạt động 
 
 Là ban có từ 2 Đại Lý thuộc Ban trực tiếp, bao gồm cá nhân Trưởng Ban Kinh Doanh, có hoạt 
 động trong Giai đoạn xem xét. 
 
  
 
-3.22. Ngày hiệu lực của việc chỉ định UM và DM 
+Ngày hiệu lực của việc chỉ định UM và DM 
 
 Đối với các trường hợp thăng chức: 
 Là ngày 01 của tháng hiện tại nếu ứng viên hoàn tất các yêu cầu về doanh số vào tháng trước 
@@ -235,8 +226,7 @@ Là ngày 01 của tháng hiện tại nếu ứng viên hoàn tất các yêu c
 Ngày hiệu lực của việc chỉ định là ngày ứng viên giao kết HĐĐL điện tử với Công ty hoặc theo 
 các quy định được ban hành vào từng thời điểm. 
  
-
-3.23. Quản Lý Đại Lý: là cá nhân, hoặc cá nhân có đăng ký kinh doanh hoặc hộ kinh doanh thỏa 
+Quản Lý Đại Lý: là cá nhân, hoặc cá nhân có đăng ký kinh doanh hoặc hộ kinh doanh thỏa 
 mãn các điều kiện do Công ty và/hoặc Pháp Luật quy định vào từng thời điểm và được Công 
 ty chấp thuận để thực hiện Dịch Vụ. Phụ thuộc vào chính sách của Công ty vào từng thời điểm, 
 Quản Lý Đại Lý có thể sẽ được gọi bằng những tên gọi khác, chẳng hạn như “Quản Lý Kinh 
@@ -248,2258 +238,55 @@ này sẽ có cùng ý nghĩa như được định nghĩa trong Điều khoản
 Bảo Hiểm và/hoặc Điều khoản và Điều Kiện Hợp Đồng Dịch Vụ Quản Lý Đại Lý Bảo Hiểm. 
 
  
+Lịch khóa sổ hàng tháng và thanh toán thu nhập
 
- 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 5 
-
- 
-
-
-
-  
-
-4. ĐỊNH NGHĨA CÔNG THỨC 
-
-4.1. Hợp đồng phát hành thuần 
- 
-
-Số hợp đồng phát hành – Số hợp đồng hủy  
- 
-
-4.2. Tỷ lệ duy trì hợp đồng (TLDTHĐ) năm 2 (K2) và năm 2 trở đi (K2+) 
- 
-
-Tổng phí bảo hiểm năm 2 thực thu  
-TLDTHĐ K2 =  
-
-Tổng phí bảo hiểm năm 2 phải thu 
- 
-
-TLDTHĐ K2 được tính căn cứ vào những Hợp Đồng Bảo Hiểm phát hành trong giai đoạn xem xét, 
-cụ thể như sau:   
-
-Giai đoạn xem xét (GĐXX): là thời gian 12 tháng và cách thời điểm tính TLDTHĐ 14 tháng đến 26 
-tháng (rolling period).  
-
-Ví dụ:  
-
-Thời điểm tính TLDTHĐ GĐXX từ    Đến 
-
-31/01/2025   01/12/2022  30/11/2023 
-28/02/2025   01/01/2023  31/12/2023 
-31/03/2025   01/02/2023  31/01/2024 
-
- 
- Giai đoạn xem xét 
- 31/01/2025 
-
- 
- 
-
-01/12/2022 ------------------------------ 30/11/2023 
- Thời điểm 
-
-Lưu ý: ----------------- tính TLDTHĐ 
-
-1. Đối với mục đích xét TLDTHĐ, khoản phí đóng thêm (top-up) không được tính vào công thức tính 
-TLDTHĐ. 
-
-2. Nếu Đại Lý không có Hợp Đồng Bảo Hiểm được phát hành trong giai đoạn xem xét, họ sẽ được 
-ghi nhận TLDTHĐ là “N/A” – không xét TLDTHĐ” và xem như đạt điều kiện TLDTHĐ tối thiểu đối 
-với các chương trình có yêu cầu điều kiện này. 
-
-3. Đối với Hợp Đồng Bảo Hiểm chuyển đổi Đại Lý phục vụ, chuyển đổi cấu trúc kinh doanh, ban, khu 
-vực, Tổng Đại Lý (TĐL), hợp đồng chuyển giao: 
-
-• Nếu sau khi chuyển giao, Hợp Đồng Bảo Hiểm chưa được đóng phí mới và Đại Lý phục vụ 
-mới chưa được tính hoa hồng/doanh số: sẽ không ảnh hưởng đến TLDTHĐ của Đại Lý phục 
-vụ mới/ban mới/khu vực mới/văn phòng TĐL mới. Hợp Đồng Bảo Hiểm này khi đó vẫn sẽ 
-được tính vào TLDTHĐ của Đại Lý phục vụ cũ/ban cũ/khu vực cũ/ văn phòng TĐL cũ. 
-
-• Nếu sau khi chuyển giao, Hợp Đồng Bảo Hiểm đã được đóng kỳ phí tiếp theo đầu tiên và 
-Đại Lý phục vụ mới đã được tính hoa hồng/doanh số: Hợp Đồng Bảo Hiểm này sẽ vẫn 
-tính vào TLDTHĐ của Đại Lý phục vụ cũ/ban cũ/khu vực cũ/ văn phòng TĐL cũ. Từ kỳ phí 
-đến hạn tiếp theo sau đó, Hợp Đồng Bảo Hiểm này sẽ bắt đầu được tính vào TLDTHĐ cho 
-Đại Lý phục vụ mới/ban mới/khu vực mới/ văn phòng TĐL mới.  
-
-• Nếu Hợp Đồng Bảo Hiểm được giảm số tiền bảo hiểm và/hoặc được giảm phí bảo hiểm 
-định kỳ trong vòng 24 tháng kể từ ngày phát hành hợp đồng: sẽ tính TLDTHĐ của Đại Lý 
-phục vụ cũ/ban cũ/khu vực cũ/ văn phòng TĐL cũ cho dù Hợp Đồng Bảo Hiểm này đã 
-được chuyển giao. 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 6 
-
- 
-
-
-
-  
-
- 
-
-• Trong trường hợp Đại Lý thực hiện thủ tục khôi phục Hợp Đồng Bảo Hiểm cho khách hàng 
-và có thay đổi đại lý phục vụ trước đó, ngay sau khi Hợp Đồng Bảo Hiểm được khôi phục 
-sẽ tính TLDTHĐ cho Đại Lý phục vụ mới/ban mới/khu vực mới/ văn phòng TĐL mới. 
-
-Ví dụ 1: Giả sử FC A đang phục vụ các Hợp Đồng Bảo Hiểm (HĐBH) sau: 
- 
-
-Đã từng SYP phải 
-Phí định SYP thực 
-
-Ngày phát Định kỳ hưởng thu 
-HĐBH số kỳ (triệu thu (triệu Ghi chú 
-
-hành HĐ đóng phí hoa (triệu 
-đồng) đồng) 
-
-hồng đồng) 
-
-HĐBH số 1 15/12/2022 Quý 5 ✓ 20 20 - 
-
-Nửa 
-HĐBH số 2 02/06/2023 10 ✓ 20 14 - 
-
-Năm 
-
-HĐBH nhận 
-chuyển giao 
-
-HĐBH số 3 01/05/2023 Tháng 2 ✓ 14 14 
-tháng 
-
-01/2025 
-
-HĐBH nhận 
-Nửa chuyển giao 
-
-HĐBH số 4 30/09/2023 10 - 10 - 
-Năm tháng 
-
-10/2024 
-
-HĐBH số 5 10/09/2023 Tháng 2 ✓ 10 8 - 
-
- 
-➢ TLDTHĐ K2 cá nhân của FC A tại thời điểm 31/01/2025 = 42 / 50  = 84 % 
-
- 
-GĐXX từ  GĐXX đến  Thời điểm tính TLDTHĐ 
-01/12/2022   30/11/2023    31/01/2025 
- 
-
-- SYP phải thu  =  20 + 20 + 10 = 50 triệu đồng (HĐBH số 1, 2, 5) 
-- SYP thực thu  =  20 + 14 + 8 = 42 triệu đồng (HĐBH số 1, 2, 5) 
-
-Ghi chú: không tính SYP phải thu của: 
-
-✓ HĐBH số 3: FC A nhận chuyển giao từ tháng 1/2025 và kỳ phí thu được đầu tiên của HĐBH là 
-tháng 1/2025. Do vậy, HĐBH này vẫn sẽ được tính K2 cho FC đã nhận doanh số trước đó. 
-
-✓ HĐBH số 4: FC A chưa hưởng doanh số trên HĐBH này sau khi nhận chuyển giao.  
-
- 
-
-➢ TLDTHĐ K2 cá nhân của FC A tại thời điểm 28/02/2025 = 36 / 46 = 78.26 % 
-Trong tháng 2/2025: HĐBH số 3 sẽ có phí phải thu thêm 1 kỳ phí so với tháng 1/2025. Do đó 
-phí phải thu sẽ là 16 triệu và phí thực thu vẫn là 14 triệu. Lúc đó K2 của FC A sẽ là: 
-
- 
-GĐXX từ  GĐXX đến  Thời điểm tính TLDTHĐ 
-01/01/2023   31/12/2023    28/02/2025 
- 
-
-- SYP phải thu  =  20 + 16 + 10 = 46 triệu đồng (HĐBH số 2, 3 & 5) 
-- SYP thực thu  =  14 + 14 + 8 = 36 triệu đồng (HĐBH số 2, 3, 5) 
-
-Ghi chú: 
-✓ HĐBH số 1: HĐBH phát hành ngày 15/12/2022, tính đến thời điểm tháng 2/2025 là 27 tháng, 
-
-không nằm trong giai đoạn xem xét → Không tính HĐBH số 1. 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 7 
-
- 
-
-
-
-  
-
- 
-
-✓ HĐBH số 4: FC A chưa hưởng doanh số trên HĐBH này từ sau khi nhận chuyển giao → chưa 
-tính K2 cho FC A. 
-
-✓ HĐBH số 3: FC A nhận chuyển giao từ tháng 1/2025 và kỳ phí thu được đầu tiên của HĐBH là 
-tháng 01/2025. HĐBH này sang tháng 2/2025 là kỳ phí thứ 2 sau khi nhận chuyển giao nên từ 
-tháng 2/2025 hợp đồng này sẽ tính K2 cho FC A. 
-
- 
-
-Ví dụ 2:  Giả sử Ban trực tiếp của UM A có 4 FC, trong đó FC 3 nhận HĐBH chuyển giao và FC 4 
-được chuyển từ ban của UM khác. 
-
-Tình hình phục vụ HĐBH của các FC trong Ban UM A như sau: 
-
-Phí UM A đã SYP dự SYP 
-Ngày phát Định kỳ 
-
-HĐBH định kỳ từng kiến thu thực thu 
-TVTC hành đóng Ghi chú 
-
-số (triệu hưởng (triệu (triệu 
-HĐBH phí 
-
-đồng) hoa hồng đồng) đồng) 
-
-FC 1 HĐ số 1 15/12/2022 Quý 5 ✓ 20 20 - 
-
-Nửa 
-FC 2 HĐ số 2 02/06/2023 10 ✓ 20 10 - 
-
-Năm 
-
-Nhận HĐBH 
-FC 3 HĐ số 3 01/05/2023 Tháng 2 ✓ 14 14 chuyển giao 
-
-tháng 1/2025 
-
-Nhận FC 
-chuyển từ ban 
-
-FC 4 HĐ số 4 30/09/2023 Năm 10 - 10 - 
-UM khác tháng 
-
-10/2024 
-
- 
-➢ TLDTHĐ K2 Ban của UM A tại thời điểm 31/01/2025 =    30 / 40 =  75 % 
-
- 
-- SYP phải thu  = 20 + 20 = 40 triệu đồng (HĐBH số 1, 2) 
-- SYP thực thu  = 20 + 10 = 30 triệu đồng (HĐBH số 1, 2) 
-
-Ghi chú: 
-✓ HĐBH số 3: HĐBH chuyển giao từ 1/2025 và kỳ phí thu được đầu tiên là tháng 1/2025. Do vậy, 
-
-HĐBH này vẫn sẽ tính K2 cho UM đã nhận doanh số trước đó. 
-
-✓ HĐBH số 4: Từ sau khi chuyển ban, HĐBH vẫn chưa thu được phí nên K2 vẫn sẽ tiếp tục tính 
-về cho UM hưởng doanh số trước đó. 
-
- 
-
-➢ TLDTHĐ K2 Ban của UM A tại thời điểm 28/02/2025      =    24 / 36     = 66.67 % 
-
-Với tình hình phục vụ HĐBH của các FC trong Ban UM A như bảng trên nhưng sang tháng 2 
-HĐBH số 3 có phí phải thu là 16 triệu và phí thực thu là 14 triệu: 
-
-  
-- SYP phải thu  = 20 + 16 = 36 triệu đồng (HĐ số 2, 3) 
-- SYP thực thu  = 10 + 14 = 24 triệu đồng (HĐ số 2, 3) 
-
-Ghi chú: 
-✓ HĐBH số 1: phát hành ngày 15/12/2022, tính đến thời điểm tháng 2/2025 là 27 tháng, không 
-
-nằm trong giai đoạn xem xét → Không tính HĐBH số 1. 
-✓ HĐBH số 3: HĐ chuyển giao từ 1/2025 và kỳ phí thu được đầu tiên trong tháng 1/2025. Từ 
-
-tháng 2/2025, hợp đồng này sẽ tính K2 cho UM A. 
-
-✓ HĐBH số 4: Từ sau khi chuyển ban, HĐBH vẫn chưa thu được phí nên K2 vẫn sẽ tiếp tục tính 
-về cho UM hưởng doanh số trước đó. 
-
- 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 8 
-
- 
-
-
-
-  
-
- 
-Công thức tính Tỷ lệ duy trì hợp đồng năm thứ hai trở đi (K2+) 
-
- 
- 
-
-Tổng phí bảo hiểm năm 2 trở đi thực thu 
-TLDTHĐ K2+ =  
-
-Tổng phí bảo hiểm năm 2 trở đi phải thu  
- 
-
-Các quy định khác áp dụng tương tự như đối với Tỷ lệ duy trì hợp đồng năm hai (K2). 
- 
-
-5. CÁC QUY ĐỊNH CHUNG 
-5.1. Nhằm duy trì lợi thế cạnh tranh và kiểm soát chi phí, Công ty giữ quyền đánh giá và điều chỉnh, 
-
-thay đổi, bổ sung hoặc hủy bỏ các quy định và điều kiện liên quan đến các quyền lợi dành cho 
-Đại Lý và/hoặc Quản Lý Đại Lý tại Chính Sách Chi Trả Thù Lao này vào bất kỳ thời điểm nào, 
-bằng cách gửi thông báo và/hoặc niêm yết theo (các) hình thức được quy định tại Hợp Đồng 
-Đại Lý Bảo Hiểm và/hoặc Hợp Đồng Dịch Vụ Quản Lý Đại Lý Bảo Hiểm để Đại Lý/Quản Lý 
-Đại Lý biết. 
-
-5.2. Doanh thu khai thác cá nhân của UM sẽ được bao gồm trong kết quả kinh doanh của Ban kinh 
-doanh trực tiếp và nhằm tính toán các khoản thu nhập có liên quan. 
-
-5.3. Doanh thu khai thác cá nhân của DM sẽ được bao gồm trong kết quả kinh doanh của Ban và 
-Khu vực trực tiếp và nhằm tính toán các khoản thu nhập có liên quan. 
-
-5.4. Các FC có thể cùng khai thác Hợp Đồng Bảo Hiểm với FC khác và chia hoa hồng theo quy 
-định của Công ty tại từng thời điểm. Tỷ lệ chia hoa hồng phải được ghi rõ bằng văn bản và tỷ 
-lệ chia hoa hồng này cũng sẽ được dùng để tính toán các quyền lợi khác. 
-
-5.5. Việc đánh giá tiêu chuẩn duy trì Hợp Đồng Đại Lý Bảo Hiểm và Điều Kiện Cung Cấp Dịch Vụ 
-của Quản Lý Đại Lý theo quy định của Công ty tại từng thời điểm. 
-
-5.6. Phí bảo hiểm được tính vào doanh thu là mức phí chuẩn, áp dụng cho mức sức khỏe trung 
-bình và nhóm nghề nghiệp 1, 2 và 3. Đối với các trường hợp tăng phí vì lý do sức khỏe hay 
-do nhóm nghề nghiệp có mức độ rủi ro cao, khoản phí tăng thêm sẽ không được tính vào 
-doanh thu và không được tính hoa hồng.  
-
-5.7. Với một số sản phẩm có những tùy chọn đóng phí như đóng phí một lần hay đóng phí đầu tư 
-thêm, cách tính doanh số cũng như hoa hồng sẽ được quy định cụ thể đối với từng sản phẩm. 
-Tuy nhiên, nguyên tắc chung để tính doanh số đối với phí đóng một lần và khoản đầu tư thêm là: 
-
-AFYP = FYP = IP = 10% phí đóng một lần (hoặc phí đầu tư thêm) 
-
-5.8. Tất cả các khoản thù lao, xét duy trì HĐĐL và/hoặc chức danh UM/DM, xét thăng tiến được 
-tính toán dựa trên doanh số thuần. Công ty có toàn quyền hủy kết quả thi đua, xét thăng tiến, 
-xét duy trì HĐĐL và/hoặc chức danh UM/DM, thu hồi lại các khoản hỗ trợ đã thanh toán nếu 
-sau khi kết thúc chương trình thi đua, xét thăng tiến, xét duy trì HĐĐL và/hoặc chức danh 
-UM/DM nêu trên, các Hợp Đồng Bảo Hiểm và doanh số đã được tính vào kết quả bị hủy, dẫn 
-đến việc FC/UM/DM không còn đáp ứng được điều kiện thi đua, xét thăng tiến, xét duy trì 
-HĐĐL và/hoặc chức danh UM/DM, điều kiện xếp hạng và nhận hỗ trợ. 
-
-5.9. Công ty sẽ thanh toán các khoản thù lao theo quy định tại Chính Sách Chi Trả Thù Lao này, 
-nếu có, cho Đại Lý/Quản Lý Đại Lý theo định kỳ hàng tháng hoặc định kỳ khác theo quy định 
-của Công ty tại từng thời điểm, căn cứ vào kết quả hoạt động kinh doanh của Đại Lý/Quản Lý 
-Đại Lý của tháng trước đó, mà được tổng kết và tính toán thu nhập vào Ngày khóa sổ của 
-tháng kế tiếp. Quy định này không áp dụng đối với các trường hợp chấm dứt HĐĐL theo Điều 
-10 bản “Điều khoản và Điều kiện Hợp Đồng Đại Lý Bảo Hiểm” và Điều 13 bản “Điều khoản và 
-Điều kiện Hợp Đồng Dịch Vụ Quản Lý Đại Lý Bảo Hiểm”.  
-
- 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 9 
-
- 
-
-
-
-  
-
- 
-
-5.10. Đại Lý đạt kết quả kinh doanh tốt còn được tích lũy quyền lợi thâm niên để gia tăng thu nhập 
-vào các năm hoạt động tiếp theo. Các quyền lợi thâm niên được tích lũy sẽ được: 
-
-• Tính lãi với lãi suất 4%/năm; 
-
-• Được thanh toán vào tháng thứ 15 kể từ khi được tích lũy, nếu: 
-
-➢ Người nhận vẫn đang là Đại Lý của Công ty tại thời điểm phát sinh khoản tích lũy; và 
-
-➢ Ít nhất 70% Phí bảo hiểm năm 2 đến hạn của các Hợp Đồng Bảo Hiểm phát hành trong 
-tháng phát sinh khoản tích lũy được thanh toán đầy đủ. 
-
-5.11. Đối với trường hợp Hợp Đồng Bảo Hiểm đang sử dụng giá trị hoàn lại để đóng phí tự động 
-(APL), hoa hồng và các khoản thu nhập liên quan sẽ được tạm giữ cho đến khi số tiền tạm 
-ứng để đóng phí từ giá trị hoàn lại đã được Khách Hàng hoàn trả cho Công ty. 
-
-Đối với trường hợp Hợp Đồng Bảo Hiểm đang sử dụng giá trị tài khoản (PAV) để đóng phí, 
-hoa hồng và các khoản thu nhập liên quan sẽ không được thanh toán. 
-
-5.12. Trường hợp Công ty phải hoàn trả bất cứ các khoản phí bảo hiểm nào đã thu đối với một Hợp 
-Đồng Bảo Hiểm đã phát hành (bao gồm nhưng không giới hạn ở Hợp Đồng Bảo Hiểm bị hủy 
-bỏ trong thời hạn xem xét lại, Hợp Đồng Bảo Hiểm bị vô hiệu theo quy định pháp luật, Hợp 
-Đồng Bảo Hiểm bị đơn phương chấm dứt vì bất kỳ lý do nào), mà Hợp Đồng Bảo Hiểm đó do 
-Đại Lý khai thác thì Đại Lý/Quản Lý Đại Lý đó sẽ phải ngay lập tức hoàn lại cho Công ty số 
-tiền hoa hồng và những khoản thu nhập tương ứng đã nhận trên khoản phí đã hoàn lại đó. 
-Công ty có quyền tự động khấu trừ lại doanh số, hoa hồng và các khoản thu nhập phát sinh 
-từ khoản phí hoàn trả này vào tài khoản của các FC và các cấp UM/ DM có liên quan. 
-
-5.13. Bất cứ lúc nào trong thời hạn HĐĐL, khi có bên mua bảo hiểm của bất kỳ một Hợp Đồng Bảo 
-Hiểm nào thông báo với Công ty rằng họ đề nghị một Đại Lý khác của Công ty làm Đại Lý Bảo 
-Hiểm phụ trách Hợp Đồng Bảo Hiểm của họ, Công ty có toàn quyền quyết định thực hiện đề 
-nghị của bên mua bảo hiểm đó và sẽ gửi thông báo bằng văn bản cho Đại Lý biết, và kể từ đó 
-Công ty sẽ không có trách nhiệm thanh toán khoản hoa hồng và các thu nhập liên quan dựa 
-trên Hợp Đồng Bảo Hiểm đó cho Đại Lý ban đầu nữa. 
-
-5.14. Nếu Đại Lý không thanh toán đúng hạn các Nghĩa Vụ Tài Chính đến hạn (nếu có) theo yêu 
-cầu của Công ty thì Đại Lý sẽ phải trả lãi chậm thanh toán theo mức lãi suất tiền gửi kỳ hạn 
-12 tháng áp dụng cho khách hàng cá nhân do Ngân hàng TMCP Ngoại thương Việt Nam 
-(Vietcombank) công bố tại thời điểm thanh toán tương ứng với thời gian chậm trả và số tiền 
-chậm trả. Tiền lãi sẽ được tính từ ngày đến hạn thanh toán cho đến ngày thực trả.  
-
-5.15. Công ty có quyền giữ lại và/hoặc khấu trừ bất kỳ và/hoặc tất cả thù lao mà Công ty phải thanh 
-toán cho Đại Lý/Quản Lý Đại Lý để trang trải bất kỳ Nghĩa Vụ Tài Chính nào mà Đại Lý/Quản 
-Lý Đại Lý phải thanh toán hoặc có khả năng phải trả cho Công ty hoặc cho bất cứ bên thứ ba 
-nào mà Công ty phải trả thay nhân danh Đại Lý/Quản Lý Đại Lý theo quy định tại HĐDL và/hoặc 
-HĐDV. 
-
-5.16. Kể từ ngày chấm dứt hiệu lực của HĐĐL và/hoặc HĐDV, Đại Lý/Quản Lý Đại Lý sẽ mất quyền 
-hưởng thù lao và các chế độ đãi ngộ có liên quan theo Chính Sách Chi Trả Thù Lao này. 
-
-5.17. Quản Lý Đại Lý sẽ không còn quyền được hưởng các chế độ thù lao có liên quan theo Chính 
-Sách Chi Trả Thù Lao này, kể từ ngày Quản Lý Đại Lý không còn tên trên hệ thống thanh toán 
-của Công ty vào ngày khóa sổ (ngày cut-off) phù hợp với quy trình và chính sách thanh toán 
-của Công ty, bất kể vào thời điểm đó HĐDV đã chấm dứt hay chưa. 
-
-5.18. Công ty sẽ khấu trừ tiền lệ phí thi BFC của FC vào thu nhập của UM/DM quản lý trực tiếp. 
-
- 
-
- 
-
- 
-
- 
-
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 10 
-
- 
-
-
-
-  
-
- 
-
-5.19. Công ty có quyền giữ thu nhập của Đại Lý/Quản Lý Đại Lý trong các trường hợp sau: 
-
-• Quá thời gian quy định về nộp phí/ hoàn trả phiếu thu về công ty đối với trường hợp đại lý thu 
-tiền mặt từ khách hàng (Trường hợp sử dụng hình thức phiếu thu điện tử/phiếu thu in từ hệ 
-thống), hoặc quá thời gian quy định về thực hiện thủ tục bàn giao hợp đồng. Thời gian quy  
-
-định áp dụng theo các văn bản được ban hành bởi các Bộ phận chuyên trách và các quy định 
-liên quan được ban hành vào từng thời điểm; 
-
-• Đại Lý/Quản Lý Đại Lý chưa hoàn tất các thủ tục về HĐĐL, HĐDV; 
-
-• Đại Lý/Quản Lý Đại Lý đang trong trong thời gian hoàn tất các thủ tục chấm dứt HĐĐL/HĐDV; 
-
-• Có lý do để nghi ngờ rằng Đại Lý/Quản Lý thực hiện hành vi không đúng với phạm vi Hoạt 
-Động Đại Lý/phạm vi Dịch Vụ được Công ty ủy quyền hoặc thực hiện Hoạt Động Đại Lý/Dịch 
-Vụ không đúng với HĐĐL/HĐDV và cần xác minh theo quy định của Công ty;  
-
-• Đại Lý/Quản Lý Đại Lý có tên trong danh sách vi phạm Quy Định/vi phạm pháp luật của Công ty; 
-
-• Đại Lý/Quản Lý Đại Lý chưa có Mã số thuế cá nhân. 
-
-5.20. Quản Lý Đại Lý sẽ chịu trách nhiệm tài chính liên đới đến các Hoạt Động Đại Lý của Đại Lý 
-thuộc Đội Ngũ Kinh Doanh của mình, căn cứ theo các quy định nội bộ liên quan, ban hành tại 
-từng thời điểm. 
-
-5.21. Trừ khi được quy định khác đi trong từng chương trình cụ thể, Đại Lý không được đứng tên 
-tư vấn Hợp Đồng Bảo Hiểm cho một Đại Lý khác. Doanh số các Hợp Đồng Bảo Hiểm này, 
-nếu có, sẽ bị loại ra khỏi mọi doanh số tính thu nhập, thi đua và tất cả các chương trình khác. 
-
-6. THUẾ, PHÍ VÀ LỆ PHÍ 
-
-Đại Lý và Quản Lý Đại Lý sẽ chịu tất cả các loại thuế, phí và lệ phí theo quy định của Pháp Luật đối 
-với các khoản thù lao mà Đại Lý/Quản Lý Đại Lý nhận được theo Hợp Đồng Đại Lý Bảo Hiểm và/hoặc 
-Hợp Đồng Dịch Vụ Quản Lý Đại Lý Bảo Hiểm. Để làm rõ, bất kỳ khoản thù lao nào được quy định 
-trong Chính Sách Chi Trả Thù Lao này được hiểu rằng đã bao gồm các loại thuế, phí và lệ phí mà Đại 
-Lý/Quản Lý Đại Lý có nghĩa vụ nộp theo quy định của Pháp Luật. 
-
- 
-Thu nhập của FC = Hoa hồng + hỗ trợ phát triển doanh số + hột sales + xếp hạng 
- 
-Lưu hành nội bộ - Cập nhật tháng 1/2025 11
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025   1
-      1. THÙ LAO DÀNH CHO TƯ VẤN TÀI CHÍNH (FC)
-      Tất cả các Tư Vấn Tài Chính (FC), Trưởng Ban Kinh doanh (UM) và Trưởng Khu Vực Kinh doanh
-      (DM) thực hiện các hoạt động đại lý bảo hiểm dưới tư cách FC đều được nhận các quyền lợi sau:
-                1.1 Hoa hồng                                     1.2 Hỗ Trợ Phát Triển Doanh Số (PB)
-                1.3 Hỗ Trợ Duy Trì Hợp Đồng (SF)                 1.4 Hỗ Trợ Ngôi sao Hanwha Lead
-
-      1.1    Hoa Hồng = 30% doanh thu
-
-      Bao gồm Hoa hồng năm 1 (FYC = 0,3 doanh số)) và Hoa hồng tái tục (RYC).
-      Hoa hồng được tính dựa trên loại sản phẩm, thời hạn đóng phí và năm đóng phí của từng sản phẩm.
-      Hoa hồng được thanh toán hàng tháng dựa trên các khoản phí bảo hiểm đã nộp và đến hạn đóng phí,
-      ngoại trừ trường hợp Hợp Đồng Bảo Hiểm đang ở trong tình trạng tạm ứng từ giá trị hoàn lại/giá trị
-      tài khoản hợp đồng để đóng phí bảo hiểm tự động (automatic premium loan).
-
-      1.2    Hỗ Trợ Phát Triển Doanh Số (PB) 
-
-      Hỗ Trợ Phát Triển Doanh Số sẽ được tính và chi trả hàng tháng nếu thỏa các điều kiện về doanh số
-      và TLDTHĐ K2, theo công thức như sau:
-                                                              Tỷ lệ Hỗ Trợ Phát Triển Doanh Số
-                       FYC trong tháng
-                                                                   (% của FYC trong tháng)
-                                                          K2 ≥ 65%        K2 ≥ 70%       K2 ≥ 80%
-                  Từ                     Đến
-                                                             (1)             (2)             (3)
-               7.000.000             13.999.999              20%             25%              30%
-
-              14.000.000             20.999.999              25%             30%              35%
-
-              21.000.000             27.999.999              35%             40%              45%
-
-              28.000.000             34.999.999              45%             50%              55%
-
-              35.000.000                                     55%             60%              65%
-      Lưu ý:
-      •     FC có TLDTHĐ K2 < 65% sẽ không được nhận Hỗ Trợ Phát Triển Doanh Số.
-      •     Đối với FC chưa có TLDTHĐ K2, tỷ lệ Hỗ Trợ Phát Triển Doanh Số được nêu tại cột 1 (K2≥65%)
-            sẽ được áp dụng.
-      •     Đối với FC có thời gian làm việc dưới 18 tháng, tính từ tháng giao kết HĐĐL đến tháng trước
-            tháng tính thu nhập, chưa có TLDTHĐ K2 hoặc K2 từ 65%, tỷ lệ Hỗ Trợ Phát Triển Doanh Số
-            được nêu tại cột 1 (K2≥65%) sẽ được áp dụng.
-      •     Đối với FC khác, FC có doanh số và TLDTHĐ K2 càng cao, cơ hội nhận Hỗ Trợ Phát Triển Doanh
-            Số càng cao. FC có TLDTHĐ K2 từ 80% sẽ được nhận Hỗ Trợ Phát Triển Doanh Số lên đến 65%
-            FYC.
-      •     Hỗ Trợ Phát Triển Doanh Số được thanh toán theo thực tế phát sinh trong tháng. Đối với Hợp
-            Đồng Bảo Hiểm phát sinh trong tháng mà bị hủy, bị từ chối trong vòng 3 tháng, Công ty sẽ tiến
-            hành điều chỉnh lại Hỗ Trợ Phát Triển Doanh Số sau khi có kết quả chính thức.
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                2
-      Công thức:
-
-                              Hỗ Trợ Phát Triển Doanh Số = Tỷ lệ hỗ trợ x FYC trong tháng
-
-      1.3    Hỗ Trợ Duy Trì Hợp Đồng (SF)
-
-      Nhằm hỗ trợ FC các khoản chi phí liên quan đến việc phục vụ khách hàng, thu phí bảo hiểm và đẩy
-      mạnh chất lượng dịch vụ hợp đồng, FC sẽ được nhận khoản Hỗ Trợ Duy Trì Hợp Đồng đối với Hợp
-      Đồng Bảo Hiểm đã hết thời hạn phát sinh hoa hồng, và được chi trả hàng tháng cụ thể như sau:
-
-
-              Tỷ lệ Hợp Đồng Bảo                      Tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng
-               Hiểm còn hiệu lực       Khi thu phí không dùng tiền mặt     Khi thu phí dùng tiền mặt
-
-                      ≥ 65%                         1,0%
-
-                      ≥ 72%                         1,5%                             1,0%
-
-                      ≥ 80%                         2,0%
-
-      Lưu ý:
-
-      •     Hỗ Trợ Duy Trì Hợp Đồng sẽ được thanh toán đối với Hợp Đồng Bảo Hiểm đã hết thời hạn phát
-            sinh hoa hồng (sau năm thứ 3 trở đi, tùy theo sản phẩm cụ thể) cho đến khi Hợp Đồng Bảo Hiểm
-            kết thúc thời hạn đóng phí, và dựa trên phí thực thu của các hợp đồng này.
-      •     Công thức tính Tỷ lệ Hợp Đồng Bảo Hiểm còn hiệu lực:
-                                                           Số lượng hợp đồng còn hiệu lực
-                   Tỷ lệ hợp đồng còn hiệu lực       =
-                                                           Số lượng hợp đồng đang phục vụ
-
-            Số lượng hợp đồng đang phục vụ: bao gồm các Hợp Đồng Bảo Hiểm còn hiệu lực, mất hiệu
-            lực, kể cả các Hợp Đồng Bảo Hiểm nhận chuyển giao.
-            Số lượng hợp đồng còn hiệu lực: là các Hợp Đồng Bảo Hiểm do FC đang phục vụ (kể cả các
-            Hợp Đồng Bảo Hiểm nhận chuyển giao) còn hiệu lực.
-      •     Thu phí dùng tiền mặt: là các giao dịch đóng phí bằng tiền mặt trực tiếp tại quầy CS đặt tại văn
-            phòng kinh doanh của Công ty, bao gồm văn phòng Tổng Đại lý (GA) hoặc/và chi nhánh hoặc/và
-            địa điểm kinh doanh của Tổng Đại lý (Sub GA), Văn phòng Đại lý (AO).
-
-      1.4    Xếp Hạng và Hỗ Trợ dành cho Ngôi Sao Hanwha Lead
-
-      Nguyên tắc xếp hạng
-      Tất cả FC đều được tham gia vào chương trình Xếp hạng Hanwha Lead – Bản lĩnh Tiên phong dựa
-      trên doanh số cá nhân quý hiện hành như sau:
-
-
-
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                   3
-                                                                   Yêu cầu huấn luyện
-               Phân hạng             FYP quý hiện hành                                             K2
-                                                                        bắt buộc
-               Bạch Kim                    150.000.000
-                 Vàng                      75.000.000          Hoàn thành 3/6 khóa BSS (*)        65%
-                  Bạc                      45.000.000
-
-      Phí bảo hiểm năm nhất (FYP) của sản phẩm “Life Fun:D – Sống thỏa chất” (ILP 2021) và “Hanwha
-      Life – Tôi chọn An Yên” (UL 2020) sẽ được nhân 1,5 khi xét phân hạng Ngôi sao Hanwha Lead tại
-      các kỳ xếp hạng năm 2025.
-      Lưu ý:
-      •   Việc xếp hạng được thực hiện hàng quý. TLDTHĐ K2 tối thiểu cần đạt để được xếp hạng là 65%.
-          Miễn áp dụng điều kiện K2 cho các TVTC mới, chưa có số liệu tính K2.
-      •   (*) Chương trình huấn luyện Kỹ Năng Tư Vấn Cơ Bản (BSS) gồm 6 khóa sẽ được triển khai đồng
-          bộ từ đầu năm 2025.
-          o Yêu cầu huấn luyện được áp dụng từ kỳ xếp hạng 1/4/2025 trở đi và kết quả hoàn thành khóa
-              BSS sẽ được tích lũy để ghi nhận cho các kỳ xét hạng tiếp theo.
-          o Yêu cầu huấn luyện được miễn áp dụng với các TVTC đã từng đạt xếp hạng Hanwha Lead
-              (tại một trong các kỳ xếp hạng 1/4/2024, 1/7/2024, 1/10/2024 và kỳ 1/1/2025) hoặc TVTC đang
-              giữ vị trí từ UM trở lên tại thời điểm xét hạng.
-          o Với FC mới gia nhập vào tháng cuối quý, yêu cầu huấn luyện được miễn áp dụng cho kỳ xếp
-              hạng của quý đó.
-      Quyền lợi tài chính
-      Quyền lợi tài chính bao gồm quyền lợi tài chính theo quý và quyền lợi tài chính dài hạn.
-      a) Quyền lợi tài chính theo quý
-      •   Các FC sẽ được hưởng quyền lợi tài chính quý dựa trên FYC và số tháng có hoạt động trong quý
-          hiện hành theo kết quả xét hạng, như bảng bên dưới:
-                                      Tỷ lệ hỗ trợ/Số tháng có hoạt động trong quý hiện hành
-           Phân hạng
-                                           ≤1                      2                         3
-            Bạch Kim                       0%                    10%                        30%
-               Vàng                        0%                    10%                        20%
-               Bạc                         0%                    10%                        15%
-      •   Đảm bảo quyền lợi tài chính theo quý tối thiểu 10% FYC với các FC có thời gian gia nhập dưới
-          3 tháng và đạt xếp hạng Ngôi sao Hanwha Lead (Không áp dụng với các trường hợp Đại lý quay
-          trở lại hoạt động sau khi chấm dứt Hợp đồng Đại Lý Bảo Hiểm).
-      •   Các FC liên tục duy trì hoặc thăng hạng (*) trong các đợt xếp hạng năm 2025 sẽ được hưởng
-          thêm hỗ trợ theo bảng sau:
-                      Số quý liên tục                                      Tỷ lệ hỗ trợ
-                  duy trì hoặc thăng hạng                                    (%FYC)
-                             2 quý                                             + 5%
-                        Từ 3 quý trở lên                                      + 10%
-      FC liên tục duy trì hoặc thăng hạng (*): khi phân hạng Hanwha Lead của quý sau bằng hoặc cao hơn
-      phân hạng quý trước.
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                 4
-      Công thức:
-
-                       Quyền lợi tài chính theo quý = Tỷ lệ hỗ trợ x Tổng FYC quý hiện hành
-
-      b) Quyền lợi tài chính dài hạn
-      Quyền lợi tài chính dài hạn (QLDH) được áp dụng cho các FC đạt xếp hạng Hanwha Lead tại kỳ đánh
-      giá ngày 01/01/2026.
-      Dựa vào kết quả xếp hạng ngày 01/01/2026 và số tháng có hoạt động của FC trong các quý FC đạt
-      xếp hạng trong năm 2025, tỷ lệ theo bảng dưới đây sẽ được áp dụng:
-      •   Đối với các FC gia nhập Công ty trước năm 2025:
-             Phân hạng           Tỷ lệ hỗ trợ/Số tháng có hoạt động trong các kỳ đạt hạng năm 2025
-             01/01/2026                    <9                      ≥9                         12
-             Bạch Kim                      0%                     15%                         35%
-                Vàng                       0%                     15%                         25%
-
-                Bạc                        0%                     15%                         20%
-
-      •   Đối với các FC gia nhập Công ty từ 01/01/2025:
-
-             Phân hạng           Tỷ lệ hỗ trợ/Số tháng có hoạt động trong các kỳ đạt hạng năm 2025
-             01/01/2026                    <6                      ≥6                         ≥9
-             Bạch Kim                      0%                      15%                    35%
-                Vàng                       0%                      15%                    25%
-                Bạc                        0%                      15%                    20%
-
-      Công thức:
-
-                            Quyền lợi tài chính dài hạn = Tỷ lệ hỗ trợ x Tổng FYC (*)
-
-      (*) Tổng FYC các quý đạt xếp hạng
-
-      Quyền lợi tài chính dài hạn dành cho các Hanwha Lead sẽ được tích lũy và chi trả tối đa trong 3
-      năm khi FC có TLDTHD K2 từ 70% trở lên tại thời điểm chi trả, theo các phương án sau:
-                                      Năm thứ 1                Năm thứ 2               Năm thứ 3
-             Phương án            (thời điểm chi trả       (thời điểm chi trả      (thời điểm chi trả
-                                      31/12/2025)              31/12/2026)             31/12/2027)
-
-          Nhận trong 3 năm            40% QLDH                30% QLDH                 30% QLDH
-
-          Nhận trong 2 năm            40% QLDH                40% QLDH                        -
-
-             Nhận 1 lần               60% QLDH                      -                         -
-
-      Lưu ý: FC phải đăng ký phương án nhận quyền lợi tài chính trước 25/12/2025.
-
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                  5
-      c) Quyền lợi hỗ trợ khác
-
-                      Nội dung hỗ trợ                          Bạch Kim            Vàng             Bạc
-
-                                                            Bạch Kim và 01
-  Bảo hiểm sức khỏe cao cấp                                                           -               -
-                                                           người thân đi kèm
-  Bảo hiểm nhóm                                                500 triệu         200 triệu       100 triệu
-  Khám sức khỏe định kỳ hàng năm
-  Tham gia các khóa huấn luyện đặc biệt trong
-  nước
-  Huy hiệu
-  Giấy chứng nhận và Bộ chứng nhận xếp hạng
-  trực tuyến (e-kit)
-  Chương trình huấn luyện đặc biệt về Xây Dựng
-                                                                                      -               -
-  Thương hiệu cá nhân và phát triển bản thân
-
-      Định kỳ xếp hạng và xét quyền lợi
-      •   Các quyền lợi hỗ trợ được áp dụng trong quý tiếp theo, sau khi có kết quả xếp hạng dựa trên
-          doanh số của quý hiện hành:
-          o    Huy hiệu và các chứng nhận khác sẽ được trao khi FC lần đầu được xếp hạng trong năm hoặc
-               khi thay đổi phân hạng. Mỗi phân hạng chỉ được nhận một lần duy nhất trong năm.
-          o    Bảo hiểm sức khỏe cao cấp: có giá trị tối thiểu 3 tháng và sẽ được gia hạn nếu FC duy trì
-               được hạng Bạch Kim trong kỳ xếp hạng tiếp theo. Với xếp hạng Bạch Kim, ngoài bản thân
-               Hanwha Lead Bạch Kim thì sẽ áp dụng cho 01 người thân trực hệ của Hanwha Lead Bạch
-               Kim (cha/mẹ ruột, vợ/chồng, con cái) nếu được chấp nhận bảo hiểm.
-          o    Bảo hiểm nhóm: có giá trị tối thiểu 3 tháng và sẽ được gia hạn hay tăng/giảm, chấm dứt tùy
-               thuộc vào xếp hạng của FC trong kỳ xếp hạng tiếp theo.
-          o    Khám sức khỏe định kỳ hàng năm: áp dụng một lần trong năm.
-          o    Chương trình huấn luyện đặc biệt về Xây Dựng Thương hiệu cá nhân và phát triển bản thân
-               với 4 khóa học trong 4 Quý dành cho Hanwha Lead Bạch Kim:
-              ➢ Hanwha Lead Bạch Kim sẽ tham dự khóa học tương ứng với Quý đạt danh hiệu và nhận
-                chứng chỉ nếu hoàn thành khóa học;
-              ➢ Chương trình được thiết kế riêng và giảng dạy bởi các chuyên gia đầu ngành trong lĩnh vực
-                Xây Dựng Thương hiệu cá nhân và phát triển bản thân;
-              ➢ Đối với TVTC đạt Hanwha Lead Bạch Kim liên tục 4 Quý trong năm 2025 và hoàn tất đầy
-                đủ 4 khóa học sẽ nhận được bằng khen danh dự từ Tổng Giám Đốc;
-              ➢ Kế hoạch tổ chức cụ thể sẽ được truyền thông chi tiết đến các Hanwha Lead Bạch Kim sau;
-          o    Các FC đạt hạng Hanwha Lead Bạch Kim trong 4 Quý liên tiếp của năm 2025 và/hoặc các FC
-               đạt hạng Bạch Kim tại kỳ đánh giá 01/01/2026 và có hoạt động liên tục 12 tháng trong năm
-               2025 sẽ được mời tham dự Lễ Trao Giải Đẳng Cấp Sao năm 2026 (nếu có, tùy thuộc vào thời
-               điểm và tình hình tổ chức). Trong mọi trường hợp mỗi FC chỉ nhận tối đa 01 vé tham dự.
-
-
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                   6
-      2. ĐIỀU KIỆN GIAO KẾT VÀ DUY TRÌ HIỆU LỰC HỢP ĐỒNG ĐẠI LÝ
-         BẢO HIỂM, THĂNG CHỨC
-      2.1     ĐIỀU KIỆN CHUNG KHI GIAO KẾT HỢP ĐỒNG ĐẠI LÝ BẢO HIỂM
-      •   Công dân Việt Nam, thường trú tại Việt Nam, có độ tuổi từ 18 đến 60 tuổi;
-      •   Ứng viên phải có năng lực hành vi dân sự đầy đủ;
-      •   Có chứng chỉ đại lý bảo hiểm phù hợp theo quy định của pháp luật và Công ty tùy từng thời điểm;
-      •   Ứng viên phải có đạo đức tốt, không có tiền án, tiền sự;
-      •   Ưu tiên những người đã có kinh nghiệm về kinh doanh, bán hàng, hoặc có mối quan hệ xã hội
-          rộng rãi;
-      •   Cần đạt tiêu chuẩn Q-Score từ 3 điểm trở lên, cụ thể là:
-          o   Tuổi từ 22 trở lên: + 1 điểm
-          o   Tốt nghiệp phổ thông trung học trở lên: + 1 điểm
-          o   Đã có kinh nghiệm làm việc: + 1 điểm
-          o   Đã lập gia đình: + 1 điểm
-      •   Các trường hợp đặc biệt khác, bao gồm các trường hợp ngoài độ tuổi quy định, Q-Score ≤2, tuyển
-          người nhà trực hệ vào ban trực tiếp… đều phải được phỏng vấn và xem xét chấp thuận từng
-          trường hợp bởi Giám đốc Kinh doanh phụ trách Khu vực (ZD).
-
-      2.2     ĐIỀU KIỆN DUY TRÌ HỢP ĐỒNG ĐẠI LÝ BẢO HIỂM
-      Điều kiện duy trì Hợp Đồng Đại Lý Bảo Hiểm (HĐĐL) được đánh giá hàng tháng
-
-      •   FC sẽ chuyển sang vai trò SA khi không hoạt động trong 12 tháng liên tục.
-      •   SA sẽ bị chấm dứt HĐĐL khi ở vai trò SA ≥ 12 tháng và các Hợp Đồng Bảo Hiểm đang phục vụ
-          không còn duy trì hiệu lực.
-      •   SA sẽ không được tính vào số lượng Đại Lý của ban/khu vực tương ứng.
-      •   Nếu SA hoạt động trở lại với ít nhất 1 hợp đồng và từ 10 triệu IP trong tháng thì sẽ được khôi phục
-          vai trò FC trong tháng tiếp theo.
-
-      2.3     MỘT SỐ LƯU Ý
-      •   Trong trường hợp Đại Lý quay trở lại hoạt động với vị trí cao hơn so với thời điểm chấm dứt HĐĐL
-          gần nhất, HĐĐL chỉ được phê duyệt nếu thời gian gián đoạn từ 1 năm trở lên. Trong trường hợp
-          đặc biệt, cần phải có phê duyệt của các cấp có thẩm quyền liên quan.
-      •   Trong trường hợp Đại Lý quay trở lại hoạt động với thời gian gián đoạn dưới 6 tháng kể từ thời điểm
-          chấm dứt HĐĐL gần nhất, việc phân bổ Đại Lý này vào khu vực/ban cụ thể sẽ do Công ty quyết định.
-
-
-
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                    7
-      2.4    ĐIỀU KIỆN THĂNG TIẾN TỪ FC LÊN TRƯỞNG BAN (UM)
-
-            Tiêu chuẩn                                        Yêu cầu tối thiểu
-
-       Thời gian hoạt động      ≥ 3 tháng trong vai trò FC
-
-
-                                •   Tuyển dụng trực tiếp từ 3 FC mới có hoạt động (trong tháng tuyển dụng)
-                                    trong 6 tháng trước kỳ xét duyệt (bao gồm các trường hợp Đại lý đã
-                                    chấm dứt HĐĐL với Hanwha Life Việt Nam và quay trở lại hoạt động);
-       Hoạt động tuyển dụng         hoặc
-                                •   Có từ 5 lượt FC có hoạt động trong 3 tháng trước kỳ xét duyệt (trong đó
-                                    phải có từ 1 FC mới có hoạt động, bao gồm các trường hợp Đại lý đã
-                                    chấm dứt HĐĐL với Hanwha Life Việt Nam và quay trở lại hoạt động).
-
-
-       Hoạt động cá nhân        Ứng viên UM phải hoạt động ít nhất 2 lần trong 6 tháng trước kỳ xét duyệt
-
-       Tỷ lệ duy trì hợp đồng   TLDTHĐ K2 ≥ 65% (được miễn áp dụng nếu chưa có TLDTHĐ K2)
-
-       Huấn luyện               Hoàn thành các khóa huấn luyện bắt buộc
-
-       Thời gian hoạt động      Bắt buộc phải hoạt động toàn thời gian với Công ty
-
-       Định kỳ xét duyệt        Hàng tháng
-
-       Phê duyệt                Được phê duyệt bởi các cấp có thẩm quyền theo từng năm
-
-
-
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025                                                                  8
-Lưu hành nội bộ - Cập nhật tháng 1/2025             1 
- 
-
-
-
- 
- 
-
-1. THÙ LAO DỊCH VỤ DÀNH CHO QUẢN LÝ ĐẠI LÝ  
-
-1.1. TRƯỞNG BAN KINH DOANH (UM) 
-
-Ngoài những quyền lợi dành cho FC dựa trên thành tích của cá nhân, UM còn được hưởng các quyền 
-lợi dưới đây dựa trên kết quả khai thác của Ban kinh doanh: 
-
-1.1.1 Hỗ Trợ Tuyển Dụng và Phát Triển 1.1.2 Hỗ Trợ Phát Triển Ban Mới (UM-IO) 
-Doanh Số Ban (UM-MA)  
-
-1.1.3 Hỗ Trợ Đào Tạo UM Mới (UM-PB) 1.1.4 Hỗ Trợ Duy Trì Hợp Đồng (UM-KB) 
-
-1.1.5 Hỗ Trợ Quản Lý Hanwha Master 
-
-1.1.1. Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Ban (UM-MA) 
-
-Nhằm nâng cao TLDTHĐ K2 và tưởng thưởng xứng đáng cho các UM có kết quả kinh doanh và chất 
-lượng kinh doanh tốt, Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Ban sẽ được tính toán và chi trả 
-hàng tháng như sau:  
-
-Tổng FYC trong tháng Số lượt Đại Lý có hoạt động  
-của Ban kinh doanh trực tiếp của Ban kinh doanh trực tiếp 
-
-K2  65% K2  70% K2  80% 
-Từ Đến 
-
-<6 ≥6 ≥6 ≥6 
-(1) (2) (3) (4) 
-
-0 11.999.999 20% 30% 35% 40% 
-
-12.000.000 23.999.999 25% 35% 40% 45% 
-
-24.000.000 35.999.999 30% 40% 45% 50% 
-
-36.000.000 47.999.999 35% 45% 50% 55% 
-
-48.000.000 59.999.999 40% 50% 55% 60% 
-
-60.000.000 - 45% 55% 60% 65% 
-
-Công thức: 
-
-Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Ban = Tổng FYC trong tháng x Tỷ lệ hỗ trợ 
-
-Lưu ý:  
-
-• Lượt hoạt động của Đại Lý trong 3 tháng làm việc đầu tiên (*) sẽ được tính nhân 2 khi xét quyền 
-lợi UM-MA cho Trưởng Ban. 
-
-• (*) Tính trên số lượt Đại lý có hoạt động trong 3 tháng đầu tiên, thuộc Ban trực tiếp của UM. Không 
-áp dụng với các trường hợp Đại lý quay trở lại hoạt động sau khi chấm dứt Hợp đồng đại lý bảo 
-hiểm. Đại lý có hoạt động trong tháng: theo định nghĩa tại Chính sách chi trả thù lao hoạt động đại 
-lý 2025. 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             2 
- 
-
-
-
- 
- 
-
- 
-Ví dụ: Ban trực tiếp của UM A có FC 1 & 2 gia nhập lần lượt trong tháng 8, tháng 11/2024. UM A tuyển 
-được FC 3 & 4 lần lượt trong tháng 1 và tháng 2/2025. Số lượt hoạt động theo tháng được tính cho Ban 
-của UM A như sau:  
- 
-
- Tháng 1/25 Tháng 2/25 Tháng 3/25 
-
-UM A ✓  ✓ 
-
-FC 1 ✓ ✓ ✓ 
-
-FC 2 ✓  ✓ 
-
-FC 3 ✓ ✓ ✓ 
-
-FC 4  ✓ ✓ 
-
-Tổng lượt hoạt động 1+1+2+2 = 6 1+2+2 = 5 1+1+1+2+2 =7 
-
-• Đối với UM chưa có TLDTHĐ K2 Ban, có từ 2 lượt FC hoạt động, tỷ lệ Hỗ trợ nêu tại cột 1 (K2≥65%) 
-sẽ được áp dụng. 
-
-• Đối với UM có thời gian bổ nhiệm dưới 18 tháng, tính từ tháng bổ nhiệm đến tháng trước tháng 
-tính thu nhập, chưa có K2 Ban hoặc K2 Ban từ 65%, có từ 2 lượt FC hoạt động, tỷ lệ Hỗ trợ nêu 
-tại cột 1 (K2≥65%) sẽ được áp dụng (tối đa là 45%).  
-
-• Đối với UM khác: 
-
-o UM có TLDTHĐ K2 ≥ 65% và có từ 2 đến 5 lượt FC hoạt động, sẽ được nhận tỷ lệ Hỗ trợ được 
-nêu tại cột 1. 
-
-o UM có TLDTHĐ K2 ≥ 65% và có từ 6 lượt FC hoạt động trở lên, sẽ được nhận tỷ lệ Hỗ trợ 
-được nêu tại cột 2. 
-
-o UM có TLDTHĐ K2 ≥ 70% và có từ 6 lượt FC hoạt động trở lên, sẽ được nhận tỷ lệ Hỗ trợ 
-được nêu tại cột 3. 
-
-o UM có TLDTHĐ K2 ≥ 80% và có từ 6 lượt FC hoạt động trở lên, sẽ được nhận tỷ lệ Hỗ trợ 
-được nêu tại cột 4. 
-
-• Nhằm hỗ trợ cho UM thăng chức trong 12 tháng đầu tiên, UM sẽ được đảm bảo mức tỷ lệ Hỗ 
-trợ tối thiểu bằng 25% FYC Ban kinh doanh, không phụ thuộc vào số lượt FC hoạt động hoặc 
-doanh số. 
-
-• Đảm bảo tỷ lệ Hỗ trợ bằng 10% FYC Ban kinh doanh cho các trường hợp UM không thỏa điều 
-kiện K2 và/hoặc không thỏa điều kiện số lượt FC hoạt động trong Ban kinh doanh. 
-
-• Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Ban được thanh toán theo thực tế phát sinh trong 
-tháng. Đối với Hợp Đồng Bảo Hiểm phát sinh trong tháng mà bị hủy, bị từ chối trong 3 tháng, Công 
-ty sẽ tiến hành điều chỉnh lại mức Hỗ trợ sau khi có kết quả chính thức. 
-
- 
-
- 
-
- 
-
- 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             3 
- 
-
-
-
- 
- 
-
-1.1.2. Hỗ Trợ Phát Triển Ban Mới (UM-IO) 
-
-UM (còn gọi là UM mẹ) sẽ được nhận Hỗ Trợ Phát Triển Ban Mới khi FC trong Ban trực tiếp thăng 
-chức UM (còn gọi là UM mới). Hỗ Trợ Phát Triển Ban Mới sẽ được chi trả như sau: 
-
-Hỗ Trợ Phát Triển Ban Mới 
-Giai đoạn 
-
-(%Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số 
-Từ tháng thăng chức của UM mới 
-
-của UM mới) 
-
-6 tháng đầu 100% 
-
-6 tháng tiếp theo 50% 
-
-Từ tháng thứ 13 trở đi 15% 
- 
-
-• Để đạt điều kiện nhận chi trả Hỗ trợ hàng tháng, Ban trực tiếp của UM mẹ (là UM hoặc DM) cần 
-phải có K2 Ban kinh doanh ≥ 65% tại tháng tính toán. Trong trường hợp chưa có TLDTHĐ K2, 
-điều kiện này sẽ được miễn.  
-
-• Hỗ Trợ Phát Triển Ban Mới nói trên sẽ chấm dứt ngay khi: 
-
-o Một trong hai UM này thăng chức lên DM; hoặc 
-
-o Một trong hai UM này không tiếp tục duy trì HĐDV (ví dụ: bị giáng chức hay chấm dứt HĐDV). 
- 
-
-Trường hợp đặc biệt số 1: 
-
-UM A mới được thăng chức/bổ nhiệm nhưng sau đó bị giáng chức thành FC và hoạt động trong ban 
-của UM B (bất kể UM B có phải là UM mẹ của UM A hay không) hoặc chấm dứt HĐDV với Công ty. 
-Sau đó, FC A lại được thăng chức UM. Trong trường hợp này, UM B sẽ chỉ được hưởng tỷ lệ Hỗ Trợ 
-Phát Triển Ban Mới cố định là 15%. 
-
-1.1.3. Hỗ Trợ Đào Tạo UM Mới (UM-PB) 
-Hỗ Trợ Đào Tạo UM Mới sẽ được chi trả một lần cho UM mẹ (người đã trực tiếp phát triển UM mới) 
-vào tháng UM mới được thăng chức lần đầu tiên, chi tiết theo bảng sau:  
-
-Hỗ Trợ Đào Tạo 
-UM mới được thăng chức trong năm 2025 
-
-(triệu đồng/UM) 
-
-UM mới thứ nhất 15 
-
-UM mới thứ 2 20 
-
-Từ UM mới thứ 3 trở đi 25 
-
- 
-
-Hỗ Trợ Đào Tạo không được áp dụng trong trường hợp việc thăng tiến được thực hiện theo yêu cầu 
-ngoại lệ và khi người thăng tiến chưa đạt đầy đủ các điều kiện thăng chức.  
-
-Hỗ Trợ Đào Tạo sẽ không được chi trả nếu UM mẹ hoặc UM mới không tiếp tục duy trì chức danh tại 
-thời điểm chi trả. 
-
-Trường hợp đặc biệt số 2: 
-
-UM A mới được thăng chức/bổ nhiệm nhưng sau đó bị giáng chức thành FC và hoạt động trong Ban 
-của UM B (bất kể UM B có phải là UM mẹ của UM A hay không) hoặc chấm dứt HĐDV với Công ty. Sau 
-đó, FC A lại được thăng chức UM. Trong trường hợp này, Hỗ Trợ Đào Tạo sẽ không được chi trả.  
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             4 
- 
-
-
-
- 
- 
-
-1.1.4. Hỗ Trợ Duy Trì Hợp Đồng (UM-KB) 
-Hỗ Trợ Duy Trì Hợp Đồng được tính và chi trả hàng tháng theo TLDTHĐ K2 của Ban Kinh doanh 
-trực tiếp, theo tỷ lệ dưới đây: 
-
-TLDTHĐ K2 Tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng  
-Ban Kinh doanh trực tiếp (%SYC Ban kinh doanh trực tiếp) 
-
-≥70% 10% 
-
-≥80% 15% 
-
-≥90% 20% 
-
- 
-Lưu ý:  
-
-• UM có TLDTHĐ K2 Ban < 70% sẽ không được nhận Hỗ Trợ Duy Trì Hợp Đồng.  
-
-• Đối với UM chưa có TLDTHĐ K2 Ban Kinh doanh, tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng được nêu 
-tại dòng 1 (K2≥70%) sẽ được áp dụng.  
-
-• Đối với UM có thời gian bổ nhiệm dưới 18 tháng, tính từ tháng bổ nhiệm đến tháng trước tháng 
-tính thu nhập, chưa có K2 ban hoặc K2 ban từ 70%, tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng được nêu 
-tại dòng 1 (K2≥70%) sẽ được áp dụng. 
-
-1.1.5. Hỗ Trợ dành cho Hanwha Master  
-Nguyên tắc xếp hạng 
-
-Tất cả UM đều được tham gia vào chương trình Xếp hạng Hanwha Master (Lãnh đạo Tinh hoa) dựa 
-trên doanh số FYP và số Đại Lý mới có hoạt động hoặc số Hanwha Lead của Ban trực tiếp trong quý 
-hiện hành như sau: 
-
-Và hoàn thành 1 trong 2 chỉ tiêu 
-FYP trong quý hiện hành 
-
-Phân hạng 
-(triệu đồng) Số lượt Đại Lý hoạt Số lượng Hanwha 
-
-động trong Ban trực tiếp Lead 
-
-Bạch Kim 450 12 3 
-
-Vàng 270 9 2 
-
-Bạc 150 6 1 
-
-• Phí bảo hiểm năm nhất (FYP) của sản phẩm “Life Fun:D – Sống thỏa chất” (ILP 2021) và “Hanwha 
-Life – Tôi chọn An Yên” (UL 2020) sẽ được nhân 1,5 khi xét phân hạng Ngôi sao Hanwha Master 
-tại các kỳ xếp hạng năm 2025. 
-
-• Phải có từ 1 FC mới có hoạt động trong quý. Lượt hoạt động của Đại Lý trong 3 tháng làm việc đầu 
-tiên sẽ được tính nhân 2 khi xét xếp hạng Hanwha Master. 
-
-• TLDTHĐ K2 của Ban tối thiểu cần đạt để được xếp hạng là 65%. Miễn áp dụng điều kiện TLDTHĐ 
-K2 cho Ban chưa có TLDTHĐ K2. 
-
-• Việc xếp hạng được thực hiện hàng quý, dựa trên kết quả hoạt động của 3 tháng vừa qua. 
-
-• Số lượng Hanwha Lead được tính tại thời điểm xếp hạng và không bao gồm bản thân UM. 
-
-• Hanwha Lead sẽ được tính cho Ban tại thời điểm đầu quý. Trong trường hợp Trưởng Ban đó đã 
-bị giáng chức hay nghỉ việc, Hanwha Lead sẽ được tính cho Ban hiện hữu. 
-
- 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             5 
- 
-
-
-
- 
- 
-
-Quyền lợi tài chính 
-
-Quyền lợi tài chính bao gồm quyền lợi tài chính cố định hàng tháng và quyền lợi tài chính tích lũy. 
-
-a) Quyền lợi tài chính cố định hàng tháng 
-
-Sau khi được xếp hạng, các UM sẽ được hưởng quyền lợi tài chính cố định hàng tháng cho quý tiếp 
-theo. Đặc biệt, các UM duy trì phân hạng hoặc thăng hạng (*) liên tục trong các kỳ xếp hạng của năm 
-2025 sẽ được nhận quyền lợi gia tăng, chi tiết theo bảng bên dưới: 
-
-Hỗ trợ cố định Hỗ trợ cố định Hỗ trợ cố định 
-Phân hạng hàng tháng hàng tháng hàng tháng 
-
-khi đạt lần 1 khi đạt 2 quý liên tục khi đạt từ 3 quý liên tục 
-
-Bạch Kim 8.000.000 10.000.000 15.000.000 
-
-Vàng 4.000.000 5.000.000 10.000.000 
-
-Bạc 2.000.000 3.000.000 5.000.000 
-
- 
-• Khoản hỗ trợ cố định hàng tháng chỉ được tính khi cá nhân UM có hoạt động trong tháng tương ứng.   
-• UM duy trì phân hạng hoặc thăng hạng (*): khi phân hạng Hanwha Master của quý sau bằng hoặc 
-
-cao hơn phân hạng quý trước.   
-
-b) Quyền lợi tài chính tích lũy 
-
-Sau khi được xếp hạng, các UM sẽ được tích lũy khoản hỗ trợ tài chính theo bảng bên dưới, tính trên 
-doanh thu FYC Ban của quý tiếp theo. 
-
-Phân hạng % FYC của quý tiếp theo 
-
-Bạch Kim 15% 
-
-Vàng 10% 
-
-Bạc 5% 
-
-Khoản tích lũy này sẽ được chi trả vào tháng thứ 15 theo quy định chung tại điểm 5.10 Mục 5, Chính 
-Sách Chi Trả Thù Lao 2025 ─ Các quy định chung. 
-
-Quyền lợi hỗ trợ 
-
-Nội dung hỗ trợ Bạch Kim Vàng Bạc 
-
-Bảo hiểm sức khỏe cao cấp - - 
- 
-
-Bảo hiểm nhóm 500 triệu 200 triệu 100 triệu 
-
-Khám sức khỏe định kỳ hàng năm 
-   
-
-Tham gia các khóa huấn luyện trong nước 
-   
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             6 
- 
-
-
-
- 
- 
-
-Huy hiệu 
-   
-
-Giấy chứng nhận và Bộ chứng nhận xếp hạng trực 
-tuyến (e-kit)    
-
-Chương trình huấn luyện đặc biệt về Xây Dựng 
-- - 
-
-Thương hiệu cá nhân và phát triển bản thân  
-
-• Chi tiết của các quyền lợi hỗ trợ: tham khảo tại mục tương ứng của Quyền lợi Hỗ Trợ Hanwha 
-Lead và các thông báo nội bộ liên quan của Công ty. 
-
-• Nếu UM đồng thời thỏa điều kiện hưởng quyền lợi hỗ trợ theo 2 chương trình Hỗ Trợ Hanwha Lead 
-và Hỗ Trợ Hanwha Master, áp dụng quyền lợi hỗ trợ theo mức cao hơn giữa hai chương trình. 
-
-• Chương trình huấn luyện đặc biệt về Xây Dựng Thương hiệu cá nhân và phát triển bản thân với 4 
-khóa học trong 4 Quý dành cho Hanwha Master Bạch Kim: 
-
-➢ Khóa học mỗi quý chỉ dành riêng cho Hanwha Master Bạch Kim đạt danh hiệu trong quý 
-tương ứng và cấp chứng chỉ sau khi hoàn thành; 
-
-➢ Chương trình được thiết kế riêng và giảng dạy bởi các chuyên gia đầu ngành trong lĩnh vực 
-Xây Dựng Thương hiệu cá nhân và phát triển bản thân; 
-
-➢ Đối với TVTC đạt Hanwha Master Bạch Kim liên tục 4 Quý trong năm 2025 và hoàn tất đầy 
-đủ 4 khóa học sẽ nhận được bằng khen danh dự từ Tổng Giám Đốc; 
-
-➢ Kế hoạch tổ chức cụ thể sẽ được truyền thông chi tiết đến các Hanwha Master Bạch Kim sau; 
-
-• Các UM đạt hạng Hanwha Master Bạch Kim trong 4 quý liên tục của năm 2025 sẽ được mời tham 
-dự Lễ Trao Giải Đẳng Cấp Sao năm 2026 (nếu có, tùy thuộc vào thời điểm và tình hình tổ chức).  
-
- 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             7 
- 
-
-
-
- 
- 
-
-1.2. TRƯỞNG KHU VỰC KINH DOANH (DM) 
-
-Ngoài những quyền lợi dành cho FC dựa trên thành tích cá nhân và các quyền lợi dành cho UM dựa 
-trên kết quả kinh doanh của Ban Kinh doanh trực tiếp, DM còn được hưởng các quyền lợi dưới đây trên 
-kết quả khai thác của toàn Khu vực Kinh doanh:  
-
-1.2.1 Hỗ Trợ Tuyển Dụng và Phát Triển Doanh 1.2.2 Hỗ Trợ Phát Triển Khu Vực Mới (DM-IO)  
-
-Số Khu Vực (DM-MA) 
-
-1.2.3 Hỗ Trợ Đào Tạo DM Mới (DM-PB) 1.2.4 Hỗ Trợ Duy Trì Hợp Đồng (DM-KB)  
-
-1.2.5 Hỗ Trợ Quản Lý Hanwha Master  
-
-1.2.1. Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Khu Vực (DM-MA) 
-
-Nhằm nâng cao TLDTHĐ K2 và tưởng thưởng xứng đáng cho các DM có kết quả kinh doanh và chất 
-lượng kinh doanh tốt; đồng thời, để ghi nhận những đóng góp và sự gắn bó lâu dài của các DM, Hỗ Trợ 
-Tuyển Dụng và Phát Triển Doanh Số Khu Vực sẽ được tính và chi trả như sau:  
- 
-
-Tổng FYC trong tháng Số lượng Ban có hoạt động  
-của Khu vực kinh doanh trực tiếp của Khu vực kinh doanh trực tiếp 
-
-K26 5% K270% K280% 
-
-Từ Đến 
-2 3 3 3 
-
-(1) (2) (3) (4) 
-
-0 29.999.999 14% 17% 19% 21% 
-
-30.000.000 59.999.999 15% 18% 20% 22% 
-
-60.000.000 89.999.999 16% 19% 21% 23% 
-
-90.000.000 119.999.999 17% 20% 22% 24% 
-
-120.000.000 149.999.999 18% 21% 23% 25% 
-
-150.000.000  19% 22% 24% 26% 
-
-Công thức:  
-
-Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Khu Vực = Tổng FYC trong tháng x Tỷ lệ hỗ trợ 
-
-Lưu ý:  
-
-• Đối với DM chưa có K2 Khu vực, có từ 2 Ban có hoạt động trong Khu vực Kinh doanh trực tiếp, tỷ lệ 
-Hỗ trợ nêu tại cột 1 sẽ được áp dụng (K2≥65%). 
-
-• Đối với DM có thời gian bổ nhiệm dưới 18 tháng, tính từ tháng bổ nhiệm đến tháng trước tháng tính 
-thu nhập, chưa có K2 Khu vực hoặc K2 Khu vực từ 65%, có từ 2 Ban có hoạt động trong Khu vực 
-Kinh doanh trực tiếp, tỷ lệ Hỗ trợ nêu tại cột 1 sẽ được áp dụng (K2≥65%) (tối đa là 19%). 
-
- 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             8 
- 
-
-
-
- 
- 
-
-• Đối với DM khác: 
-
-o DM có TLDTHĐ K2 Khu vực ≥ 65% và có từ 2 Ban kinh doanh có hoạt động, sẽ được nhận tỷ 
-lệ Hỗ trợ được nêu tại cột 1.  
-
-o DM có TLDTHĐ K2 Khu vực ≥ 65% và có từ 3 Ban có hoạt động trở lên, sẽ được nhận tỷ lệ Hỗ 
-trợ được nêu tại cột 2.  
-
-o DM có TLDTHĐ K2 Khu vực ≥ 70% và có từ 3 Ban có hoạt động trở lên, sẽ được nhận tỷ lệ Hỗ 
-trợ được nêu tại cột 3.  
-
-o DM có TLDTHĐ K2 Khu vực ≥ 80% và có từ 3 Ban có hoạt động trở lên, sẽ được nhận tỷ lệ Hỗ 
-trợ được nêu tại cột 4.   
-
-• Đảm bảo tỷ lệ Hỗ trợ 8% FYC Khu vực cho các trường hợp DM không thỏa điều kiện K2 Khu vực 
-hoặc không thỏa điều kiện số lượng ban kinh doanh có hoạt động trong Khu vực. 
-
-• Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số Khu Vực được thanh toán theo thực tế phát sinh trong 
-tháng. Đối với Hợp Đồng Bảo Hiểm phát sinh trong tháng mà bị hủy, bị từ chối trong 3 tháng, Công 
-ty sẽ tiến hành điều chỉnh lại Hỗ trợ sau khi có kết quả chính thức.  
-
-1.2.2. Hỗ Trợ Phát Triển Khu Vực Mới (DM-IO) 
-DM sẽ được nhận Hỗ Trợ Phát Triển Khu Vực Mới khi UM/SrUM trong Khu vực trực tiếp được thăng 
-chức DM. DM có UM được thăng chức DM sẽ được gọi là “DM mẹ”. Còn UM mới được thăng chức DM 
-sẽ được gọi là “DM mới”. 
-
-Tỷ lệ Hỗ Trợ Phát Triển Khu Vực Mới 
-Giai đoạn 
-
-(%Hỗ Trợ Tuyển Dụng và Phát Triển Doanh Số 
-(Từ tháng thăng chức của DM mới) 
-
-của DM mới) 
-
-1. DM mới thế hệ F1 - 
-
-6 tháng đầu 100% 
-
-6 tháng tiếp theo 50% 
-
-Từ tháng thứ 13 trở đi 25% 
-
-2. DM mới thế hệ 2, 3 và 4 - 
-
-DM thế hệ F2 25% 
-
-DM thế hệ F3 12,5% 
-
-DM thế hệ F4 6,25% 
-
-• DM mẹ được nhận Hỗ Trợ Phát Triển Khu Vực Mới nếu K2 Khu vực ≥65%. Trường hợp chưa có 
-TLDTHĐ K2, điều kiện này sẽ được miễn. 
-
-• Việc chi trả Hỗ Trợ Phát Triển Khu Vực Mới sẽ chấm dứt nếu DM mẹ hoặc DM mới không tiếp tục 
-duy trì HĐDV (ví dụ: bị giáng chức hay chấm dứt HĐDV).  
-
-• Nếu DM mới thế hệ trước không tiếp tục duy trì HĐDV (bị giáng chức hay chấm dứt HĐDV), DM vẫn 
-sẽ được nhận Hỗ Trợ Phát Triển Khu Vực Mới trên các DM mới thế hệ sau còn hoạt động.  
-
-Trường hợp đặc biệt số 3: 
-
-DM A mới được thăng chức/bổ nhiệm trực tiếp nhưng sau đó bị giáng chức thành UM A và hoạt động 
-trong Khu vực của DM B (bất kể DM B có phải là DM mẹ của DM A hay không) hoặc đã chấm dứt HĐDV. 
-Sau đó UM A lại được thăng chức DM. Trong trường hợp này, DM B sẽ chỉ được hưởng tỷ lệ Hỗ Trợ 
-Phát Triển Khu Vực Mới cố định là 25%. 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             9 
- 
-
-
-
- 
- 
-
-1.2.3. Hỗ Trợ Đào Tạo DM Mới (DM-PB) 
-
-Hỗ Trợ Đào Tạo DM Mới sẽ được chi trả một lần cho DM mẹ (người đã trực tiếp phát triển DM mới) vào 
-tháng DM mới được đề bạt lần đầu tiên. 
-
-Hỗ Trợ Đào Tạo 
-DM mới được thăng tiến trong năm 2025 
-
-(triệu đồng/DM) 
-
-DM mới thứ nhất 40 
-
-DM mới thứ 2 50 
-
-Từ DM mới thứ 3 trở đi 60 
-
-Hỗ Trợ Đào Tạo không được áp dụng trong trường hợp việc thăng tiến được thực hiện theo yêu cầu 
-ngoại lệ và khi người thăng tiến chưa đạt đầy đủ các điều kiện thăng chức.  
-
-Hỗ Trợ Đào Tạo sẽ không được chi trả nếu DM mẹ hoặc DM mới không tiếp tục duy trì chức danh tại 
-thời điểm chi trả. 
-
-Trường hợp đặc biệt số 4: 
-
-DM A mới được thăng chức/bổ nhiệm trực tiếp nhưng sau đó bị giáng chức thành UM và hoạt động 
-trong Khu vực của DM B (bất kể DM B có phải là DM mẹ của DM A hay không). Sau đó, UM A lại được 
-thăng chức DM. Trong trường hợp này, Hỗ Trợ Đào Tạo sẽ không được chi trả.  
-
-1.2.4. Hỗ Trợ Duy Trì Hợp Đồng (DM-KB) 
-Hỗ Trợ Duy Trì Hợp Đồng được tính và chi trả hàng tháng theo TLDTHĐ K2 của Khu Vực Kinh doanh 
-trực tiếp, theo tỷ lệ dưới đây: 
-
-TLDTHĐ K2 Tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng 
-Khu vực Kinh doanh trực tiếp (%SYC Khu Vực Kinh doanh trực tiếp 
-
-≥70% 10% 
-
-≥80% 15% 
-
-≥90% 20% 
-
- 
-Lưu ý:  
-
-• DM có TLDTHĐ K2 Khu vực < 70% sẽ không được nhận Hỗ Trợ Duy Trì Hợp Đồng.  
-
-• Đối với DM chưa có TLDTHĐ K2 Khu Vực Kinh doanh, tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng được nêu 
-tại dòng 1 (K2≥70%) sẽ được áp dụng.  
-
-• Đối với DM có thời gian bổ nhiệm dưới 18 tháng, tính từ tháng bổ nhiệm đến tháng trước tháng 
-tính thu nhập, chưa có K2 khu vực hoặc K2 khu vực từ 70%, tỷ lệ Hỗ Trợ Duy Trì Hợp Đồng 
-được nêu tại dòng 1 (K2≥70%) sẽ được áp dụng. 
-
- 
-
- 
-
- 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             10 
- 
-
-
-
- 
- 
-
-1.2.5. Hỗ Trợ Hanwha Master - DM 
-DM sẽ được xếp hạng theo điều kiện dành cho Ban kinh doanh trực tiếp như đã nêu ở mục 1.1.5 hoặc 
-theo điều kiện dưới đây xét trên doanh số của Khu vực trong quý hiện hành. 
-
-Nguyên tắc xếp hạng 
-
-Tất cả DM đều được tham gia vào chương trình Xếp hạng Hanwha Master dựa trên doanh số và số Đại 
-Lý mới có hoạt động của Khu vực trực tiếp trong quý hiện hành như sau: 
-
-FYP Khu Vực Và hoàn thành 1  trong 2 chỉ tiêu  
-
-Phân hạng trong quý hiện hành 
-Số lượt Đại Lý hoạt động Số lượng Hanwha 
-
-(triệu đồng) 
-trong Khu vực trực tiếp Master 
-
-Bạch Kim 900 18 2 
-
-Vàng 600 15 2 
-
-Bạc 300 9 1 
-
-• Phí bảo hiểm năm nhất (FYP) của sản phẩm “Life Fun:D – Sống thỏa chất” (ILP 2021) và “Hanwha 
-Life – Tôi chọn An Yên” (UL 2020) sẽ được nhân 1,5 khi xét phân hạng Ngôi sao Hanwha Master 
-tại các kỳ xếp hạng năm 2025. 
-
-• Phải có từ 1 FC mới có hoạt động trong quý. Lượt hoạt động của Đại Lý trong 3 tháng làm việc đầu 
-tiên sẽ được tính nhân 2 khi xét xếp hạng Hanwha Master.    
-
-• TLDTHĐ K2 của Khu vực tối thiểu cần đạt để được xếp hạng là 65%. 
-
-• Miễn áp dụng điều kiện TLDTHĐ K2 cho khu vực, ban chưa có TLDTHĐ K2.  
-
-• Việc xếp hạng được thực hiện hàng quý. Số lượng UM Hanwha Master được tính tại thời điểm xếp 
-hạng và không bao gồm bản thân DM. 
-
-Quyền lợi tài chính và Quyền lợi hỗ trợ 
-
-• Nếu DM đồng thời thỏa điều kiện xếp hạng dành cho Ban kinh doanh và Khu vực Kinh doanh, mức 
-xếp hạng nào cao hơn sẽ được áp dụng. Quyền lợi tài chính và hỗ trợ sẽ được tính trên Ban kinh 
-doanh trực tiếp như đã nêu tại mục 1.1.5. 
-
-• Để nhận được Quyền lợi tài Chính cố định hàng tháng, cá nhân DM phải có hoạt động trong tháng 
-tương ứng. 
-
-Ví dụ 1: Ngày 01/01/2025, DM A đạt hạng Vàng của chương trình Xếp hạng Hỗ trợ UM Hanwha Master 
-và đạt phân hạng Bạc của chương trình xếp hạng DM Hanwha Master. DM A sẽ được nhận quyền lợi 
-tài chính hạng Vàng theo chương trình Hanwha Master, được tính trên kết quả kinh doanh của Ban kinh 
-doanh trực tiếp.  
-
- 
-
- 
-
- 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             11 
- 
-
-
-
- 
- 
-
-2. ĐIỀU KIỆN CUNG CẤP DỊCH VỤ VÀ THĂNG CHỨC  
-
-2.1. ĐIỀU KIỆN CUNG CẤP DỊCH VỤ 
-Bên cạnh các điều kiện chung được quy định tại bản Điều khoản và Điều Kiện Hợp Đồng Dịch Vụ Quản 
-Lý Đại Lý Bảo Hiểm và các điều kiện chỉ định (thăng chức/bổ nhiệm) các chức danh UM/DM như được 
-quy định tại Chính Sách Chi Trả Thù Lao, Quản Lý Đại Lý (UM/DM) còn phải đáp ứng các điều kiện sau 
-để thực hiện cung cấp dịch vụ: 
-
-2.1.1. Điều kiện duy trì chức danh Trưởng Ban Kinh doanh (UM/SrUM) 
-• Việc xét duy trì chức danh Trưởng Ban Kinh doanh được tiến hành mỗi quý, vào cuối tháng 3, 6, 9 
-
-và 12, áp dụng với các UM đã tại chức tối thiểu từ 6 tháng trở lên tính đến thời điểm xem xét. 
-
-• Tiêu chuẩn duy trì chức danh như sau: 
-o Có từ 1 Đại Lý mới có hoạt động trong Ban trực tiếp/quý; và 
-
-o TLDTHĐ K2 của Ban trực tiếp ≥65%. 
-
-• UM không đạt điều kiện duy trì chức danh UM lần thứ nhất sẽ nhận thư nhắc nhở. 
-
-• UM sẽ bị Công ty giáng chức xuống vị trí FC đối với các trường hợp: 
-o Không đạt tiêu chuẩn duy trì chức danh Trưởng Ban Kinh 
-
-doanh trong 2 lần đánh giá liên tiếp;  
-o Vi phạm các điều khoản và điều kiện được quy định tại HĐĐL 
-
-và/hoặc HĐDV đã giao kết; 
-
-o Không tuân thủ việc quản lý các hoạt động và hỗ trợ tư vấn;  
-o Các trường hợp khác, nếu thấy cần thiết. 
-
-• Trong trường hợp số chỗ bàn làm việc của UM ít hơn số UM đạt 
-điều kiện duy trì chức danh, UM có doanh số FYP cao hơn trong 
-kỳ xem xét sẽ được ưu tiên cung cấp chỗ làm việc.  
-
-2.1.2. Điều kiện duy trì chức danh Trưởng Khu vực Kinh doanh (DM/SrDM) 
-• Việc xét duy trì chức danh Trưởng Khu Vực Kinh doanh được tiến hành mỗi 6 tháng, vào cuối tháng 
-
-6 và cuối tháng 12, áp dụng với các Trưởng Khu Vực đã tại chức tối thiểu từ 6 tháng trở lên tính đến 
-thời điểm xem xét. 
-
-• Để duy trì chức danh, DM cần đạt trong 6 tháng qua:  
-o Có từ 3 Đại Lý mới có hoạt động trong Khu vực trực tiếp;  
-
-o TLDTHĐ K2 KVKD ≥ 65% 
-
-• DM không đạt điều kiện duy trì chức danh DM lần thứ nhất sẽ nhận thư nhắc nhở. 
-
-• DM sẽ bị Công ty giáng chức xuống vị trí SrUM đối với các trường hợp: 
-o Không đạt tiêu chuẩn duy trì chức danh DM trong 2 lần đánh giá liên tiếp; 
-
-o Vi phạm các điều khoản và điều kiện được quy định tại HĐĐL và/hoặc HĐDV đã giao kết; 
-
-o Không tuân thủ việc quản lý các hoạt động và hỗ trợ tư vấn 
-
-o Các trường hợp khác, nếu thấy cần thiết.  
-
-Dành cho Trưởng Khu Vực Danh Dự (quy định tại mục 2.2.4):  
-Trưởng Khu Vực Danh Dự được duy trì chức danh Trưởng Khu Vực Kinh Doanh, dù có thể không đạt 
-điều kiện duy trì chức danh Trưởng Khu Vực Kinh Doanh nếu đáp ứng các điều kiện dưới đây. Trong 
-trường hợp đó, các Ban và Khu vực con của Trưởng Khu Vực Danh Dự sẽ được tách ra và các quyền 
-lợi Hỗ Trợ Tuyển Dụng Và Phát Triển Doanh Số Khu Vực, Hỗ Trợ Phát Triển Khu Vực Mới tương ứng 
-sẽ kết thúc. Trưởng Khu Vực Danh Dự chỉ còn quản lý Ban trực tiếp của mình. Tuy nhiên, quy định này 
-không áp dụng đối với trường hợp DM vi phạm các điều khoản và điều kiện của các HĐĐL và/hoặc 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             12 
- 
-
-
-
- 
- 
-
-HĐDV đã giao kết, và các quy định có liên quan, dẫn đến việc bị kỷ luật hoặc bị chấm dứt một hoặc tất 
-cả các hợp đồng nêu trên.  
-Cuối tháng 6 và 12 mỗi năm, Công ty sẽ xem xét và đánh giá lại chức danh Trưởng Khu Vực Danh Dự. 
-
- 
-Duy trì chức danh Trưởng Khu Vực Danh Dự: 
-
-• Tỷ lệ duy trì hợp đồng năm 2 của Khu vực tại thời điểm đánh giá lớn hơn hoặc bằng 65% (K2 ≥ 
-65%); và 
-
-• Tuyển dụng trực tiếp từ 2 FC mới có hoạt động (trong tháng tuyển dụng) trong 6 tháng qua.  
-
-2.2. ĐIỀU KIỆN THĂNG CHỨC 
-
-2.2.1. Từ UM lên Trưởng Ban Cấp Cao (SrUM) 
-• Tối thiểu 3 tháng ở vị trí UM; 
-
-• Quản lý ít nhất 1 Ban con bên dưới; 
-
-• Có từ 18 lượt FC hoạt động trong Ban trực tiếp và Ban gián tiếp (F1) trong 6 tháng qua; bao gồm 
-lượt hoạt động của cá nhân UM dưới tư cách FC. Lượt hoạt động của Đại Lý trong 3 tháng làm việc 
-đầu tiên sẽ được tính nhân 2 (bao gồm các trường hợp Đại lý đã chấm dứt HĐĐL với Hanwha Life 
-Việt Nam và quay trở lại hoạt động). 
-
-• TLDTHĐ K2 của Ban ≥65% 
-
-• Việc xét thăng tiến được tiến hành vào mỗi tháng.  
-
-2.2.2. Từ UM/SrUM lên Trưởng Khu vực (DM) 
-
-Tiêu chuẩn Yêu cầu tối thiểu 
-
-Thời gian hoạt động ≥ 6 tháng ở vị trí UM 
-
-Đã phát triển và được bổ nhiệm từ 2 UM trong Ban Kinh doanh 
-Phát triển hệ thống trực tiếp (F1), trong đó có ít nhất 1 Ban thăng tiến nội bộ, và 2 UM 
-
-đó phải còn duy trì chức danh UM tại thời điểm xét thăng chức 
-
-• ≥ 48 lượt Đại lý có hoạt động từ Ban Kinh doanh trực tiếp và 
-các Ban Kinh doanh gián tiếp (thế hệ F1) trong 6 tháng qua, 
-bao gồm lượt hoạt động của UM dưới tư cách FC (trong đó 
-phải có từ 1 FC mới có hoạt động, bao gồm các trường hợp 
-
-Hoạt động Ban 
-Đại lý đã chấm dứt HĐĐL với Hanwha Life Việt Nam và quay 
-trở lại hoạt động). Lượt hoạt động của Đại Lý trong 3 tháng 
-làm việc đầu tiên sẽ được tính nhân 2, và; 
-
-• Đạt từ 600 triệu FYP trong 6 tháng qua. 
-
-Tỷ lệ duy trì hợp đồng K2 ≥65% 
-
-Huấn luyện Hoàn thành các khóa huấn luyện bắt buộc 
-
-Thời gian cung cấp dịch vụ Bắt buộc phải cung cấp dịch vụ toàn thời gian với Công ty 
-
-Hàng quý. Kết quả được bảo lưu trong trường hợp đạt yêu cầu 
-Định kỳ xét duyệt 
-
-sớm hơn 
-
-Phê duyệt Được phê duyệt bởi các cấp có thẩm quyền theo từng năm 
-
-Lưu ý: Khi UM được thăng chức lên DM, các Ban do UM phát triển bao gồm F1, F2... sẽ được 
-chuyển về Khu vực Kinh doanh mới.  
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             13 
- 
-
-
-
- 
- 
-
- 
-
-2.2.3. Từ DM lên Trưởng Khu vực Cấp Cao (SrDM) 
-• Tối thiểu 6 tháng ở vị trí DM; 
-
-• ≥ 60 lượt FC hoạt động trong 6 tháng qua; bao gồm lượt hoạt động của cá nhân DM/UM dưới tư 
-cách FC. Lượt hoạt động của Đại Lý trong 3 tháng làm việc đầu tiên sẽ được tính nhân 2 (bao gồm 
-các trường hợp Đại lý đã chấm dứt HĐĐL với Hanwha Life Việt Nam và quay trở lại hoạt động); 
-
-• TLDTHĐ K2 của Khu vực ≥65%. 
-
-• Việc xét thăng tiến được tiến hành hàng quý. Kết quả được bảo lưu trong trường hợp đạt yêu cầu 
-sớm hơn. 
-
- 
-
-2.2.4. Tiêu chuẩn công nhận Trưởng Khu Vực Danh Dự 
-• Tối thiểu 3 năm ở vị trí DM; 
-
-• Không vi phạm các quy định về pháp chế đại lý. 
-
-• Việc xét công nhận được tiến hành hàng quý.  
-
-• Các trường hợp DM Danh Dự không duy trì chức danh trong đợt đánh giá gần nhất sẽ được xem 
-xét lại sau mỗi 6 tháng. 
-
-Lưu hành nội bộ - Cập nhật tháng 1/2025             
-
-Thông Báo Nội Bộ
-Số:            01/DP/2025
-Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh, Tư Vấn Tài Chính, TVTC Phục Vụ
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Hwang Jun Hwan
-Ngày gửi:      10/01/2025                                                           Số trang: 02
-
-
-
-
-Các Anh/Chị thân mến,
-Hành trình mới 2025 đã chính thức được mở ra. Trong không khí hân hoan chào đón năm mới, thay mặt Ban
-Lãnh Đạo Hanwha Life Việt Nam, tôi xin trân trọng gửi đến các Anh/Chị lời chúc mừng năm mới chân thành
-và tốt đẹp nhất.
-Chúng ta đã cùng nhau vượt qua rất nhiều khó khăn và thử thách. Chính tinh thần đoàn kết, sự cống hiến và
-nỗ lực không ngừng nghỉ của các Anh/Chị đã góp phần xây dựng nên một Hanwha Life phát triển vững mạnh.
-Trong năm mới này, với 2 chiến lược trọng tâm là Duy trì nguồn lực và Nâng cao chất lượng kinh doanh,
-Công ty sẽ tiếp tục triển khai các chính sách cạnh tranh, gia tăng thêm các quyền lợi tài chính nhằm tạo động
-lực phát triển và nâng tầm chất lượng đội ngũ.
-Để tiếp thêm năng lượng và tạo động lực tăng trưởng cho Anh/Chị trên hành trình mới với tinh thần “VƯƠN
-TẦM MỚI”, Công ty xin gửi đến Anh/Chị “Chính Sách Chi Trả Thù Lao Hoạt Động Đại lý 2025” có hiệu lực
-từ 1/1/2025 cho đến khi có thông báo mới, với một số bổ sung, điều chỉnh nhằm củng cố về “chất” và hướng
-đến tăng trưởng về “lượng” cũng như tối đa hóa quyền lợi cho lực lượng kinh doanh như sau:
-
-CHUYỂN MÌNH NÂNG CHẤT
-Điều chỉnh giảm nhẹ điều kiện và tăng cường hoạt động huấn luyện đào tạo nhằm giúp TVTC nhanh chóng
-hoàn thành mục tiêu:
-•   Giảm yêu cầu về doanh số (20% FYC) và điều kiện K2 nhưng vẫn giữ nguyên mức thưởng nhằm tăng tính
-    cạnh tranh và tạo động lực cho đội ngũ;
-•   Nâng cao kiến thức và kỹ năng cho đội ngũ kinh doanh thông qua Chương trình huấn luyện Kỹ Năng Tư
-    Vấn Cơ Bản (BSS);
-
-VỮNG VÀNG TĂNG LƯỢNG
-Thúc đẩy đội ngũ thêm nỗ lực nâng cao doanh số và gìn giữ sự kết nối lâu dài với khách hàng để nhận tối đa
-quyền lợi:
-•   Thay đổi điều kiện xét TVTC có hoạt động: khai thác tối thiểu 1 hợp đồng phát hành thuần và tổng IP lớn
-    hơn hoặc bằng (≥) 10 triệu đồng;
-•   Bổ sung khoản Hỗ trợ Duy Trì Hợp Đồng (KB) lên đến 20%SYC;
-Tôi tin rằng, với sự đồng hành và hỗ trợ mạnh mẽ từ Công ty cùng với sự nhiệt huyết và đồng lòng của toàn
-đội ngũ, chúng ta sẽ gặt hái được nhiều thành công mới và đưa Hanwha Life Việt Nam ngày càng vươn xa
-hơn trong năm 2025 này.
-
-Vui lòng tham khảo chi tiết trong Chính Sách Chi Trả Thù Lao Hoạt Động Đại lý 2025 đính kèm.
-
-Chúc Anh/Chị năm mới tràn đầy sức khỏe, vạn sự như ý, ngày càng thành công cùng Hanwha Life Việt Nam!
-
-#The next us_The next level#HanwhalifeVietnam
-
-Trân trọng,
-
-
-
-
-HWANG JUN HWAN
-Chủ tịch HĐTV kiêm Tổng Giám đốc
-
-
-Ngày khóa số và ngày thanh toán thu nhập các tháng trong năm 2025
-Thông Báo Nội Bộ
-Số:            01A/CEO/2025
-Kính gửi:      Giám Đốc Kinh Doanh, Trưởng Khu Vực, Trưởng Ban, Tư Vấn Tài Chính
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Hwang Jun Hwan
-Ngày gửi:      01/01/2025                                                                   Số trang: 04
-
-
-
-
-Các Anh/Chị thân mến,
-Công ty xin thông báo đến các Anh/Chị lịch khóa sổ năm 2025 và các quy định liên quan đến việc thanh toán
-thu nhập như sau:
-1. Lịch khóa sổ hàng tháng:
-
-   Để giúp các Anh/Chị thuận tiện theo dõi, xin thông báo lịch khóa sổ hàng tháng dự kiến trong năm 2025
-   như sau:
+Lịch khóa sổ hàng tháng dự kiến trong năm 2025 như sau:
                   Tháng                     Ngày khóa sổ                 Ngày thanh toán
-                   Giêng                      31/01/2025                     11/02/2025
-                    Hai                       28/02/2025                     10/03/2025
-                    Ba                        31/03/2025                     11/04/2025
-                    Tư                        30/04/2025                     12/05/2025
-                   Năm                        31/05/2025                     10/06/2025
-                    Sáu                       30/06/2025                     10/07/2025
-                    Bảy                       31/07/2025                     11/08/2025
-                   Tám                        31/08/2025                     11/09/2025
-                   Chín                       30/09/2025                     10/10/2025
-                   Mười                       31/10/2025                     10/11/2025
-                 Mười Một                     30/11/2025                     10/12/2025
-                 Mười Hai                     31/12/2025                     12/01/2026
+                   01                      31/01/2025                     11/02/2025
+                    02                      28/02/2025                     10/03/2025
+                    03                        31/03/2025                     11/04/2025
+                    04                      30/04/2025                     12/05/2025
+                   05                       31/05/2025                     10/06/2025
+                    06                    30/06/2025                     10/07/2025
+                    07                       31/07/2025                     11/08/2025
+                   08                        31/08/2025                     11/09/2025
+                   09                       30/09/2025                     10/10/2025
+                   10                       31/10/2025                     10/11/2025
+                 11                     30/11/2025                     10/12/2025
+                 12                     31/12/2025                     12/01/2026
+
+Phương thức thanh toán:
+Hoa hồng và thu nhập của Tư vấn Tài chính (TVTC) được thanh toán theo định kỳ 03 lần/tháng như quy định tại Phụ lục đính kèm.
+ 
+Các Ngôi sao Hanwha Lead, Quản Lý Hanwha Master xếp hạng MDRT, Kim Cương hoặc Vàng sẽ được ưu tiên nhận ngay hoa hồng năm nhất theo lịch chi trả nêu trên mà không cần phải chờ qua thời gian cân nhắc. Tuy nhiên phải thỏa điều kiện đã bàn giao hợp đồng và đã được thực hiện thành công cuộc gọi chào mừng Khách hàng (Welcome call).
 
 
-
-2. Phương thức thanh toán:
-Hoa hồng và thu nhập của Tư vấn Tài chính (TVTC) được thanh toán theo định kỳ 03 lần/tháng như quy định
-tại Phụ lục đính kèm.
-Các Ngôi sao Hanwha Lead, Quản Lý Hanwha Master xếp hạng MDRT, Kim Cương hoặc Vàng sẽ được
-ưu tiên nhận ngay hoa hồng năm nhất theo lịch chi trả nêu trên mà không cần phải chờ qua thời gian cân
-nhắc. Tuy nhiên phải thỏa điều kiện đã bàn giao hợp đồng và đã được thực hiện thành công cuộc gọi chào
-mừng Khách hàng (Welcome call).
-
-
-Trong trường hợp thu nhập cần thanh toán cho TVTC đạt dưới 200 nghìn đồng, Công ty sẽ tích lũy cho các
-kỳ thanh toán tiếp theo nhằm tiết kiệm chi phí chuyển khoản cho TVTC.
+Trong trường hợp thu nhập cần thanh toán cho TVTC đạt dưới 200 nghìn đồng, Công ty sẽ tích lũy cho các kỳ thanh toán tiếp theo nhằm tiết kiệm chi phí chuyển khoản cho TVTC.
 
 
 Lưu ý về việc Bàn giao hợp đồng và Welcome call
 
-   ➢ Tham khảo Memo 07/OP-CC/2022 và Memo 09/OP-CC/2022.
-   ➢ CC sẽ thực hiện Welcome call đối với các Hợp đồng có xác nhận hoàn tất việc bàn giao. Hợp đồng đã
-     được Khách Hàng xác nhận bàn giao và thực hiện Welcome call thành công thì mới được thanh toán
-     hoa hồng tương ứng.
-   ➢ Đối với các hợp đồng hoàn tất Thư ACK trong vòng 05 ngày làm việc ngay trước ngày khóa sổ thanh
-     toán thu nhập, Công ty sẽ không đảm bảo việc hoàn tất Welcome call thành công trước ngày khóa sổ
-     và có thể ảnh hưởng đến tiến độ thanh toán hoa hồng của TVTC.
-
-3. Lịch thanh toán thu nhập vào thời điểm trước và sau Tết Ất Tỵ 2025
-   Lịch nghỉ Tết Nguyên Đán Ất Tỵ sẽ bắt đầu từ ngày 27/01/2025. Công ty sẽ thanh toán tạm ứng thu nhập
-   tháng 1/2025 đợt 1 theo lịch như sau:
-
-   •   Thời điểm khóa sổ: 15/01/2025
-   •   Thời điểm thanh toán: 22/01/2025
-   •   Nội dung thanh toán bao gồm các khoản thu nhập dưới đây:
-
-           ✓ Phát sinh từ 01/01/2025 đến 15/01/2025
-             o Hoa hồng;
-             o Hỗ trợ Phát triển doanh số (FC PB);
-             o Thù Lao Quản lý cho UM/DM (UM/DM MA);
-             o 15% phí bảo hiểm thực thu trong năm đầu tiên cho Tổng đại lý.
-           ✓ Hoa hồng tháng 12/2024 – đợt 2 cũng được thanh toán ngày 22/01/2025
-
-   Thanh toán thu nhập tháng 12/2024 - đợt 3 (thanh toán sau Tết)
-
-   •   Thời điểm thanh toán: 05/02/2025
-   •   Nội dung thanh toán:
-       Hoa hồng tháng 12/2024_đợt 3:
-          ✓ Những hợp đồng mới, đã phát hành từ ngày 19 đến ngày 31/12/2024, không hủy/hủy chuyển
-              trong thời gian cân nhắc tính đến thời điểm tính toán và chi trả;
-          ✓ Các trường hợp bị tạm giữ thu nhập, sau khi đã hoàn tất các yêu cầu liên quan trước hoặc đến
-              thời điểm khóa sổ.
-   Thanh toán thu nhập tháng 01/2025 - đợt 1 (thanh toán sau Tết)
-
-   •   Thời điểm thanh toán: 11/02/2025
-   •   Nội dung thanh toán: Tất cả các khoản thu nhập phát sinh, nếu có, căn cứ vào kết quả hoạt động kinh
-       doanh của tháng 01/2025, trừ khoản đã tạm ứng trước Tết.
-
-4. Lưu ý quan trọng về thời gian chuẩn thực hiện nghiệp vụ thẩm định và phát hành hợp đồng:
-Công ty lưu ý thời gian thực hiện như sau:
-
-                                                  Thời gian hoàn tất
-                                                  thẩm định và phát
-                  Loại hồ sơ                                                        Ghi chú
-                                                   hành hợp đồng
-                                                    (ngày làm việc)
- Hồ sơ sạch, đầy đủ thông tin và phí bảo hiểm,
-                                                        0-2
- không có yêu cầu khám sức khỏe
-                                                                       Tính từ ngày Công ty nhận được
- Hồ sơ có yêu cầu khám sức khỏe/ bổ sung thông
-                                                         0-2           hồ sơ khám/ bổ sung thông tin/
- tin/ chờ quyết định của công ty tái bảo hiểm
-                                                                       quyết định từ công ty tái bảo hiểm
+-	Tham khảo Memo 07/OP-CC/2022 và Memo 09/OP-CC/2022.
+-	CC sẽ thực hiện Welcome call đối với các Hợp đồng có xác nhận hoàn tất việc bàn giao. Hợp đồng đã được Khách Hàng xác nhận bàn giao và thực hiện Welcome call thành công thì mới được thanh toán hoa hồng tương ứng.
+-	Đối với các hợp đồng hoàn tất Thư ACK trong vòng 05 ngày làm việc ngay trước ngày khóa sổ thanh toán thu nhập, Công ty sẽ không đảm bảo việc hoàn tất Welcome call thành công trước ngày khóa sổ và có thể ảnh hưởng đến tiến độ thanh toán hoa hồng của TVTC.
 
 
-
+Thông tin đóng phí bảo hiểm như sau:
+Chuyển khoản nhanh thông thường vào tài khoản HANWHA LIFE tại ngân hàng TECcombank + Số tài khoản: 19025750979010 Techcombank 
+Chủ tài khoản: Công ty TNHH Bảo hiểm Nhân thọ HANWHA LIFE Việt Nam
+Nội dung thanh toán: [Số Hồ sơ ĐIỆN TỬ] + [Họ và tên Bên mua bảo hiểm] + [SỐ ĐIỆN THOẠI Bên mua bảo hiểm]
 
-Danh sách lớp học BFC và kỳ thi, ngày chốt hồ sơ
-Ngày chốt HS	Ngày học	Ngày thi	_i_m thi	Hình th_c	Ng__i ph_ trách	Tên VP/GA	Khu v_c	Mã L_p	Tên L_p29/05	02/06 – 03/06	05/06	TP.HCM	Tr_c ti_p	H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250839_302	BFC2420250839_ HO CHI MINH_02-03 JUN03/06	05/06 – 06/06	10/06	TP.HCM		Ph_m Vi_t __t	Pre - GA V_ng Tàu 1	_ÔNG NAM 	BFC2420250840_1045	BFC2420250840_ GA VUNG TAU 1_05-06 JUN04/06	07/06 – 08/06	10/06	Ti_n Giang		H_a Lê Thiên B_o	GA M_ Tho	TÂY NAM 	BFC2420250842_115	BFC2420250842_ MY THO_07-08 JUN05/06	09/06 – 10/06	12/06	TP.HCM		Ph_m Vi_t __t	SO Th_ D_u M_t	_ÔNG NAM 	BFC2420250843_310	BFC2420250843_ BINH DUONG_09-10 JUN10/06	12/06 – 13/06	17/06	TP.HCM		H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250844_302	BFC2420250844_ HO CHI MINH_12-13 JUN10/06	12/06 – 13/06	17/06	TP.HCM		Ph_m Vi_t __t	AO Châu __c	_ÔNG NAM	BFC2420250845_1016	BFC2420250845_ AO CHAU DUC_12-13 JUN19/06	23/06 – 24/06	26/06	TP.HCM		H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250846_302	BFC2420250846_ HO CHI MINH_23-24 JUN26/06	30/06– 01/07		TP.HCM		H_a Lê Thiên B_o	SO Tân Bình	SÀI GÒN	BFC2420250847_302	BFC2420250847_ HO CHI MINH_30 JUN-01 JUL
 
-Trong tháng 6 này còn lớp BFC nào nữa hay không?
-Hạn chót nhập hồ sơ là ngày nào?
-Ai phụ trách lớp BFC?
+HOTLINE 
+HỖ TRỢ DỊCH VỤ 028 3914 9100  - 1292
+HỖ TRỢ KỸ THUẬT 028 3914 9100  - 1122
 
-Memo thưởng GAD trong tháng 6 và quý 2 này như thế nào ?
-Memo thưởng DM trong tháng 6 và quý 2 này như thế nào ?
-Memo thưởng UM trong tháng 6 và quý 2 này như thế nào ?
-Memo thưởng FC trong tháng 6 và quý 2 này như thế nào ?
                                                        
 
 
 
 
-Các Anh/Chị GAD thân mến,
 
-Chúng ta đang bước vào tháng 6, chặng cuối cùng để chinh phục mục tiêu kinh doanh Quý 2/2025. Đồng
-hành cùng các Văn phòng Tổng Đại Lý (TĐL) thúc đẩy hoạt động tuyển dụng, xây dựng đội ngũ kinh doanh
-phát triển vững mạnh, Công ty trân trọng thông báo triển khai chương trình thi đua “NGƯỜI DẪN ĐƯỜNG
-THÔNG THÁI” trong tháng 6/2025 dành cho các Văn phòng TĐL với chi tiết như sau:
 
-                         Tháng 6/2025                      Văn phòng Tổng Đại Lý (TĐL)
 
 
-
-
-Ví dụ:
-Trong tháng 6/2025, TĐL A đạt doanh số IP là 800 triệu. Đồng thời, TĐL A tuyển dụng được 5 Đại Lý mới,
-trong đó 2 Đại Lý mới có hoạt động trong tháng 6.
-TĐL A nhận khoản hỗ trợ là: 800 x 7% = 56 triệu.
-Lưu ý quan trọng:
- - Đại Lý mới gia nhập trong tháng 6/2025 là các trường hợp được tuyển dụng thành công bao gồm các
-   Đại Lý mới được cấp mã số, ký Hợp đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6 và trường hợp đã
-   chấm dứt HĐĐL với Hanwha Life Việt Nam và quay trở lại hoạt động vào tháng 6;
- - Đại Lý mới có hoạt động: vui lòng tham khảo định nghĩa tại Chính sách chi trả thù lao hoạt động đại lý 2025;
- - Doanh số IP của TĐL được xét trên các Hợp đồng được nộp trong giai đoạn thi đua, phát hành đến hết
-   ngày 30/06/2025, đồng thời được khách hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi
-   Welcome Call thành công trong thời gian cân nhắc và không hủy trong thời gian cân nhắc mới được
-   tính cho chương trình này;
-- Khoản hỗ trợ sẽ được thanh toán vào thu nhập của TĐL trong kỳ thanh toán thu nhập tiếp theo sau khi
-   có kết quả cuối cùng;
-- Chương trình chỉ áp dụng với các TĐL đã hoàn tất ký Hợp đồng TĐL với Hanwha Life Việt Nam trước
-   ngày 01/06/2025 và phải còn hiệu lực tại thời điểm chi trả, đồng thời không vi phạm các quy định tại
-   Quy chế Tuân thủ Đại lý, Quy chế thành lập và tổ chức hoạt động TĐL trong thời gian thi đua và thời
-   gian nhận thưởng;
-- Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
-
-Chúc Anh/Chị gặt hái thành công cùng Hanwha Life Việt Nam!
-
-Trân trọng,
-
-
-
-Trần Văn Vàng
-Phó Tổng Giám Đốc Kinh Doanh
-
-Thông Báo Nội Bộ
-Số:            102/DP/2025
-Kính gửi:      Trưởng Khu Vực Kinh Doanh
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Trần Văn Vàng
-Ngày gửi:      01/06/2025                                                               Số trang: 02
-
-
-
-
-Các Anh/Chị thân mến,
-Chúng ta đang bước vào tháng 6, chặng cuối cùng để chinh phục mục tiêu kinh doanh Quý 2/2025 cũng
-như 6 tháng đầu năm. Nhằm tiếp thêm động lực giúp các Anh/Chị hoạt động mạnh mẽ, thu hút nhiều nhân
-tài và xây dựng hệ thống kinh doanh vững mạnh, Công ty trân trọng gửi đến Anh/Chị chương trình thi đua
-“ĐỈNH CAO LÃNH ĐẠO” trong tháng 6/2025 dành cho Trưởng Khu Vực Kinh Doanh với khoản hỗ trợ
-hấp dẫn như sau:
-
-                      Tháng 6/2025                      DM/SrDM xét theo Khu vực trực tiếp
-
-
-
-
-Ví dụ:
-Trong tháng 6/2025, Khu vực Kinh doanh của DM A có tổng IP là 300 triệu. Đồng thời, DM A có 2 Đại lý mới
-được tuyển dụng và trong đó có 1 Đại lý mới có hoạt động ngay trong tháng 6.
-Như vậy, DM A nhận hỗ trợ: 15 triệu đồng.
-Lưu ý quan trọng:
--   Các Hợp Đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025, đồng thời được khách
-    hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi Welcome Call thành công trong thời gian
-    cân nhắc và không hủy trong thời gian cân nhắc mới được tính cho chương trình này;
--   Tuyển dụng thành công tháng 6/2025: là trường hợp tuyển dụng Đại lý mới được cấp mã số và ký
-    Hợp đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6, bao gồm các trường hợp đã chấm dứt HĐĐL với
-    Hanwha Life Việt Nam và quay trở lại hoạt động tháng 6;
--   Số lượng Đại Lý mới có hoạt động theo chương trình này không tính bao gồm cá nhân DM. Vui lòng
-    tham khảo định nghĩa “Đại lý mới có hoạt động” tại Chính sách chi trả thù lao hoạt động đại lý 2025;
--   Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
--   Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với Hanwha Life Việt Nam tại thời điểm trao
-    thưởng và không vi phạm các quy định về Tuân Thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận
-    thưởng;
--   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
-
-Chúc Anh/Chị thật nhiều sức khỏe và gặt hái thành công cùng Hanwha Life Việt Nam!
-
-Trân trọng,
-
-
-
-
-Trần Văn Vàng
-Phó Tổng Giám Đốc Kinh Doanh
-Thông Báo Nội Bộ
-Số:            101/DP/2025
-Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Trần Văn Vàng
-Ngày gửi:      01/06/2025                                                                    Số trang: 02
-
-
-
-
-Các Anh/Chị thân mến,
-Chúng ta đang bước vào tháng 6, chặng cuối cùng để chinh phục mục tiêu kinh doanh Quý 2/2025. Nhằm
-tiếp thêm động lực giúp các Anh/Chị hoạt động mạnh mẽ, tăng cường phát triển tuyển dụng và xây dựng hệ
-thống chất lượng trong tháng 6, Công ty trân trọng gửi đến Anh/Chị chương trình thi đua “KHÁT VỌNG TINH
-HOA” trong tháng 6/2025 dành cho Trưởng Ban Kinh Doanh với khoản hỗ trợ hấp dẫn như sau:
-
-
-                Tháng 6/2025                                     UM/DM xét theo Ban trực tiếp
-
-
-
-
-Ví dụ 1:
-Ban Kinh doanh của UM A có 2 Đại Lý mới gia nhập lần lượt trong tháng 4 và tháng 6/2025. Đồng thời, cả 2 Đại
-Lý đều có hoạt động với tổng IP là 15 triệu/Đại Lý trong tháng 6. Theo đó, UM A có 4 lượt Đại lý có hoạt động.
-UM A nhận hỗ trợ: 4 triệu đồng.
-Ví dụ 2:
-Trong tháng 6, Ban Kinh doanh của UM B có tổng IP là 60 triệu và không có TVTC mới gia nhập tháng 6.
-UM B nhận hỗ trợ: 2 triệu đồng.
-Lưu ý quan trọng:
--   (*) Đại Lý có hoạt động chỉ xét trên các Đại Lý (bao gồm bản thân UM/DM) đạt tổng IP từ 15 triệu trong
-    tháng 6/2025 và X2 không áp dụng đối với lượt hoạt động cá nhân UM/DM;
--   Các Hợp Đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025 đồng thời được khách
-    hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi Welcome Call thành công trong thời gian
-    cân nhắc và không hủy trong thời gian cân nhắc mới được tính cho chương trình này;
--   Đại Lý mới gia nhập trong tháng 6/2025 là các trường hợp được tuyển dụng thành công bao gồm các
-    Đại lý mới được cấp mã số, ký Hợp Đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6 và trường hợp đã
-    chấm dứt HĐĐL với Hanwha Life Việt Nam trước ngày 01/12/2024, quay trở lại hoạt động vào tháng
-    6/2025. Chương trình này tính bao gồm bản thân UM/DM gia nhập tháng 6;
--   Trong trường hợp Anh/Chị đạt đồng thời cả hai điều kiện thi đua, Anh/Chị sẽ nhận khoản hỗ trợ ở mức
-    cao hơn;
--   Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
--   Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với Hanwha Life Việt Nam tại thời điểm trao thưởng
-    và không vi phạm các quy định về Tuân Thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận thưởng;
--   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
-
-Chúc Anh/Chị thật nhiều sức khỏe và gặt hái thành công cùng Hanwha Life Việt Nam!
-
-Trân trọng,
-
-
-
-
-Trần Văn Vàng
-Phó Tổng Giám Đốc Kinh Doanh
-Thông Báo Nội Bộ
-Số:            104/DP/2025
-Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh
-               Tư Vấn Tài Chính, Tư Vấn Tài Chính Phục Vụ
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Trần Văn Vàng
-Ngày gửi:      01/06/2025                                                                  Số trang: 02
-
-
-
-
-Các Anh/Chị thân mến,
-Hân hoan chào đón tháng 6 – tháng đánh dấu cột mốc 17 năm thành lập và phát triển của Hanwha Life
-Việt Nam. Tự hào là người bạn đồng hành của hàng triệu gia đình Việt, Công ty sẽ tiếp tục mang đến những
-giải pháp tài chính tối ưu đến thật nhiều khách hàng. Hòa chung không khí hứng khởi và cùng tiếp thêm năng
-lượng giúp Anh/Chị hoạt động sớm ngay từ đầu tháng, Công ty trân trọng thông báo chương trình thi đua
-“HOT SALES – KHỞI ĐỘNG THÁNG 6” với khoản hỗ trợ hấp dẫn như sau:
-
-                            01/06 – 09/06/2025                    DM/UM/FC/SA
-
-
-
-
-   Đặc biệt, các TVTC hoạt động sớm từ đầu tháng sẽ có cơ hội nhận thêm
-                   quyền lợi hấp dẫn vào tuần cuối tháng 6 này
-Ví dụ: Ngày 03/06, TVTC A nộp 2 Hợp đồng đạt tổng IP là 50 triệu và cả hai Hợp đồng đều được phát hành
-trong tháng 6/2025.
-TVTC A nhận khoản hỗ trợ: 50 x 6% = 3 triệu.
-
-      Để tham gia chương trình thi đua, Anh/Chị vui lòng đăng ký tham gia trong thời gian thi đua
-                            (01/06 – 09/06/2025) theo hướng dẫn như sau
-
-
-
-
-Lưu ý quan trọng:
-
--    Các Hợp đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025 đồng thời được khách
-     hàng xác nhận bàn giao Hợp đồng, được thực hiện cuộc gọi Welcome Call thành công trong thời gian
-     cân nhắc và không hủy trong thời gian cân nhắc mới được tính cho chương trình này;
--    Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
--    Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với Hanwha Life Việt Nam tại thời điểm trao thưởng
-     và không vi phạm các quy định về Tuân Thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận thưởng;
--    Để nhận được khoản hỗ trợ từ chương trình này, Anh/Chị cần thực hiện đăng ký thi đua thành công trên
-     ứng dụng LIME Pro. Trường hợp cần hỗ trợ, vui lòng liên hệ Ms. Hằng (DS) - Ext: 1763 hoặc email:
-     limepro@hanwhalife.com.vn để được hỗ trợ kịp thời;
--    Trong mọi trường hợp, quyết định của Công ty sẽ là quyết định cuối cùng.
-
-Xin chúc Anh/Chị tận dụng chương trình này để khởi động thành công tháng 6!
-Trân trọng,
-
-
-
-    Trần Văn Vàng
-    Phó Tổng Giám Đốc Kinh Doanh
-Thông Báo Nội Bộ
-Số:            100/DP/2025
-Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh,
-               Tư Vấn Tài Chính, Tư Vấn Tài Chính Phục Vụ
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Trần Văn Vàng
-Ngày gửi:      01/06/2025                                                            Số trang: 03
-
-
-
-
-Các Anh/Chị thân mến,
-Nhằm tiếp thêm năng lượng hân hoan, đồng hành cùng các Nhà tuyển dụng thu hút nhiều nhân tài và tạo
-động lực để đội ngũ kinh doanh chinh phục mục tiêu Quý 2/2025, Công ty trân trọng gửi đến Anh/Chị
-chương trình thi đua “TUYỂN DỤNG NGÔI SAO, VƯƠN TỚI TẦM CAO” trong tháng 6/2025 với cơ hội
-nhận khoản hỗ trợ hấp dẫn cùng vé khám phá Malaysia như sau:
-
-
-            Tháng 6/2025                      Nhà tuyển dụng thỏa điều kiện chương trình
-                                              trong thời gian thi đua
-Ví dụ 1:
-
-Trong tháng 6/2025, Nhà tuyển dụng A tuyển dụng được 4 Đại Lý mới, trong đó có 2 Đại Lý thuộc nhóm
-tuổi Thế Hệ Vàng và cả 4 Đại Lý đều có hoạt động ngay trong 48H đầu tiên. Đồng thời, có 2 Đại Lý đạt
-vé tham dự Hành Trình Khởi Nghiệp Ngôi Sao, Vươn Tới Tầm Cao - Malaysia. Hỗ trợ Nhà tuyển dụng
-A sẽ nhận được:
--    Theo khoản Hỗ Trợ Tuyển Dụng: 1.000.000 x 2 + 500.000 x 2 = 3.000.000 VNĐ/4 Đại Lý mới gia nhập;
--    Theo khoản Hỗ Trợ Hoạt Động: 4.000.000 x 2 + 3.000.000 x 2 = 14.000.000 VNĐ;
--    Theo khoản Hỗ Trợ Du Lịch: 1 vé tham dự
-
-Tổng Nhà tuyển dụng A nhận được: 17.000.000 VNĐ và 1 vé tham dự Hành Trình Khởi Nghiệp Ngôi
-Sao, Vươn Tới Tầm Cao - Malaysia.
-
-Ví dụ 2:
-
-Trong tháng 6/2025, Nhà tuyển dụng B tuyển dụng được 3 Đại Lý mới, không thuộc nhóm tuổi Thế Hệ
-Vàng. Trong đó, có 1 Đại Lý vừa có hoạt động trong 48H vừa trong tháng làm việc đầu tiên sau 48H và
-có 2 Đại Lý có hoạt động trong tháng làm việc đầu tiên sau 48H. Đồng thời, có 2 Đại Lý đạt vé tham dự
-Hành Trình Khởi Nghiệp Ngôi Sao, Vươn Tới Tầm Cao - Malaysia.
-
-Hỗ trợ Nhà tuyển dụng B sẽ nhận được:
--    Theo khoản Hỗ Trợ Tuyển Dụng: 500.000 x 3 = 1.500.000 VNĐ/3 Đại Lý mới gia nhập;
--    Theo khoản Hỗ Trợ Hoạt Động:
-   • Hỗ trợ 48H: 3.000.000 x 1 = 3.000.000 VNĐ
-   • Hỗ trợ sau 48H: 2.500.000 x 3 = 7.500.000 VNĐ
--    Theo khoản Hỗ Trợ Du Lịch: 1 vé tham dự
-
-Tổng Nhà tuyển dụng B nhận được: 12.000.000 VNĐ và 1 vé tham dự Hành Trình Khởi Nghiệp Ngôi
-Sao, Vươn Tới Tầm Cao - Malaysia.
-
-Lưu ý quan trọng:
-
--   Nhà tuyển dụng bao gồm: Tư Vấn Tài Chính và Quản Lý Đại Lý. Đối với nhà tuyển dụng mới gia
-    nhập trong tháng 6/2025, nhà tuyển dụng phải được cấp mã số và ký Hợp đồng Đại Lý Bảo Hiểm
-    trong tháng 6/2025;
--   Tuyển dụng thành công tháng 6/2025: là trường hợp tuyển dụng Đại Lý mới được cấp mã số và
-    ký Hợp đồng Đại Lý Bảo Hiểm (HĐĐL) trong tháng 6/2025, không bao gồm các trường hợp khôi
-    phục HĐĐL;
--   Tổng mức hỗ trợ tối đa cho mỗi nhà tuyển dụng cho tất cả chương trình này là 30 triệu đồng (không
-    bao gồm vé du lịch);
--   (*) Theo chương trình này, Đại Lý mới gồm trường hợp Đại Lý quay trở lại hoạt động và Đại Lý mới
-    gia nhập trong tháng 6 nộp các Hợp Đồng trong 48H và/hoặc sau 48H thỏa điều kiện thi đua tại
-    Memo 99/DP/2025;
--   Hỗ Trợ Du Lịch: kết quả của nhà tuyển dụng được xét bao gồm trường hợp hỗ trợ thành công Đại
-    Lý quay trở lại hoạt động và nhận được hỗ trợ theo Memo 69/DP/2025, 82/DP/2025 và 99/DP/2025;
--   Trong tất cả mọi trường hợp, mỗi Đại Lý chỉ nhận tối đa 1 vé tham dự. Vé không có giá trị quy đổi
-    thành tiền mặt hoặc chuyển đổi cho người khác;
--   Công ty sẽ thanh toán các khoản chi phí tham dự chuyến đi Malaysia kể từ hai điểm khởi hành là
-    sân bay Nội Bài – Hà Nội và sân bay Tân Sơn Nhất – TP.HCM. Công ty sẽ thông báo lịch trình chi
-    tiết đến Anh/Chị trước thời điểm tổ chức Hành trình;
--   Để tham dự hành trình và nhận hỗ trợ, Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với
-    Hanwha Life Việt Nam tại thời điểm trao thưởng và tổ chức chương trình, không vi phạm các quy
-    định về Tuân thủ Đại Lý trong thời gian thi đua và tại thời điểm nhận giải;
--   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
-
-Công ty mong rằng Anh/Chị sẽ tận dụng tốt cơ hội từ chương trình đặc biệt này đẩy nhanh tuyển dụng
-tháng 6/2025 và xây dựng lực lượng kinh doanh hùng mạnh!
-Trân trọng,
-
-
-Trần Văn Vàng
-Phó Tổng Giám Đốc kinh Doanh
-Thông Báo Nội Bộ
-Số:            99/DP/2025
-Kính gửi:      Trưởng Khu Vực Kinh Doanh, Trưởng Ban Kinh Doanh,
-               Tư Vấn Tài Chính, Tư Vấn Tài Chính Phục Vụ
-Đồng kính gửi: Ban Giám Đốc và các phòng ban liên quan
-Người gửi:     Trần Văn Vàng
-Ngày gửi:      01/06/2025                                                                 Số trang: 03
-
-
-
-
-Các Anh/Chị thân mến,
-Tháng 6 này, hãy cùng chào mừng các chiến binh mới gia nhập Hanwha Life Việt Nam. Nhằm giúp Anh/Chị
-Ngôi sao mới có khởi đầu tỏa sáng, tiếp bước cho hành trình phát triển sự nghiệp đỉnh cao tại Hanwha Life
-Việt Nam, Công ty hân hoan gửi đến chương trình thi đua “KHỞI NGHIỆP NGÔI SAO, VƯƠN TỚI TẦM
-CAO” trong tháng 6/2025 với khoản hỗ trợ hấp dẫn cùng cơ hội giành tấm vé đến Malaysia như sau:
-
-                                               TVTC mới gia nhập trong tháng 6/2025
-                Tháng 6/2025                   thỏa điều kiện chương trình trong thời gian thi đua
-Ví dụ:
-
-TVTC A gia nhập Hanwha Life vào tháng 6/2025. Trong 3 tháng làm việc đầu tiên, TVTC A nộp 6 Hợp Đồng
-và các Hợp Đồng này đều được phát hành theo từng tháng tương ứng. Cụ thể như sau:
-• Trong tháng 6, TVTC A nộp 1 Hợp Đồng với IP là 15 triệu trong 48h đầu tiên và 2 Hợp Đồng với tổng
-    IP là 30 triệu sau 48h.
- Quyền lợi 48h đầu tiên và sau 48h: 2 + 2 = 4 triệu VNĐ.
-• Trong tháng 7, TVTC A tiếp tục nộp 1 Hợp Đồng với IP là 15 triệu.
- Quyền lợi tháng làm việc thứ hai: 1 triệu VNĐ.
-• Trong tháng 8, TVTC A tiếp tục nộp 2 Hợp Đồng với tổng IP là 30 triệu.
- Quyền lợi tháng làm việc thứ ba: 2 triệu VNĐ.
-• Trong 3 tháng làm việc đầu tiên, TVTC A đạt tổng 6 HĐ với 90 triệu FYP, TVTC A nhận được 1 vé tham
-    dự Hành Trình Khởi Nghiệp Ngôi Sao, Vươn Tới Tầm Cao - Malaysia.
-Tổng hỗ trợ mà TVTC A nhận được là: 7 triệu VND và 1 vé tham dự Hành Trình Khởi Nghiệp Ngôi Sao,
-Vươn Tới Tầm Cao – Malaysia.
-Lưu ý quan trọng:
-
--   TVTC mới gia nhập trong tháng 6/2025: là trường hợp TVTC được cấp mã số, ký Hợp Đồng Đại Lý
-    Bảo Hiểm (HĐĐL) trong tháng 6/2025;
--   Các trường hợp đã chấm dứt HĐĐL với Hanwha Life Việt Nam trước ngày 01/12/2024 và quay trở lại
-    hoạt động vào tháng 6/2025 được tham gia chương trình này;
--   Các Hợp đồng nộp trong thời gian thi đua, phát hành đến hết ngày 30/06/2025, đồng thời được khách
-    hàng xác nhận bàn giao Hợp Đồng thành công, được thực hiện cuộc gọi Welcome Call thành công và
-    không hủy trong thời gian cân nhắc sẽ được tính cho chương trình này. Mỗi Hợp Đồng chỉ được tính
-    tương ứng với một khoản hỗ trợ duy nhất;
--   TVTC có Hợp Đồng trong 48h: là TVTC có Hợp Đồng nộp trong vòng 48h và phát hành trong vòng 15
-    ngày kể từ ngày nộp Hợp Đồng và không hủy trong thời gian cân nhắc;
--   TVTC có Hợp Đồng trong tháng làm việc đầu tiên và sau 48h: là TVTC có Hợp Đồng không thuộc
-    48h được nộp và phát hành chậm nhất ngày 30/06/2025 và không hủy trong thời gian cân nhắc;
--   Thời gian 48 giờ được tính tương ứng với 2 ngày làm việc (Ngày làm việc: từ Thứ Hai đến Thứ Sáu
-    không bao gồm Thứ Bảy và Chủ Nhật và các Ngày nghỉ lễ chính thức do Công ty thông báo). Vui lòng
-    xem chi tiết quy định tính 48 giờ đầu tiên tại Memo 113/DP/2024.
-    •   Đối với sản phẩm An Khang Tài Lộc, Tôi chọn An Yên và các sản phẩm Bảo hiểm liên kết
-        chung mới: Kể từ ngày cấp quyền khai thác sản phẩm và không quá 30 ngày kể từ ngày cấp mã
-        số và ký Hợp Đồng Đại Lý Bảo Hiểm;
-    • Đối với sản phẩm LIFE FUN:D – Sống Thỏa Chất: Kể từ ngày cấp quyền khai thác sản phẩm và
-        không quá 45 ngày kể từ ngày cấp mã số và ký Hợp Đồng Đại Lý Bảo Hiểm;
--   Tháng làm việc đầu tiên được tính từ ngày TVTC được cấp mã số và ký HĐĐL cho đến ngày khóa sổ
-    của tháng đó. Ví dụ: TVTC A được cấp mã số vào ngày 06/06/2025 sẽ có tháng làm việc đầu tiên kết
-    thúc vào ngày 30/06/2025;
--   Khoản hỗ trợ của chương trình này sẽ được chuyển vào thu nhập của Anh/Chị sau khi có kết quả cuối cùng;
--   Đối với Hành Trình Du lịch: chỉ áp dụng cho các Hợp Đồng khai thác các sản phẩm: An Khang Tài Lộc,
-    Tôi chọn An Yên, LIFE FUN:D – Sống Thỏa Chất và các sản phẩm liên kết chung/liên kết đơn vị được
-    triển khai trong thời gian tới;
--   Công ty sẽ thanh toán các khoản chi phí tham dự chuyến đi Malaysia kể từ hai điểm khởi hành là sân
-    bay Nội Bài – Hà Nội và sân bay Tân Sơn Nhất – TP.HCM. Công ty sẽ thông báo lịch trình chi tiết đến
-    Anh/Chị trước thời điểm tổ chức Hành trình;
--   Trong tất cả mọi trường hợp, mỗi TVTC chỉ nhận tối đa 1 vé tham dự. Vé sẽ không có giá trị quy đổi
-    thành tiền mặt hoặc chuyển nhượng cho người khác;
--   Để tham dự hành trình và nhận hỗ trợ, Anh/Chị phải đang duy trì Hợp Đồng Đại Lý Bảo Hiểm với
-    Hanwha Life Việt Nam tại thời điểm trao thưởng và tổ chức chương trình, không vi phạm các quy định
-    về Tuân thủ đại lý trong thời gian thi đua và tại thời điểm nhận giải;
--   Trong mọi trường hợp, quyết định của Công ty là quyết định cuối cùng.
-
-Công ty mong rằng Anh/Chị sẽ tận dụng tốt cơ hội này để khởi động thành công tháng 6/2025!
-
-Trân trọng,
-
-
-
-
-Trần Văn Vàng
-Phó Tổng Giám Đốc Kinh Doanh
-
-Đầu mối liên hệ Team CS_ IT _NBU_Claim_Compliance
- 
-Thông tin giới thiệu về FWD Việt Nam:
-Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam được thành lập theo Giấy phép Thành lập và Hoạt động số 47GP/KDBH do Bộ Tài chính cấp vào ngày 23 tháng 11 năm 2007 và Giấy phép điều chỉnh mới nhất số 47/GPĐC22/KDBH được Bộ Tài chính cấp ngày 24 tháng 07 năm 2023.
-Với tầm nhìn thay đổi cảm nhận của mọi người về bảo hiểm, FWD là công ty bảo hiểm khác biệt, mang đến khách hàng những trải nghiệm mới mẻ, giúp quá trình tham gia bảo hiểm đơn giản, nhanh chóng và dễ dàng hơn với các giải pháp sáng tạo, sản phẩm dễ hiểu được hỗ trợ bởi công nghệ số thông minh.
-Câu chuyện thương hiệu FWD
-Sống đầy từ hôm nay
-Với triết lý cho rằng ngành bảo hiểm là nơi khởi nguồn và hỗ trợ chúng ta hiện thực hóa các mong muốn trong cuộc sống. Vì vậy, xuất phát điểm của chúng tôi là: hãy hân hoan và tận hưởng cuộc sống – và nếu có việc gì xảy ra, hãy luôn tự tin vì các bạn luôn có chúng tôi đồng hành.
-FWD – Thương hiệu bảo hiểm khác biệt
-Bảo hiểm dễ hiểu
-Tự hào tiên phong giảm thiểu điều khoản loại trừ trong tất cả các sản phẩm bảo hiểm, làm mới hợp đồng bảo hiểm theo hướng đơn giản, dễ hiểu để khách hàng dễ dàng biết rõ quyền lợi của mình.
- 
-Trải nghiệm trực tuyến
-Chúng tôi mang đến khách hàng trải nghiệm bảo hiểm hoàn toàn trực tuyến, nhanh chóng, tiện lợi, không sử dụng giấy tờ và tiền mặt.
- 
-Bồi thường bảo hiểm nhanh chóng
-Chúng tôi không ngừng nỗ lực để cải thiện quy trình bồi thường bảo hiểm trở nên đơn giản, dễ dàng, nhanh chóng và thuận tiện hơn cho Khách hàng.
-Bảo hiểm dễ hiểu và khác biệt
-Với triết lý khách hàng là trung tâm của mọi hoạt động, FWD có cách tiếp cận luôn hướng đến tương lai. Chúng tôi mang đến những trải nghiệm được hỗ trợ bởi công nghệ số hàng đầu, giúp quá trình tham gia bảo hiểm dễ dàng và nhanh chóng hơn: chỉ mất vài giây để mua một hợp đồng bảo hiểm hay thực hiện vài thao tác "chạm" để yêu cầu bồi thường bảo hiểm. Hãy cùng chúng tôi đến với ba trong số các dự án đột phá của FWD..
-Giảm thiểu điều khoản loại trừ bảo hiểm trong tất cả các sản phẩm
-An tâm trải nghiệm cuộc sống vì FWD đã giảm thiểu loại trừ bảo hiểm cho tất cả các sản phẩm. Quý khách được bảo vệ tối đa, với mức phí bảo hiểm không đổi.
-Hợp đồng bảo hiểm, đọc phải hiểu ngay
-Dành những phút giây quý báu để trải nghiệm cuộc sống, thay vì "giải mã" thuật ngữ bảo hiểm. FWD đã đơn giản hóa bộ Hợp đồng bảo hiểm, giúp bạn dễ dàng đọc và hiểu Hợp đồng của mình, và vẫn đảm bảo tính pháp lý cần thiết theo pháp luật Việt Nam.
-Cải tiến quy trình giải quyết bồi thường
-Chúng tôi hiểu được rằng khi yêu cầu giải quyết quyền lợi bảo hiểm là lúc khách hàng cần đến sự hỗ trợ của chúng tôi hơn bao giờ hết. Vì vậy, chúng tôi mang đến dịch vụ chi trả quyền lợi bảo hiểm hoàn toàn trực tuyến, dễ dàng và thuận tiện hơn. Đặc biệt, một số quyền lợi bảo hiểm được chi trả chỉ trong vòng 24 giờ.
-
-Văn hóa dựa trên hệ giá trị cốt lõi
-Với tầm nhìn mạnh mẽ "thay đối cảm nhận của mọi người về bảo hiểm" cùng sự tăng trưởng kinh doanh vượt trội, chúng tôi chọn ‘5C’ là kim chỉ nam cho phương cách vận hành và tương tác tại FWD. ‘5C’ bao gồm năm giá trị cốt lõi: Cam kết, Cải tiến, Chủ động, Cởi mở và Chăm sóc.
-
-Cam kết
-Chúng tôi thực thi lời hứa của mình.
-Chúng tôi đáng tin cậy và trung thành.
-Chúng tôi cam kết trở nên tốt nhất có thể.
-
-Cải tiến
-Chúng tôi tham vọng và có khả năng thích nghi.
-Chúng tôi đón đầu các cơ hội và thử thách phía trước với khát vọng luôn luôn cải tiến để trở nên tốt hơn.
-
-Chủ động
-Chúng tôi được trao quyền để hành động và giải quyết vấn đề nhanh chóng.
-Chúng tôi quyết đoán.
-Chúng tôi luôn hướng về phía trước.
-
-Cởi mở
-Chúng tôi chia sẻ kiến thức và cởi mở với tư duy làm việc mới.
-Chúng tôi đưa ra quyết định đúng đắn với sự cân nhắc hợp lý.
-
-Chăm sóc
-Chúng tôi luôn luôn đặt nhu cầu khách hàng lên hàng đầu thông qua việc quan tâm đến cuộc sống của khách hàng và hỗ trợ họ tìm được sản phẩm và dịch vụ phù hợp nhất với nhu cầu của mình.
-Chăm sóc đến từ khả năng nhìn mọi việc theo lăng kính của người khác.
-Thông tin chi tiết anh chị vui long tham khảo tại đây https://www.fwd.com.vn/vi/about-us/
-
-Thông tin đóng phí bảo hiểm như sau:
-Chuyển khoản nhanh thông thường vào tài khoản FWD tại ngân hàng Vietcombank & Agribank
-Sử dụng ngân hàng của Quý khách để chuyển khoản đóng phí. Quý khách vui lòng điền đầy đủ các thông tin sau:
-Chủ tài khoản: Công ty TNHH Bảo hiểm Nhân thọ FWD Việt Nam
-Nội dung thanh toán: [Số Hợp đồng/số Hồ sơ yêu cầu bảo hiểm] + [Họ và tên Bên mua bảo hiểm]
-Số tài khoản FWD và tên chi nhánh ngân hàng:
-Quý khách vui lòng chọn một trong các tài khoản bên dưới
-+ Số tài khoản: 1212393939 tại VCB – Chi nhánh Tân Định Tp. HCM
-+ Số tài khoản: 1900201453488 tại Agribank – Chi nhánh Trung tâm Sài Gòn
-
-Đóng phí trực tuyến
-Giải pháp đóng phí trực tuyến an toàn, tiện lợi và đơn giản.
-Quý khách có thể thanh toán phí bất kỳ lúc nào với 4 lựa chọn sau:
-Thẻ ATM nội địa
-Thẻ thanh toán quốc tế (Visa/MasterCard/JCB)
-Ví điện tử MoMo
-Cổng thanh toán VNPAY-QR (hình thức thanh toán kết nối tài khoản ngân hàng hoặc ví điện tử) link bên dưới: 
-https://portal.fwd.com.vn/eServices/payment/payment
-
-Nếu cần thêm thông tin hoặc được hỗ trợ kịp thời/nhanh chóng anh chị vui long liên hệ AD/ZD nhé ! 
-hoặc Hotline của FWD 1800969690
-
-
-Liên hệ Ngọc
-Thanks & Best Regards,
-Lê Viết Ngọc
-Territory Director
-FWD Vietnam Life Insurance Company Limited 
-Mobile phone: 0933.786.231
-Sale Office: 5th Floor, Cienco 4 Plaza Building
-180 Nguyen Thi Minh Khai St., Dist. 3, HCMC, Vietnam
-#test
