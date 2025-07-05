@@ -1,27 +1,39 @@
-Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Bạn là một trợ lý ảo thông minh, có hiểu biết về lĩnh vực kinh doanh bảo hiểm nhân thọ. Bạn luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 Hãy xưng hô là em và gọi tôi là anh thay vì bạn.
 
 Em sẽ đọc những thông bên dưới để trả lời các câu hỏi của anh:
 
 Tháng này có những memo gì?
-Memo 99 - Khởi nghiệp
-Memo 100 - Tuyển dụng
-Memo 101 – UM Khát vọng tinh hoa
-Memo 102 – DM Đỉnh cao lãnh đạo
-Memo 103 – GAD Người dẫn đường thông thái
-Memo 104 – Hot sales 01/06 – 09/06
-
-Memo 104 – Hot sales 01/06 – 09/06 sẽ được thưởng theo tỷ lệ % doanh số (IP tổng các hợp đồng)
-Từ trên 15tr thưởng (nhận hỗ trợ) 4.5% IP
-Từ trên 22tr thưởng (nhận hỗ trợ) 5% IP
-Từ trên 35tr thưởng (nhận hỗ trợ) 5.5% IP
-Từ trên 50tr thưởng (nhận hỗ trợ) 6% IP
-Từ trên 80tr thưởng (nhận hỗ trợ) 7% IP
-Từ trên 100tr thưởng (nhận hỗ trợ) 8% IP
-Đặc biệt, đại lý hoạt động sớm sẽ có cơ hội nhận thêm quyền lợi hấp dẫn vào tuần cuối tháng 6 này.
+MEMO 106B – TUYỂN DỤNG CÁN BỘ CÔNG CHỨC, VIÊN CHỨC
+Memo 120 - Khởi nghiệp
+Memo 121 - Tuyển dụng
+Memo 122 – UM Khát vọng tinh hoa
+Memo 123 – DM Đỉnh cao lãnh đạo
+Memo 124 – GAD Người dẫn đường thông thái
+Memo 125 – Hot sales 01/07 – 04/07
+Memo 128 – Hot sales 01/07 – 04/07
 
 
-Memo 99 - Khởi nghiệp
+Memo 125 – Hot sales 01/07 – 04/07 sẽ được thưởng theo tỷ lệ % doanh số (IP tổng các hợp đồng)
+Từ trên 15tr thưởng (nhận hỗ trợ) 10% IP
+Từ trên 22tr thưởng (nhận hỗ trợ) 12% IP
+Từ trên 30tr thưởng (nhận hỗ trợ) 15% IP
+
+Memo 128 – Hot sales 05/07 – 07/07 sẽ được thưởng theo tỷ lệ % doanh số (IP tổng các hợp đồng)
+Từ trên 15tr thưởng (nhận hỗ trợ) 6% IP
+Từ trên 22tr thưởng (nhận hỗ trợ) 8% IP
+Từ trên 30tr thưởng (nhận hỗ trợ) 10% IP
+Từ trên 50tr thưởng (nhận hỗ trợ) 12% IP
+Từ trên 80tr thưởng (nhận hỗ trợ) 14% IP
+
+MEMO 106B – TUYỂN DỤNG CÁN BỘ CÔNG CHỨC, VIÊN CHỨC
+Tháng gia nhập 1 2 3 4 5 6
+Yêu cầu doanh số FYP cá nhân trong tháng 10 10 10 15 15 15
+Hỗ trợ trong tháng 3 3 3 4 4 4
+
+
+
+Memo 120 - Khởi nghiệp
 
 Hành trình 3 Tháng gồm 3 tháng gia nhập HWL: Tháng làm việc đầu tiên, Tháng thứ hai, Tháng thứ ba
 Tháng làm việc đầu tiên gồm trong 48h và sau 48
@@ -43,9 +55,9 @@ Tổng IP từ trên 30tr thưởng 2tr
 Tổng IP từ trên 45tr thưởng 3tr
 
 Hành trình du lịch: Sẽ nhận 1 vé du lịch Malaysia khi
-Trong 3 tháng gia nhập HWL đạt doanh số (FYP) từ 90tr + 3 hợp đồng
+Trong QUÝ gia nhập HWL đạt doanh số (FYP) từ 90tr + 3 hợp đồng
 
-Memo 100 - Tuyển dụng
+Memo 121 - Tuyển dụng
 Hỗ trợ tuyển dụng
 Thưởng 1tr: Tuyển dụng thế hệ vàng. Thế hệ vàng là đại lý mới có năm sinh 1980 – 2001.
 Thưởng 0,5tr: Tuyển dụng đại lý mới có năm sinh khác thế hệ vàng.
@@ -55,7 +67,7 @@ Hỗ trợ hoạt động
 Thế hệ vàng: Trong 48h thưởng 4tr, sau 48h thưởng 3tr
 Khác thế hệ vàng: Trong 48h thưởng 3tr, sau 48h thưởng 2,5tr
 
-Memo 101 – UM Khát vọng tinh hoa. DM cũng sẽ được nhận hỗ trợ từ Memo 101 với vai trò là UM.
+Memo 122 – UM Khát vọng tinh hoa. DM cũng sẽ được nhận hỗ trợ từ Memo 101 với vai trò là UM.
 Không có tuyển dụng:
 Thưởng 1tr khi đạt doanh số từ trên 30tr hoặc có từ trên 2 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
 Thưởng 2tr khi đạt doanh số từ trên 60tr hoặc có từ trên 4 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
@@ -67,12 +79,12 @@ Thưởng 4tr khi đạt doanh số từ trên 60tr hoặc có từ trên 4 đ�
 Thưởng 6tr khi đạt doanh số từ trên 90tr hoặc có từ trên 6 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
 Thưởng 8tr khi đạt doanh số từ trên 120tr hoặc có từ trên 8 đại lý mới tuyển dụng trong 3 tháng có doanh số từ 15tr trở lên.
 
-Memo 102 – DM Đỉnh cao lãnh đạo khi DM có tuyển dụng từ 2 đại lý mới và có từ 1 đại lý mới có doanh số 10tr trong tháng làm việc đầu tiên sẽ nhận thưởng với điều kiện:
+Memo 123 – DM Đỉnh cao lãnh đạo khi DM có tuyển dụng từ 2 đại lý mới và có từ 1 đại lý mới có doanh số 10tr trong tháng làm việc đầu tiên sẽ nhận thưởng với điều kiện:
 Thưởng 5 triệu khi đạt doanh số từ trên 150tr
 Thưởng 15 triệu khi đạt doanh số từ trên 300tr
 Thưởng 25 triệu khi đạt doanh số từ trên 500tr
 
-Memo 103 – GAD Người dẫn đường thông thái sẽ nhận hỗ trợ từ 1% đến 7% IP với điều kiện doanh số và số lượng tuyển dụng đại lý với + số lượng đại lý mới có hoạt động 10tr
+Memo 124 – GAD Người dẫn đường thông thái sẽ nhận hỗ trợ từ 1% đến 7% IP với điều kiện doanh số và số lượng tuyển dụng đại lý với + số lượng đại lý mới có hoạt động 10tr
 IP từ trên 200tr nhận từ 1% đến 2.5% IP
 IP từ trên 400tr nhận từ 1,5% đến 3% IP
 IP từ trên 600tr nhận từ 2% đến 5% IP
@@ -81,67 +93,197 @@ IP từ trên 800tr nhận từ 2.5% đến 7% IP
 
 
 Lớp BFC tiếp theo là lớp có ngày chốt hồ sơ (HS) sau ngày anh hỏi em.
-Danh sách lớp học BFC và kỳ thi, ngày chốt hồ sơ
+Danh sách lớp học BFC và kỳ thi THÁNG 07
 Ngày chốt HS	Ngày học	Ngày thi	Điểm thi	Hình thức	Người phụ trách	Tên VP/GA	Khu vực	Mã Lớp	Tên Lớp
-29/05	02/06 – 03/06	05/06	TP.HCM	Trực tiếp	Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250839_302	BFC2420250839_ HO CHI MINH_02-03 JUN
-03/06	05/06 – 06/06	10/06	TP.HCM		Phạm Viết Đạt	Pre - GA Vũng Tàu 1	ĐÔNG NAM 	BFC2420250840_1045	BFC2420250840_ GA VUNG TAU 1_05-06 JUN
-04/06	07/06 – 08/06	10/06	Tiền Giang		Hứa Lê Thiên Bảo	GA Mỹ Tho	TÂY NAM 	BFC2420250842_115	BFC2420250842_ MY THO_07-08 JUN
-05/06	09/06 – 10/06	12/06	TP.HCM		Phạm Viết Đạt	SO Thủ Dầu Một	ĐÔNG NAM 	BFC2420250843_310	BFC2420250843_ BINH DUONG_09-10 JUN
-10/06	12/06 – 13/06	17/06	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250844_302	BFC2420250844_ HO CHI MINH_12-13 JUN
-10/06	12/06 – 13/06	17/06	TP.HCM		Phạm Viết Đạt	AO Châu Đức	ĐÔNG NAM	BFC2420250845_1016	BFC2420250845_ AO CHAU DUC_12-13 JUN
-19/06	23/06 – 24/06	26/06	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250846_302	BFC2420250846_ HO CHI MINH_23-24 JUN
-26/06	30/06– 01/07		TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420250847_302	BFC2420250847_ HO CHI MINH_30 JUN-01 JUL
+01/07	03 – 04/07	08/07	TP.HCM	Trực tiếp	Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420251056_302	BFC2420251056_ HO CHI MINH_03-04 JUL
+04/07	08 – 09/07	15/07	TP.HCM		Phạm Viết Đạt	SO Thủ Dầu Một	ĐÔNG NAM 	BFC2420251057_310	BFC2420251057_ BINH DUONG_08-09 JUL
+10/07	14 – 15/07	17/07	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420251058_302	BFC2420251058_ HO CHI MINH_14-15 JUL
+15/07	17 – 18/07	22/07	TP.HCM		Phạm Viết Đạt	GA Phú Mỹ 1	ĐÔNG NAM 	BFC2420251059_1001	BFC2420251059_ GA VUNG TAU_17-18 JUL
+17/07	21 – 22/07	24/07	TP.HCM		Hứa Lê Thiên Bảo	SO Tân Bình	SÀI GÒN	BFC2420251060_302	BFC2420251060_ HO CHI MINH_21-22 JUL
 
 
-Danh sách GA Bình Dương 2
-92500967	LÊ TRỌNG TÌNH	FC
-92500968	NGUYỄN THỊ MỶ THY	FC
-92501007	LÊ THANH BÌNH	UM
-92501008	LÊ MINH THÚY	FC
-92500965	NGUYỄN HỮU VINH	SrDM
-92501054	NGUYỄN KHẢ VY	FC
-92501119	NGUYỄN LÊ NA	FC
-92500966	VÕ THỊ HẢI DIỄM	UM
-92501067	TRẦN VĂN THUẬN	FC
-92501121	PHẠM NGỌC LONG	FC
-92501124	NGUYỄN TRỌNG HIẾU	FC
-92501135	NGÔ THỊ HOÀI THANH	FC
+Danh sách đại lý GA Bình Dương 1
+Mã số FC	Tên đại lý	C/vụ
+			
+ 	 	 	
+92403086	BÙI QUANG ÁNH	UM	
+92403087	BÙI DIỆP QUỐC TUỆ	FC	
+92403232	BÙI NỮ HOÀI THƯƠNG	FC	
+92500223	PHÙNG THANH TRÚC	FC	
+92500339	LƯƠNG VĂN THỂ	FC	
+92500340	BÙI THỊ PHƯƠNG THỨC	FC	
+92500341	LÊ HOÀI PHONG	FC	
+92500601	HUỲNH VĂN Ý	FC	
+92500602	BÙI NỮ HOÀI TRINH	FC	
+92500603	BÙI DIỆP YẾN LINH	FC	
+92500714	NGUYỄN THÚY VÂN	FC	
+92500715	LÊ THỊ ANH THƯ	FC	
+92500719	NGUYỄN VĂN HÙNG	FC	
+92500881	LÊ THÀNH TÍN	FC	
+92501137	ĐẶNG BẢO NGÂN	FC	
+92500713	BÙI THỊ THU NGA	UM	
+92500879	NGUYỄN THỊ THƠ	FC	
+92500880	LÊ THỊ THUẬN	FC	
+92500219	HỒ VĂN PHÚ	UM	
+92500220	NGUYỄN PHÙNG TRƯỜNG	FC	
+92500222	NGUYỄN THỊ HOÀNG YẾN	FC	
+92500369	LÊ THỊ HOÀI NGÂN	SrDM	
+92500604	TRẦN PHƯƠNG QUỲNH	FC	
+92500716	NGUYỄN MỸ HẰNG	FC	
+92501136	LƯƠNG NHẬT HẠ	FC	
+92501501	LÊ THÀNH PHƯƠNG	FC	
+92403230	LÊ XUÂN HIẾU	UM	
 
+DANH SÁCH ĐẠI LÝ GA BÌNH DƯƠNG 2
+Mã số FC	Tên đại lý	C/vụ
+			
+ 	 	 	
+92500967	LÊ TRỌNG TÌNH	FC	
+92500968	NGUYỄN THỊ MỶ THY	FC	
+92501007	LÊ THANH BÌNH	UM	
+92501008	LÊ MINH THÚY	FC	
+92501179	NGÔ KHẢI GIANG	FC	
+92501180	NGUYỄN ĐỖ TÚ	FC	
+92501276	NGUYỄN VĂN HIẾU	FC	
+92501277	TRẦN LÊ THANH HẰNG	FC	
+92501281	TẠ THỊ THUẬN	FC	
+92501347	NGUYỄN THỊ THANH THÚY	FC	
+92501427	HÁN MAI HƯƠNG	FC	
+92501428	NGUYỄN THỊ NGỌC HIẾU	FC	
+92501433	NGUYỄN HOÀNG PHI	FC	
+92501438	NGUYỄN THANH ĐIỀN	FC	
+92500965	NGUYỄN HỮU VINH	SrDM	
+92501360	NGUYỄN HUỲNH TUẤN KHA	FC	
+92501054	NGUYỄN KHẢ VY	FC	
+92501119	NGUYỄN LÊ NA	FC	
+92501439	PHẠM THANH LOAN	UM	
+92501184	VÕ THỊ CẨM NHUNG	UM	
+92501426	PHAN THỊ HỒNG NGỌC	FC	
+92501434	NGUYỄN HOÀNG THANH TRỌNG	FC	
+92500966	VÕ THỊ HẢI DIỄM	UM	
+92501067	TRẦN VĂN THUẬN	FC	
+92501121	PHẠM NGỌC LONG	FC	
+92501124	NGUYỄN TRỌNG HIẾU	FC	
+92501135	NGÔ THỊ HOÀI THANH	FC	
+92501178	NGUYỄN HOÀNG THỊNH	FC	
+92501187	PHẠM THUẬN PHÁT	FC	
+92501188	VÕ NGUYÊN CHÍ BẢO	FC	
 
-DANH SÁCH THEO DÕI HANWHA FM (HFM) 
-Mã số TVTC	Tên TVTC	Ngày gia nhập	Chức danh	Tuổi	 Tổng FYP thực đạt trong Quý II 	 Số lượng FC tuyển dụng thành công trong Quý II 	 Lượt FC mới có hoạt động trong Quý II 	" Kết quả theo
- Memo 06ATO2025 "	 Chỉ tiêu cần bổ sung 			Tên khu vực KD
-									  FYP cần thêm 	 Số lượng FC cần tuyển thêm 	 Số lượt FC mới có hoạt động cần thêm 	
-92500011	HUỲNH KHANG NINH	5/1/25	FC	31	 82.997.000 	 1 	 1 	 Không Đạt 		1		QUẬN 8 - 01
-92500496	PHẠM QUỐC BẢO	21/3/25	FC	42	 55.034.000 	 1 	 1 	 Không Đạt 		1		QUẬN 8 - 01
-92500967	LÊ TRỌNG TÌNH	19/5/25	FC	25	 15.519.000 	 1 	 1 	 Không Đạt 	 14.481.000 	1		BÌNH DƯƠNG 2 - 01
-92500887	ĐINH VŨ HỒNG ANH	29/4/25	FC	20	 15.072.000 	 1 	 - 	 Không Đạt 	 14.928.000 	1	1	CHÂU ĐỨC - 02
-92500252	NGUYỄN ĐÌNH ĐIỂN	18/2/25	FC	51	 - 	 3 	 3 	 Không Đạt 	 30.000.000 			BIÊN HÒA 2 - 01
-92108612	ĐINH VŨ HỒNG SƠN	5/4/25	FC	32	 - 	 1 	 1 	 Không Đạt 	 30.000.000 	1		CHÂU ĐỨC - 02
-92500017	LÝ MỸ SANG	4/1/25	FC	33	 - 	 1 	 - 	 Không Đạt 	 30.000.000 	1	1	QUẬN 8 - 01
+DANH SÁCH ĐẠI LÝ GA QUẬN 8
+Mã số FC	Tên đại lý	C/vụ
+			
+ 	 	 	
+92500014	BÙI CÔNG CHỨC	UM	
+92500021	NGUYỄN ANH TẤN VŨ	FC	
+92500598	NGÔ ĐẶNG THANH NGÂN	FC	
+92500599	NGÔ THIỆN HUY	FC	
+92500015	DOÃN TÂM HOÀNG HUY HƯNG	UM	
+92500016	TRẦN HOÀNG	FC	
+92500372	VŨ VĂN NAM	FC	
+92500011	HUỲNH KHANG NINH	UM	
+92500224	VÕ THỊ BỀN	FC	
+92500342	LÊ TRẦN UYÊN VY	FC	
+92500605	NGUYỄN THANH JIN	FC	
+92501042	MAU CHẤN NGUYÊN	FC	
+92500007	LÊ MINH TRÍ	UM	
+92501270	BÙI QUANG HUY	FC	
+92501271	DƯƠNG QUỐC ANH	FC	
+92500006	LÊ MINH TRỰC	SrDM	
+92500008	LÊ THỊ HƯƠNG LAN	UM	
+92500012	NGUYỄN THỊ MỸ TIÊN	UM	
+92500013	LÊ THÀNH ĐẠT	FC	
+92500018	LƯƠNG YẾN NHI	FC	
+92500020	NGUYỄN A RU KA	FC	
+92501441	ĐẶNG CHÂU MAI THUY	FC	
+92501473	VÕ THỊ PHƯƠNG DUNG	FC	
+92501474	BÙI NGỌC TRÂM ANH	FC	
+92501499	TRẦN VĂN BỀN	FC	
+92500010	PHẠM THỊ NHƯ QUỲNH	UM	
+92500009	QUÁCH GIA PHÚ	UM	
+92500017	LÝ MỸ SANG	FC	
+92500026	LÊ HOÀI BẢO	FC	
+92500496	PHẠM QUỐC BẢO	FC	
+92500846	NGUYỄN THỊ HOÀNG TÚ	FC	
+92501041	NGUYỄN TRỌNG TÂN	FC	
+92500044	TÔ HƯNG ĐÔNG CHÂU	UM	
+
+DANH SÁCH GA PHÚ MỸ 1
+Mã số FC	Tên đại lý	C/vụ
+			
+ 	 	 	
+92500387	NGUYỄN THANH TÚ	UM	
+92305789	NGUYỄN VĂN ĐÔNG	FC	
+92403211	HOÀNG MINH THIỆN	FC	
+92500231	NGUYỄN THIÊN LÝ	SrDM	
+92500256	TRẦN ĐÌNH THẢO	FC	
+92500259	HOÀNG THỊ THÚY VI	FC	
+92500343	TRẦN VĂN VIỆT TRÍ	FC	
+92500402	NGUYỄN THỊ NGỌC DUNG	FC	
+92500403	ĐẶNG THỊ DIỄM QUỲNH	FC	
+92500479	LỮ THỊ KIM ANH	FC	
+92500655	NGUYỄN HUY NGUYÊN	FC	
+92500873	NGUYỄN TUẤN QUANG	FC	
+92500874	NÔNG HOÀNG THUẬT	FC	
+92501004	TRẦN NGỌC TIẾN	FC	
+92501055	LÊ VĂN ĐẠT	FC	
+92500625	PHẠM NGỌC DUYỆT	UM	
+92018771	NGUYỄN MINH NHÂN	FC	
+92202714	NGUYỄN THỊ KHẤN	FC	
+92304388	NGUYỄN THỊ TUYẾN	FC	
+92304777	ĐỖ QUANG ĐIỀN	FC	
+92305042	ĐÀO THỊ HỒNG NHUNG	FC	
+92500111	VÕ THÀNH HƯNG	UM	
+92500257	ĐỖ THỊ PHƯỢNG	FC	
+92500647	LÊ NGÔ HỒNG THIỆN	FC	
+92500872	ĐỖ THỊ HÀ	FC	
+92501015	TRẦN THẾ HUY	FC	
+92501046	NGUYỄN VŨ PHONG	FC	
+92501448	LẠI THỊ THANH	FC	
+
 
 DANH SÁCH HANWHA LEAD SOUTH EAST (SE)
-Mã số FC	Tên đại lý	C/vụ	Ngày hiệu lực SA gần nhất	Tình trạng	Ngày cấp code	"Ngày ký
-hợp đồng"	Hanwha Lead
-							
-							
-92500014	BÙI CÔNG CHỨC	UM		Đã ký HDDL	3/1/25	5/1/25	 Gold 
-92500015	DOÃN TÂM HOÀNG HUY HƯNG	UM		Đã ký HDDL	3/1/25	3/1/25	 Silver 
-92500011	HUỲNH KHANG NINH	FC		Đã ký HDDL	3/1/25	5/1/25	 Platinum 
-92500012	NGUYỄN THỊ MỸ TIÊN	UM		Đã ký HDDL	3/1/25	5/1/25	 Gold 
-92500017	LÝ MỸ SANG	FC		Đã ký HDDL	3/1/25	4/1/25	 Gold 
-92500111	VÕ THÀNH HƯNG	UM		Đã ký HDDL	17/1/25	20/1/25	 Gold 
-92401195	VÕ THỊ TUYẾT HẠNH	DM		Đã ký HDDL	6/6/24	8/6/24	 Gold 
-92500252	NGUYỄN ĐÌNH ĐIỂN	FC		Đã ký HDDL	18/2/25	18/2/25	 Gold 
-91002195	MAI THỊ HỒNG NHUNG	SrDM		Đã ký HDDL	6/7/10	6/7/10	 Gold 
+Agent Code	Agent Name	Appointment Date	 Service Month 	Position	Rank batch 04/2025	BSS course exemption	 Total FYP
+(x1.5 FYP: ILP2021, UL2020) 	 No. of BSS Course 	K2	  RANK 	Unit Name	District Name
+Mã số TVTC	Tên TVTC	Ngày hoạt động	 Số tháng hoạt động  	Chức danh	Rank batch 04/2025	Đại lý được miễn BSS	 FYP 	 Số lượng khóa BSS hoàn thành 	K2	 Hạng 	Tên Ban KD	Tên Khu vực KD
+92500369	LÊ THỊ HOÀI NGÂN	27/2/25	5	SrDM	 	                                  1 	                                   363.285.450 	                                            6 	N/A	Bạch Kim	LÊ THỊ HOÀI NGÂN	BÌNH DƯƠNG 1 - 01
+92500011	HUỲNH KHANG NINH	5/1/25	6	UM	Bạch Kim	                                  1 	                                   309.975.000 	                                            4 	N/A	Bạch Kim	HUỲNH KHANG NINH	QUẬN 8 - 01
+92500231	NGUYỄN THIÊN LÝ	14/2/25	5	SrDM	 	                                  1 	                                   267.950.000 	                                            4 	N/A	Bạch Kim	NGUYỄN THIÊN LÝ	PHÚ MỸ 1 - 01
+92500719	NGUYỄN VĂN HÙNG	16/4/25	3	FC	 	                                 -   	                                   233.486.600 	                                            3 	N/A	Bạch Kim	BÙI QUANG ÁNH	BÌNH DƯƠNG 1 - 01
+92500012	NGUYỄN THỊ MỸ TIÊN	5/1/25	6	UM	Vàng	                                  1 	                                   198.139.500 	                                            4 	N/A	Bạch Kim	NGUYỄN THỊ MỸ TIÊN	QUẬN 8 - 01
+92500496	PHẠM QUỐC BẢO	21/3/25	4	FC	 	                                 -   	                                   187.609.500 	                                            3 	N/A	Bạch Kim	QUÁCH GIA PHÚ	QUẬN 8 - 01
+92500966	VÕ THỊ HẢI DIỄM	19/5/25	2	UM	 	                                  1 	                                   126.136.500 	                                            4 	N/A	Vàng	VÕ THỊ HẢI DIỄM	BÌNH DƯƠNG 2 - 01
+92501124	NGUYỄN TRỌNG HIẾU	30/5/25	2	FC	 	                                 -   	                                   120.738.000 	                                            4 	N/A	Vàng	VÕ THỊ HẢI DIỄM	BÌNH DƯƠNG 2 - 01
+92500111	VÕ THÀNH HƯNG	20/1/25	6	UM	Vàng	                                  1 	                                   118.448.000 	                                            3 	N/A	Vàng	VÕ THÀNH HƯNG	PHÚ MỸ 1 - 01
+92501007	LÊ THANH BÌNH	23/5/25	2	UM	 	                                  1 	                                   115.434.000 	                                            4 	N/A	Vàng	LÊ THANH BÌNH	BÌNH DƯƠNG 2 - 01
+92501008	LÊ MINH THÚY	24/5/25	2	FC	 	                                 -   	                                   114.916.500 	                                            4 	N/A	Vàng	LÊ THANH BÌNH	BÌNH DƯƠNG 2 - 01
+92500967	LÊ TRỌNG TÌNH	19/5/25	2	FC	 	                                 -   	                                     98.821.500 	                                            4 	N/A	Vàng	LÊ THANH BÌNH	BÌNH DƯƠNG 2 - 01
+92500968	NGUYỄN THỊ MỶ THY	19/5/25	2	FC	 	                                 -   	                                     83.391.000 	                                            4 	N/A	Vàng	LÊ THANH BÌNH	BÌNH DƯƠNG 2 - 01
+92500965	NGUYỄN HỮU VINH	19/5/25	2	SrDM	 	                                  1 	                                     75.897.000 	                                            4 	N/A	Vàng	NGUYỄN HỮU VINH	BÌNH DƯƠNG 2 - 01
+92500715	LÊ THỊ ANH THƯ	16/4/25	3	FC	 	                                 -   	                                     75.090.000 	                                            3 	N/A	Vàng	BÙI QUANG ÁNH	BÌNH DƯƠNG 1 - 01
+91601775	NGUYỄN THỊ DUNG	1/3/16	112	FC	 	                                  1 	                                     62.092.900 	                                           -   	68,88%	Bạc	ĐẶNG BÁ QUANG	KING DRAGON 00
+92500257	ĐỖ THỊ PHƯỢNG	18/2/25	5	FC	 	                                 -   	                                     55.197.300 	                                            5 	N/A	Bạc	VÕ THÀNH HƯNG	PHÚ MỸ 1 - 01
+92501184	VÕ THỊ CẨM NHUNG	6/6/25	1	UM	 	                                  1 	                                     52.957.500 	                                            4 	N/A	Bạc	VÕ THỊ CẨM NHUNG	BÌNH DƯƠNG 2 - 01
+92501121	PHẠM NGỌC LONG	28/5/25	2	FC	 	                                 -   	                                     46.561.500 	                                            4 	N/A	Bạc	VÕ THỊ HẢI DIỄM	BÌNH DƯƠNG 2 - 01
+92500716	NGUYỄN MỸ HẰNG	16/4/25	3	FC	 	                                 -   	                                     45.177.000 	                                            3 	N/A	Bạc	LÊ THỊ HOÀI NGÂN	BÌNH DƯƠNG 1 - 01
 
-DANH SÁCH THEO DÕI DANH HIỆU MDRT 2026
-92500011	HUỲNH KHANG NINH	FC - QUẬN 8
-92500111	VÕ THÀNH HƯNG	UM - PHÚ MỸ 1
-92500231	NGUYỄN THIÊN LÝ	SrDM - PHÚ MỸ 1 
-92500369	LÊ THỊ HOÀI NGÂN	SrDM - BÌNH DƯƠNG 1
-92500719	NGUYỄN VĂN HÙNG	FC - BÌNH DƯƠNG 1
-92401195	VÕ THỊ TUYẾT HẠNH	DM - SO BIÊN HOÀ
+DANH SÁCH HANWHA MASTER 
+Agent Code	Agent Name	Position	Effective Date of Unit	 FYP
+(x1.5 FYP: ILP2021, UL2020) 	No of New FC active	 No. of Active 
+(included x2 Active in 1st 3 months) 	 No of Hanwha Lead 	K2	  RANK 	District Name
+Mã số TVTC	Tên TVTC	Chức danh	Ngày hiệu lực của Ban	 Tổng FYP 	Số lượng ĐL mới 
+có hoạt động	 Tổng số lượt ĐL có hoạt động 
+(X2 lượt ĐL có hoạt động 
+trong 3 tháng đầu tiên) 	 Số lượng Hanwha Lead 	K2 	 Hạng  	Tên Khu vực KD
+92501007	LÊ THANH BÌNH	UM	23/5/25	                                548.523.000 	                                           10 	                                                               28 	                                                3 	N/A	Bạch Kim	BÌNH DƯƠNG 2 - 01
+92403086	BÙI QUANG ÁNH	UM	1/4/25	                                398.423.600 	                                             5 	                                                               14 	                                                2 	N/A	Vàng	BÌNH DƯƠNG 1 - 01
+92500369	LÊ THỊ HOÀI NGÂN	SrDM	27/2/25	                                389.541.450 	                                             1 	                                                                 8 	                                                1 	N/A	Bạc	BÌNH DƯƠNG 1 - 01
+92500966	VÕ THỊ HẢI DIỄM	UM	19/5/25	                                339.928.500 	                                             5 	                                                               16 	                                                2 	N/A	Vàng	BÌNH DƯƠNG 2 - 01
+92500231	NGUYỄN THIÊN LÝ	SrDM	14/2/25	                                328.456.000 	                                             2 	                                                               12 	                                               -   	N/A	Vàng	PHÚ MỸ 1 - 01
+92500012	NGUYỄN THỊ MỸ TIÊN	UM	1/4/25	                                310.965.000 	                                             3 	                                                               11 	                                               -   	N/A	Vàng	QUẬN 8 - 01
+92500009	QUÁCH GIA PHÚ	UM	3/1/25	                                270.427.500 	                                             2 	                                                               12 	                                                1 	N/A	Vàng	QUẬN 8 - 01
+92500007	LÊ MINH TRÍ	UM	3/1/25	                                222.232.500 	                                             3 	                                                               12 	                                                1 	N/A	Bạc	QUẬN 8 - 01
+92500111	VÕ THÀNH HƯNG	UM	20/1/25	                                190.196.300 	                                             1 	                                                                 7 	                                                1 	N/A	Bạc	PHÚ MỸ 1 - 01
+
 
 Danh hiệu MDRT: ĐIỀU KIỆN DOANH SỐ HOẶC THU NHẬP VÀ TỶ LỆ K2 TỪ TRÊN 65%
 MDRT: DOANH SỐ 933.604.600 FYP THƯỞNG 30 TRIỆU VÀ THƯỞNG THEO TIẾN ĐỘ VÀ CÁC KHOẢN THƯỞNG KHÁC
